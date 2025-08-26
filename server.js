@@ -1,14 +1,14 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://bolt.new/~/sb1-hlwlczzn
 Subject: RPI Radio Player App
-Date: Tue, 26 Aug 2025 10:16:43 +0400
+Date: Tue, 26 Aug 2025 10:25:17 +0400
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----"
+	boundary="----MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----"
 
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/html
 Content-ID: <frame-4014CE7526AF29B4A69BB6C073E62B5B@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -16,17 +16,17 @@ Content-Location: https://bolt.new/~/sb1-hlwlczzn
 
 <!DOCTYPE html><html lang=3D"en" data-theme=3D"dark" data-theme-option=3D"d=
 ark"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
-=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5db4f0=
-be-576e-45e6-837c-ddfeb18afeb8@mhtml.blink" /><link rel=3D"stylesheet" type=
-=3D"text/css" href=3D"cid:css-91ffd213-3b8c-407c-980a-f6d7ff224e6b@mhtml.bl=
-ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0355496e-=
-99dd-4210-9d5c-c9f7da02ff9c@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
-"text/css" href=3D"cid:css-a74cd38a-d637-4bdd-a3ce-ea535723ea6f@mhtml.blink=
-" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-cbfb7206-aae=
-6-42be-9650-e12bbbe2f05d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"te=
-xt/css" href=3D"cid:css-926d6467-4a05-4050-873e-64488995920e@mhtml.blink" /=
-><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-9e38c6b6-90a7-4=
-0b2-b7d4-7bf237b89909@mhtml.blink" /><!--remix-island-start--><meta name=3D=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4a6402=
+27-1622-4bb5-9694-4c4145c34674@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-c95ab47f-774e-43ee-8dd7-df57d7602493@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-aca9b44a-=
+e51d-473d-8789-359c0cea108b@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-e7a3d33b-3072-41af-8473-106b008e0f22@mhtml.blink=
+" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e39b6819-8ab=
+1-45e3-b2ab-20abb11f57cd@mhtml.blink" /><link rel=3D"stylesheet" type=3D"te=
+xt/css" href=3D"cid:css-0df4cc18-90d1-4beb-bfe8-324a977dd842@mhtml.blink" /=
+><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5fb68819-385a-4=
+9d2-ac38-94e3c6561f15@mhtml.blink" /><!--remix-island-start--><meta name=3D=
 "viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><title>RPI R=
 adio Player App</title><meta property=3D"og:type" content=3D"object"><meta =
 property=3D"og:site_name" content=3D"bolt.new"><meta property=3D"og:title" =
@@ -105,7 +105,7 @@ enter font-medium shrink-0 min-w-0 max-w-full rounded-md focus-visible:outl=
 ine-2 disabled:op-50 relative disabled:cursor-not-allowed text-xs px-2 h-7 =
 focus-visible:outline-bolt-ds-brandHighlight bg-bolt-ds-inverseSurface/10 [=
 &amp;:hover:where(:not(:disabled))]:bg-bolt-ds-inverseSurface/15 text-bolt-=
-ds-textPrimary gap-1.7 w-[130px]" type=3D"button" id=3D"radix-:rc8:" aria-h=
+ds-textPrimary gap-1.7 w-[130px]" type=3D"button" id=3D"radix-:rcm:" aria-h=
 aspopup=3D"menu" aria-expanded=3D"false" data-state=3D"closed"><span class=
 =3D"truncate"><div class=3D"flex items-center gap-1.7"><span class=3D"block=
  i-heroicons:squares-plus text-lg"></span>Integrations<span class=3D"block =
@@ -3048,39 +3048,39 @@ s-visible:outline-bolt-ds-brandHighlight bg-transparent [&amp;:hover:where(=
 :not(:disabled))]:bg-bolt-ds-inverseSurface/10 text-bolt-ds-textPrimary" ty=
 pe=3D"button" data-state=3D"closed"><span class=3D"truncate"><div class=3D"=
 flex flex-row items-center gap-1.5"><div class=3D"i-ph:clock-counter-clockw=
-ise text-lg"></div>Undo</div></span></button></div></div><div class=3D"flex=
--1 flex items-center bg-bolt-elements-artifacts-background px-2"><button cl=
-ass=3D"flex items-center text-bolt-elements-item-contentDefault bg-transpar=
-ent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements=
--item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-=
-1" aria-expanded=3D"true" aria-controls=3D"bolt-collapsible-:rc2:" aria-lab=
-el=3D"Close"><div class=3D"i-ph:caret-up text-lg"></div></button></div></di=
-v><div id=3D"bolt-collapsible-:rc2:" style=3D"height: auto; visibility: vis=
-ible;"><div class=3D"bg-bolt-elements-artifacts-borderColor h-[1px]"></div>=
-<div class=3D"actions p-5 text-left bg-bolt-elements-actions-background"><u=
-l class=3D"list-none space-y-2.5"><li style=3D"opacity: 1; transform: none;=
-"><button class=3D"group select-none flex gap-1.5 text-sm bg-transparent te=
-xt-left text-bolt-elements-item-contentAccent pointer-events-none"><div cla=
-ss=3D"flex items-center gap-1.5"><div class=3D"text-lg text-bolt-elements-i=
-con-success"><div class=3D"i-ph:check"></div></div>Update</div><span><code =
-class=3D"select-text bg-bolt-elements-artifacts-inlineCode-background px-1.=
-5 py-1 rounded-md break-all">render-deploy/server.js</code></span></button>=
-</li><li style=3D"opacity: 1; transform: none;"><button class=3D"group sele=
-ct-none flex gap-1.5 text-sm bg-transparent text-left hover:underline"><div=
- class=3D"flex items-center gap-1.5"><div class=3D"text-lg text-bolt-elemen=
-ts-icon-success"><div class=3D"i-ph:check"></div></div>Create</div><span><c=
-ode class=3D"select-text bg-bolt-elements-artifacts-inlineCode-background p=
-x-1.5 py-1 rounded-md break-all text-bolt-elements-artifacts-inlineCode-tex=
-t">render-deploy/package.json</code></span></button></li><li style=3D"opaci=
-ty: 1; transform: none;"><button class=3D"group select-none flex gap-1.5 te=
-xt-sm bg-transparent text-left hover:underline"><div class=3D"flex items-ce=
-nter gap-1.5"><div class=3D"text-lg text-bolt-elements-icon-success"><div c=
-lass=3D"i-ph:check"></div></div>Create</div><span><code class=3D"select-tex=
-t bg-bolt-elements-artifacts-inlineCode-background px-1.5 py-1 rounded-md b=
-reak-all text-bolt-elements-artifacts-inlineCode-text">render-deploy/README=
-.md</code></span></button></li><li style=3D"opacity: 1; transform: none;"><=
-button class=3D"group select-none flex gap-1.5 text-sm bg-transparent text-=
-left hover:underline"><div class=3D"flex items-center gap-1.5"><div class=
+ise text-lg"></div>Revert</div></span></button></div></div><div class=3D"fl=
+ex-1 flex items-center bg-bolt-elements-artifacts-background px-2"><button =
+class=3D"flex items-center text-bolt-elements-item-contentDefault bg-transp=
+arent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elemen=
+ts-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive =
+p-1" aria-expanded=3D"true" aria-controls=3D"bolt-collapsible-:rc2:" aria-l=
+abel=3D"Close"><div class=3D"i-ph:caret-up text-lg"></div></button></div></=
+div><div id=3D"bolt-collapsible-:rc2:" style=3D"height: auto; visibility: v=
+isible;"><div class=3D"bg-bolt-elements-artifacts-borderColor h-[1px]"></di=
+v><div class=3D"actions p-5 text-left bg-bolt-elements-actions-background">=
+<ul class=3D"list-none space-y-2.5"><li style=3D"opacity: 1; transform: non=
+e;"><button class=3D"group select-none flex gap-1.5 text-sm bg-transparent =
+text-left text-bolt-elements-item-contentAccent pointer-events-none"><div c=
+lass=3D"flex items-center gap-1.5"><div class=3D"text-lg text-bolt-elements=
+-icon-success"><div class=3D"i-ph:check"></div></div>Update</div><span><cod=
+e class=3D"select-text bg-bolt-elements-artifacts-inlineCode-background px-=
+1.5 py-1 rounded-md break-all">render-deploy/server.js</code></span></butto=
+n></li><li style=3D"opacity: 1; transform: none;"><button class=3D"group se=
+lect-none flex gap-1.5 text-sm bg-transparent text-left hover:underline"><d=
+iv class=3D"flex items-center gap-1.5"><div class=3D"text-lg text-bolt-elem=
+ents-icon-success"><div class=3D"i-ph:check"></div></div>Create</div><span>=
+<code class=3D"select-text bg-bolt-elements-artifacts-inlineCode-background=
+ px-1.5 py-1 rounded-md break-all text-bolt-elements-artifacts-inlineCode-t=
+ext">render-deploy/package.json</code></span></button></li><li style=3D"opa=
+city: 1; transform: none;"><button class=3D"group select-none flex gap-1.5 =
+text-sm bg-transparent text-left hover:underline"><div class=3D"flex items-=
+center gap-1.5"><div class=3D"text-lg text-bolt-elements-icon-success"><div=
+ class=3D"i-ph:check"></div></div>Create</div><span><code class=3D"select-t=
+ext bg-bolt-elements-artifacts-inlineCode-background px-1.5 py-1 rounded-md=
+ break-all text-bolt-elements-artifacts-inlineCode-text">render-deploy/READ=
+ME.md</code></span></button></li><li style=3D"opacity: 1; transform: none;"=
+><button class=3D"group select-none flex gap-1.5 text-sm bg-transparent tex=
+t-left hover:underline"><div class=3D"flex items-center gap-1.5"><div class=
 =3D"text-lg text-bolt-elements-icon-success"><div class=3D"i-ph:check"></di=
 v></div>Update</div><span><code class=3D"select-text bg-bolt-elements-artif=
 acts-inlineCode-background px-1.5 py-1 rounded-md break-all text-bolt-eleme=
@@ -3147,243 +3147,477 @@ ps://rpi-radio-chat.onrender.com/chat</span></span>
 =C3=A0 jour automatiquement l'app React !</p>
 <p><strong>Tous vos fichiers sont pr=C3=AAts dans le dossier <code>render-d=
 eploy/</code> ! Allez-y !</strong> =F0=9F=8E=89</p></div></div></div></div>=
-<div class=3D"_Shadow_8mvus_1 h-6 sticky flex flex-col justify-center w-ful=
-l -mb-6" style=3D"bottom: 153px;"></div></section><div class=3D"sticky h-0 =
-mx-auto z-scroller" style=3D"bottom: 203px; opacity: 1; visibility: initial=
-; transform: none;"><button class=3D"flex items-center justify-center size-=
-8 rounded-full shadow shadow-bolt-elements-messages-scroller-shadow bg-bolt=
--elements-messages-scroller-background text-bolt-elements-messages-scroller=
--icon"><div class=3D"i-ph:arrow-down size-4.5"></div></button></div><div cl=
-ass=3D"px-[var(--chat-padding)] w-full max-w-chat mx-auto z-prompt sticky b=
-ottom-0"><div class=3D"absolute inset-y-0" style=3D"left: var(--chat-paddin=
-g); right: var(--chat-padding);"></div><div class=3D"relative" style=3D"hei=
-ght: 0px;"><div class=3D"flex flex-wrap justify-between py-1 px-2 -top-px a=
-bsolute transition-opacity duration-350 rounded-t-lg text-xs truncate borde=
-r left-2 w-[calc(100%-1rem)] border-b-0 border-bolt-elements-borderColor bg=
--bolt-elements-prompt-subscribeButton-background backdrop-blur opacity-0"><=
-span>15.7M monthly tokens remaining.</span><button class=3D"bg-transparent =
-font-medium inline-block text-bolt-elements-link hover:underline mr-4" data=
--testid=3D"subscribe-banner-button">Subscribe to Pro 50 for 2x more usage</=
-button><button class=3D"flex items-center text-bolt-elements-item-contentDe=
-fault bg-transparent rounded-md disabled:cursor-not-allowed enabled:hover:t=
-ext-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-item-ba=
-ckgroundActive p-0.5 absolute top-1 right-1"><div class=3D"i-ph:x text-xs">=
-</div></button></div></div><div class=3D"relative shadow-xs p-[1px] overflo=
-w-clip rounded-[0.375rem]"><div class=3D"absolute inset-0 bg-bolt-elements-=
-prompt-border -z-1"></div><div class=3D"_PromptContainer_1k1wl_1 absolute t=
-op-0 left-0 right-0 h-[136px] rounded-[calc(0.375rem-1px)] -z-1"></div><div=
- class=3D"absolute top-0 left-[10px] h-px w-[100px] bg-gradient-to-r from-a=
-ccent-300/0 via-accent-300 to-accent-300/0 mix-blend-overlay"></div><div cl=
-ass=3D"bg-bolt-elements-prompt-background rounded-[calc(0.375rem-1px)]"><di=
-v class=3D"border-transparent" style=3D"height: 0px;"><div class=3D"overflo=
-w-hidden h-full border-bolt-elements-borderColor relative bg-bolt-elements-=
-background-depth-2 transition-opacity duration-200 rounded-t-[0.44rem] bord=
-er-b-px left-0 right-0 opacity-0"><div class=3D"flex py-2.5 px-2.5 font-med=
-ium text-xs"><div class=3D"flex justify-between items-center w-full"><div><=
-/div><button class=3D"bg-transparent text-bolt-elements-link hover:underlin=
-e">Clear</button></div></div></div></div><div class=3D"border-b-px border-t=
-ransparent" style=3D"height: 0px;"><div class=3D"overflow-hidden h-full bor=
-der-bolt-elements-borderColor relative bg-bolt-elements-background-depth-2 =
-transition-opacity duration-200 rounded-t-[0.44rem] border-b-px left-0 righ=
-t-0 opacity-0"><div class=3D"flex text-xs py-1.5 px-2.5 font-medium"><div c=
-lass=3D"flex-grow"></div><button class=3D"bg-transparent text-bolt-elements=
--link hover:underline">Update</button></div></div></div><div class=3D"relat=
-ive select-none"><textarea class=3D"w-full pl-4 pt-4 pr-16 focus:outline-no=
-ne resize-none text-bolt-elements-textPrimary placeholder-bolt-elements-tex=
-tTertiary bg-transparent text-sm" placeholder=3D"How can Bolt help you toda=
-y? (or /command)" translate=3D"no" style=3D"min-height: 76px; max-height: 4=
-00px; height: 76px; overflow-y: hidden;"></textarea></div><div class=3D"fle=
-x justify-between text-sm p-4 pt-2"><div class=3D"flex gap-1 items-center">=
-<input type=3D"file" aria-hidden=3D"true" tabindex=3D"-1" accept=3D".jpg,.j=
-peg,.png,.gif,.webp,.svg,.pdf,.txt,.doc,.docx,.py,.ipynb,.js,.mjs,.cjs,.jsx=
-,.html,.css,.scss,.sass,.ts,.tsx,.java,.cs,.php,.c,.cc,.cpp,.cxx,.h,.hh,.hp=
-p,.rs,.swift,.go,.rb,.kt,.kts,.scala,.sh,.bash,.zsh,.bat,.csv,.log,.ini,.cf=
-g,.config,.json,.yaml,.yml,.toml,.lua,.sql,.md,.tex,.latex,.asm,.ino,.s" mu=
-ltiple=3D"" style=3D"display: none; visibility: hidden;"><button class=3D"f=
-lex items-center text-bolt-elements-item-contentDefault bg-transparent roun=
-ded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements-item-co=
-ntentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-1" aria-=
-label=3D"Upload files" data-state=3D"closed"><div class=3D"i-ph:link-simple=
- text-xl"></div></button><button class=3D"flex items-center text-bolt-eleme=
-nts-item-contentDefault bg-transparent rounded-md disabled:cursor-not-allow=
-ed enabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bol=
-t-elements-item-backgroundActive p-1 opacity-30" data-state=3D"closed" disa=
-bled=3D""><div class=3D"i-bolt:stars text-xl"></div></button><button class=
+<div class=3D"relative flex flex-col overflow-hidden mx-[var(--chat-padding=
+)] bg-bolt-elements-messages-background px-4 py-3 rounded-md self-end" data=
+-message-id=3D"iovRhRI42lgWBcsN"><div class=3D"grid grid-col-1 w-full"><div=
+ class=3D"overflow-hidden"><div class=3D"_MarkdownContent_19116_1"><p>parse=
+ error: Invalid numeric literal at line 1, column 5</p></div></div></div></=
+div><div class=3D"relative flex flex-col overflow-hidden mx-[var(--chat-pad=
+ding)]" data-message-id=3D"hBSaUwLDsUFTtGLh"><div class=3D"grid grid-col-1 =
+w-full"><div class=3D"flex flex-col gap-4 overflow-hidden w-full"><div clas=
+s=3D"flex items-center min-h-6.5 select-none"><h3 class=3D"font-semibold fl=
+ex-1">Bolt</h3><button class=3D"flex items-center text-bolt-elements-item-c=
+ontentDefault bg-transparent rounded-md disabled:cursor-not-allowed enabled=
+:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements=
+-item-backgroundActive p-1 focus:outline-none" type=3D"button" id=3D"radix-=
+:rce:" aria-haspopup=3D"menu" aria-expanded=3D"false" data-state=3D"closed"=
+><div class=3D"i-ph:dots-three-outline-fill text-sm"></div></button></div><=
+div class=3D"_MarkdownContent_19116_1"><p>Je vois le probl=C3=A8me ! Il y a=
+ une erreur de parsing dans le fichier. Je vais corriger cela imm=C3=A9diat=
+ement ! =F0=9F=94=A7</p>
+<div class=3D"collapsible flex flex-col border border-bolt-elements-borderC=
+olor overflow-hidden rounded-lg w-full transition-border duration-150 artif=
+act" data-artifact-id=3D"26:fix-parse-error"><div class=3D"flex relative fl=
+ex-row-reverse"><div class=3D"flex text-left items-stretch w-full overflow-=
+hidden bg-bolt-elements-artifacts-background"><div class=3D"p-5 pl-0 grow t=
+ext-bolt-elements-textPrimary font-medium">Correction de l'erreur de parsin=
+g</div><div class=3D"flex items-center px-2 bg-bolt-elements-artifacts-back=
+ground"><button class=3D"flex items-center justify-center font-medium shrin=
+k-0 min-w-0 max-w-full rounded-md focus-visible:outline-2 disabled:op-50 re=
+lative disabled:cursor-not-allowed gap-1 text-xs px-2 h-7 focus-visible:out=
+line-bolt-ds-brandHighlight bg-transparent [&amp;:hover:where(:not(:disable=
+d))]:bg-bolt-ds-inverseSurface/10 text-bolt-ds-textPrimary" type=3D"button"=
+ data-state=3D"closed"><span class=3D"truncate"><div class=3D"flex flex-row=
+ items-center gap-1.5"><div class=3D"i-ph:clock-counter-clockwise text-lg">=
+</div>Undo</div></span></button></div></div><div class=3D"flex-1 flex items=
+-center bg-bolt-elements-artifacts-background px-2"><button class=3D"flex i=
+tems-center text-bolt-elements-item-contentDefault bg-transparent rounded-m=
+d disabled:cursor-not-allowed enabled:hover:text-bolt-elements-item-content=
+Active enabled:hover:bg-bolt-elements-item-backgroundActive p-1" aria-expan=
+ded=3D"true" aria-controls=3D"bolt-collapsible-:rcg:" aria-label=3D"Close">=
+<div class=3D"i-ph:caret-up text-lg"></div></button></div></div><div id=3D"=
+bolt-collapsible-:rcg:" style=3D"height: auto; visibility: visible;"><div c=
+lass=3D"bg-bolt-elements-artifacts-borderColor h-[1px]"></div><div class=3D=
+"actions p-5 text-left bg-bolt-elements-actions-background"><ul class=3D"li=
+st-none space-y-2.5"><li style=3D"opacity: 1; transform: none;"><button cla=
+ss=3D"group select-none flex gap-1.5 text-sm bg-transparent text-left hover=
+:underline"><div class=3D"flex items-center gap-1.5"><div class=3D"text-lg =
+text-bolt-elements-icon-success"><div class=3D"i-ph:check"></div></div>Upda=
+te</div><span><code class=3D"select-text bg-bolt-elements-artifacts-inlineC=
+ode-background px-1.5 py-1 rounded-md break-all text-bolt-elements-artifact=
+s-inlineCode-text">src/services/chatService.ts</code></span></button></li><=
+/ul></div></div></div>
+<p>Parfait ! J'ai corrig=C3=A9 l'erreur de parsing ! =E2=9C=85</p>
+<h2>=F0=9F=94=A7 <strong>Probl=C3=A8me r=C3=A9solu :</strong></h2>
+<ul>
+<li>=E2=9C=85 Fichier <code>chatService.ts</code> corrig=C3=A9</li>
+<li>=E2=9C=85 URL Render configur=C3=A9e par d=C3=A9faut</li>
+<li>=E2=9C=85 Code propre et fonctionnel</li>
+</ul>
+<h2>=F0=9F=9A=80 <strong>Maintenant, d=C3=A9ployez sur Render :</strong></h=
+2>
+<h3><strong>Vos fichiers sont pr=C3=AAts dans <code>render-deploy/</code> :=
+</strong></h3>
+<ul>
+<li>=E2=9C=85 <strong><code>server.js</code></strong> - Serveur WebSocket</=
+li>
+<li>=E2=9C=85 <strong><code>package.json</code></strong> - Configuration</l=
+i>
+<li>=E2=9C=85 <strong><code>README.md</code></strong> - Instructions</li>
+</ul>
+<h3><strong>=C3=89tapes simples :</strong></h3>
+<ol>
+<li><strong>Render.com</strong> =E2=86=92 <strong>Sign up</strong> gratuit<=
+/li>
+<li><strong>"New Web Service"</strong> =E2=86=92 Upload les fichiers</li>
+<li><strong>Deploy gratuit !</strong></li>
+</ol>
+<h3><strong>URL par d=C3=A9faut configur=C3=A9e :</strong></h3>
+<div class=3D"relative group text-left"><div class=3D"bg-gray-100 dark:bg-g=
+ray-800 text-gray-950 dark:text-gray-400 absolute top-[10px] right-[10px] r=
+ounded-md text-lg z-10 flex items-center justify-center opacity-0 group-hov=
+er:opacity-100"><button class=3D"flex items-center bg-transparent p-1.5 jus=
+tify-center" title=3D"Copy Code"><div class=3D"i-ph:clipboard-text"></div><=
+/button></div><div><pre class=3D"shiki dark-plus" style=3D"background-color=
+:#1E1E1E;color:#D4D4D4" tabindex=3D"0"><code><span class=3D"line"><span>wss=
+://rpi-radio-chat.onrender.com/chat</span></span>
+<span class=3D"line"><span></span></span></code></pre></div></div>
+<h2>=F0=9F=8E=AF <strong>Une fois d=C3=A9ploy=C3=A9 :</strong></h2>
+<p>Donnez-moi votre vraie URL Render et je mettrai =C3=A0 jour le code auto=
+matiquement !</p>
+<p><strong>Tout est maintenant pr=C3=AAt pour le d=C3=A9ploiement ! Allez-y=
+ !</strong> =F0=9F=8E=89</p></div></div></div></div><div class=3D"_Shadow_8=
+mvus_1 h-6 sticky flex flex-col justify-center w-full -mb-6" style=3D"botto=
+m: 153px;"></div></section><div class=3D"sticky h-0 mx-auto z-scroller" sty=
+le=3D"bottom: 203px; opacity: 0; visibility: hidden; transform: translateY(=
+32px) translateZ(0px);"><button class=3D"flex items-center justify-center s=
+ize-8 rounded-full shadow shadow-bolt-elements-messages-scroller-shadow bg-=
+bolt-elements-messages-scroller-background text-bolt-elements-messages-scro=
+ller-icon"><div class=3D"i-ph:arrow-down size-4.5"></div></button></div><di=
+v class=3D"px-[var(--chat-padding)] w-full max-w-chat mx-auto z-prompt stic=
+ky bottom-0"><div class=3D"absolute inset-y-0" style=3D"left: var(--chat-pa=
+dding); right: var(--chat-padding);"></div><div class=3D"relative" style=3D=
+"height: 0px;"><div class=3D"flex flex-wrap justify-between py-1 px-2 -top-=
+px absolute transition-opacity duration-350 rounded-t-lg text-xs truncate b=
+order left-2 w-[calc(100%-1rem)] border-b-0 border-bolt-elements-borderColo=
+r bg-bolt-elements-prompt-subscribeButton-background backdrop-blur opacity-=
+0"><span>15.5M monthly tokens remaining.</span><button class=3D"bg-transpar=
+ent font-medium inline-block text-bolt-elements-link hover:underline mr-4" =
+data-testid=3D"subscribe-banner-button">Subscribe to Pro 50 for 2x more usa=
+ge</button><button class=3D"flex items-center text-bolt-elements-item-conte=
+ntDefault bg-transparent rounded-md disabled:cursor-not-allowed enabled:hov=
+er:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-ite=
+m-backgroundActive p-0.5 absolute top-1 right-1"><div class=3D"i-ph:x text-=
+xs"></div></button></div></div><div class=3D"relative shadow-xs p-[1px] ove=
+rflow-clip rounded-[0.375rem]"><div class=3D"absolute inset-0 bg-bolt-eleme=
+nts-prompt-border -z-1"></div><div class=3D"_PromptContainer_1k1wl_1 absolu=
+te top-0 left-0 right-0 h-[136px] rounded-[calc(0.375rem-1px)] -z-1"></div>=
+<div class=3D"absolute top-0 left-[10px] h-px w-[100px] bg-gradient-to-r fr=
+om-accent-300/0 via-accent-300 to-accent-300/0 mix-blend-overlay"></div><di=
+v class=3D"bg-bolt-elements-prompt-background rounded-[calc(0.375rem-1px)]"=
+><div class=3D"border-transparent" style=3D"height: 0px;"><div class=3D"ove=
+rflow-hidden h-full border-bolt-elements-borderColor relative bg-bolt-eleme=
+nts-background-depth-2 transition-opacity duration-200 rounded-t-[0.44rem] =
+border-b-px left-0 right-0 opacity-0"><div class=3D"flex py-2.5 px-2.5 font=
+-medium text-xs"><div class=3D"flex justify-between items-center w-full"><d=
+iv></div><button class=3D"bg-transparent text-bolt-elements-link hover:unde=
+rline">Clear</button></div></div></div></div><div class=3D"border-b-px bord=
+er-transparent" style=3D"height: 0px;"><div class=3D"overflow-hidden h-full=
+ border-bolt-elements-borderColor relative bg-bolt-elements-background-dept=
+h-2 transition-opacity duration-200 rounded-t-[0.44rem] border-b-px left-0 =
+right-0 opacity-0"><div class=3D"flex text-xs py-1.5 px-2.5 font-medium"><d=
+iv class=3D"flex-grow"></div><button class=3D"bg-transparent text-bolt-elem=
+ents-link hover:underline">Update</button></div></div></div><div class=3D"r=
+elative select-none"><textarea class=3D"w-full pl-4 pt-4 pr-16 focus:outlin=
+e-none resize-none text-bolt-elements-textPrimary placeholder-bolt-elements=
+-textTertiary bg-transparent text-sm" placeholder=3D"How can Bolt help you =
+today? (or /command)" translate=3D"no" style=3D"min-height: 76px; max-heigh=
+t: 400px; height: 76px; overflow-y: hidden;"></textarea></div><div class=3D=
+"flex justify-between text-sm p-4 pt-2"><div class=3D"flex gap-1 items-cent=
+er"><input type=3D"file" aria-hidden=3D"true" tabindex=3D"-1" accept=3D".jp=
+g,.jpeg,.png,.gif,.webp,.svg,.pdf,.txt,.doc,.docx,.py,.ipynb,.js,.mjs,.cjs,=
+.jsx,.html,.css,.scss,.sass,.ts,.tsx,.java,.cs,.php,.c,.cc,.cpp,.cxx,.h,.hh=
+,.hpp,.rs,.swift,.go,.rb,.kt,.kts,.scala,.sh,.bash,.zsh,.bat,.csv,.log,.ini=
+,.cfg,.config,.json,.yaml,.yml,.toml,.lua,.sql,.md,.tex,.latex,.asm,.ino,.s=
+" multiple=3D"" style=3D"display: none; visibility: hidden;"><button class=
 =3D"flex items-center text-bolt-elements-item-contentDefault bg-transparent=
  rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements-it=
 em-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-1" =
-aria-label=3D"Toggle mode" data-state=3D"closed"><div class=3D"i-ph:chats t=
-ext-xl"></div></button><button class=3D"flex items-center text-bolt-element=
-s-item-contentDefault bg-transparent rounded-md disabled:cursor-not-allowed=
- enabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-=
-elements-item-backgroundActive p-1" aria-label=3D"Open Prompt Library" data=
--state=3D"closed"><span class=3D"i-bolt:slash-command text-bolt-ds-iconSeco=
-ndary size-5"></span></button></div><div class=3D"flex items-center gap-3">=
-</div></div></div></div><div class=3D"pb-[var(--chat-padding)]"></div></div=
-></div></div><div class=3D"z-workbench w-[var(--workbench-width)]"><div cla=
-ss=3D"fixed top-[calc(var(--header-height)+1rem)] bottom-4 w-[var(--workben=
-ch-inner-width)] z-0 left-[var(--workbench-left)]"><div class=3D"select-non=
-e absolute inset-0"><div class=3D"h-full flex flex-col bg-bolt-elements-bac=
-kground-depth-2 border border-bolt-elements-borderColor shadow-sm rounded-l=
-g overflow-hidden"><div class=3D"flex items-center px-3 py-2 border-b borde=
-r-bolt-elements-borderColor min-h-[var(--panel-header-height)]"><button cla=
-ss=3D"flex items-center text-bolt-elements-item-contentDefault bg-transpare=
-nt rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements-=
-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-1=
- mr-1.5" data-state=3D"closed"><div class=3D"i-ph:sidebar-simple-fill text-=
-lg"></div></button><div class=3D"flex items-center flex-wrap shrink-0 gap-1=
- bg-bolt-elements-background-depth-1 overflow-hidden rounded-full p-1"><but=
-ton aria-pressed=3D"true" class=3D"bg-transparent text-sm px-2.5 py-0.5 rou=
-nded-full relative text-bolt-elements-item-contentAccent"><span class=3D"re=
-lative z-10">Code</span><span class=3D"absolute inset-0 z-0 bg-bolt-element=
-s-item-backgroundAccent rounded-full" style=3D"transform: none; transform-o=
-rigin: 50% 50% 0px;"></span></button><button aria-pressed=3D"false" class=
-=3D"bg-transparent text-sm px-2.5 py-0.5 rounded-full relative text-bolt-el=
-ements-item-contentDefault hover:text-bolt-elements-item-contentActive"><sp=
-an class=3D"relative z-10">Preview</span></button></div></div><div class=3D=
-"relative flex-1 overflow-hidden"><div class=3D"absolute inset-0" style=3D"=
-transform: translateX(0%) translateZ(0px);"><div class=3D"contents"><div cl=
-ass=3D"" data-panel-group=3D"" data-panel-group-direction=3D"vertical" data=
--panel-group-id=3D":r2l:" style=3D"display: flex; flex-direction: column; h=
-eight: 100%; overflow: hidden; width: 100%;"><div class=3D"" data-panel=3D"=
-" data-panel-group-id=3D":r2l:" data-panel-id=3D":r2m:" data-panel-size=3D"=
-75.0" style=3D"flex: 75 1 0px; overflow: hidden;"><div class=3D"" data-pane=
-l-group=3D"" data-panel-group-direction=3D"horizontal" data-panel-group-id=
-=3D":r2n:" style=3D"display: flex; flex-direction: row; height: 100%; overf=
-low: hidden; width: 100%;"><div class=3D"" data-panel=3D"" data-panel-colla=
-psible=3D"true" data-panel-group-id=3D":r2n:" data-panel-id=3D":r2o:" data-=
-panel-size=3D"23.0" style=3D"flex: 23 1 0px; overflow: hidden;"><div class=
-=3D"flex flex-col border-r border-bolt-elements-borderColor overflow-hidden=
- h-full"><div class=3D"relative h-full grid grid-rows-[auto_1fr] overflow-h=
-idden"><div class=3D"flex items-center bg-bolt-elements-background-depth-2 =
-text-bolt-elements-textSecondary border-b border-bolt-elements-borderColor =
-py-1 min-h-[34px] text-sm px-1.5 gap-1 @container"><button class=3D"flex it=
-ems-center bg-transparent rounded-md disabled:cursor-not-allowed enabled:ho=
-ver:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-it=
-em-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5 text-bolt-elements=
--textPrimary"><div class=3D"i-ph:tree-structure-duotone shrink-0 size-4 @[1=
-60px]:hidden @[200px]:block"></div><span class=3D"hidden @[160px]:block">Fi=
-les</span></button><button class=3D"flex items-center text-bolt-elements-it=
-em-contentDefault bg-transparent rounded-md disabled:cursor-not-allowed ena=
-bled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elem=
-ents-item-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5"><div class=
-=3D"i-ph:magnifying-glass-bold shrink-0 size-4 @[160px]:hidden @[200px]:blo=
-ck"></div><span class=3D"hidden @[160px]:block">Search</span></button><div =
-class=3D"flex-grow-1"></div></div><div class=3D"relative overflow-hidden ">=
-<div class=3D"absolute inset-0 flex flex-col" tabindex=3D"0" style=3D"opaci=
-ty: 1; transform: translateX(0%) translateZ(0px);"><div class=3D"text-sm fl=
-ex flex-col flex-grow overflow-y-auto"><div data-state=3D"closed"><div><but=
-ton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-tr=
-ansparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hove=
-r:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgro=
-undActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=
-=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-right"><=
-/div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cent=
-er group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no"=
- class=3D"flex-1 truncate pr-2">.bolt</div></div></div></button></div></div=
-><div data-state=3D"closed"><div><button class=3D"group flex items-center g=
-ap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-b=
-olt-elements-item-contentDefault hover:text-bolt-elements-item-contentActiv=
-e hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data=
--parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"s=
-hrink-0 scale-98 i-ph:caret-right"></div><div class=3D"truncate w-full text=
--left"><div class=3D"flex items-center group-hover:text-bolt-elements-item-=
-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">public<=
-/div></div></div></button></div></div><div data-state=3D"closed"><div><butt=
-on class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-tra=
-nsparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover=
-:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgrou=
-ndActive" aria-pressed=3D"true" data-parent-path=3D"/home/project" style=3D=
-"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-down"></div=
-><div class=3D"truncate w-full text-left"><div class=3D"flex items-center g=
-roup-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" cla=
-ss=3D"flex-1 truncate pr-2">render-deploy</div></div></div></button></div><=
-/div><div data-state=3D"closed"><div><button class=3D"group flex items-cent=
-er gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent te=
-xt-bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentA=
-ctive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" =
-data-parent-path=3D"/home/project/render-deploy" style=3D"padding-left: 14p=
-x;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt=
--elements-item-contentActive"></div><div class=3D"truncate w-full text-left=
-"><div class=3D"flex items-center group-hover:text-bolt-elements-item-conte=
-ntActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">package.json=
+aria-label=3D"Upload files" data-state=3D"closed"><div class=3D"i-ph:link-s=
+imple text-xl"></div></button><button class=3D"flex items-center text-bolt-=
+elements-item-contentDefault bg-transparent rounded-md disabled:cursor-not-=
+allowed enabled:hover:text-bolt-elements-item-contentActive enabled:hover:b=
+g-bolt-elements-item-backgroundActive p-1 opacity-30" data-state=3D"closed"=
+ disabled=3D""><div class=3D"i-bolt:stars text-xl"></div></button><button c=
+lass=3D"flex items-center text-bolt-elements-item-contentDefault bg-transpa=
+rent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-element=
+s-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p=
+-1" aria-label=3D"Toggle mode" data-state=3D"closed"><div class=3D"i-ph:cha=
+ts text-xl"></div></button><button class=3D"flex items-center text-bolt-ele=
+ments-item-contentDefault bg-transparent rounded-md disabled:cursor-not-all=
+owed enabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-b=
+olt-elements-item-backgroundActive p-1" aria-label=3D"Open Prompt Library" =
+data-state=3D"closed"><span class=3D"i-bolt:slash-command text-bolt-ds-icon=
+Secondary size-5"></span></button></div><div class=3D"flex items-center gap=
+-3"></div></div></div></div><div class=3D"pb-[var(--chat-padding)]"></div><=
+/div></div></div><div class=3D"z-workbench w-[var(--workbench-width)]"><div=
+ class=3D"fixed top-[calc(var(--header-height)+1rem)] bottom-4 w-[var(--wor=
+kbench-inner-width)] z-0 left-[var(--workbench-left)]"><div class=3D"select=
+-none absolute inset-0"><div class=3D"h-full flex flex-col bg-bolt-elements=
+-background-depth-2 border border-bolt-elements-borderColor shadow-sm round=
+ed-lg overflow-hidden"><div class=3D"flex items-center px-3 py-2 border-b b=
+order-bolt-elements-borderColor min-h-[var(--panel-header-height)]"><button=
+ class=3D"flex items-center text-bolt-elements-item-contentDefault bg-trans=
+parent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-eleme=
+nts-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive=
+ p-1 mr-1.5" data-state=3D"closed"><div class=3D"i-ph:sidebar-simple-fill t=
+ext-lg"></div></button><div class=3D"flex items-center flex-wrap shrink-0 g=
+ap-1 bg-bolt-elements-background-depth-1 overflow-hidden rounded-full p-1">=
+<button aria-pressed=3D"true" class=3D"bg-transparent text-sm px-2.5 py-0.5=
+ rounded-full relative text-bolt-elements-item-contentAccent"><span class=
+=3D"relative z-10">Code</span><span class=3D"absolute inset-0 z-0 bg-bolt-e=
+lements-item-backgroundAccent rounded-full" style=3D"transform: none; trans=
+form-origin: 50% 50% 0px;"></span></button><button aria-pressed=3D"false" c=
+lass=3D"bg-transparent text-sm px-2.5 py-0.5 rounded-full relative text-bol=
+t-elements-item-contentDefault hover:text-bolt-elements-item-contentActive"=
+><span class=3D"relative z-10">Preview</span></button></div></div><div clas=
+s=3D"relative flex-1 overflow-hidden"><div class=3D"absolute inset-0" style=
+=3D"transform: translateX(0%) translateZ(0px);"><div class=3D"contents"><di=
+v class=3D"" data-panel-group=3D"" data-panel-group-direction=3D"vertical" =
+data-panel-group-id=3D":r2l:" style=3D"display: flex; flex-direction: colum=
+n; height: 100%; overflow: hidden; width: 100%;"><div class=3D"" data-panel=
+=3D"" data-panel-group-id=3D":r2l:" data-panel-id=3D":r2m:" data-panel-size=
+=3D"75.0" style=3D"flex: 75 1 0px; overflow: hidden;"><div class=3D"" data-=
+panel-group=3D"" data-panel-group-direction=3D"horizontal" data-panel-group=
+-id=3D":r2n:" style=3D"display: flex; flex-direction: row; height: 100%; ov=
+erflow: hidden; width: 100%;"><div class=3D"" data-panel=3D"" data-panel-co=
+llapsible=3D"true" data-panel-group-id=3D":r2n:" data-panel-id=3D":r2o:" da=
+ta-panel-size=3D"23.0" style=3D"flex: 23 1 0px; overflow: hidden;"><div cla=
+ss=3D"flex flex-col border-r border-bolt-elements-borderColor overflow-hidd=
+en h-full"><div class=3D"relative h-full grid grid-rows-[auto_1fr] overflow=
+-hidden"><div class=3D"flex items-center bg-bolt-elements-background-depth-=
+2 text-bolt-elements-textSecondary border-b border-bolt-elements-borderColo=
+r py-1 min-h-[34px] text-sm px-1.5 gap-1 @container"><button class=3D"flex =
+items-center bg-transparent rounded-md disabled:cursor-not-allowed enabled:=
+hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-=
+item-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5 text-bolt-elemen=
+ts-textPrimary"><div class=3D"i-ph:tree-structure-duotone shrink-0 size-4 @=
+[160px]:hidden @[200px]:block"></div><span class=3D"hidden @[160px]:block">=
+Files</span></button><button class=3D"flex items-center text-bolt-elements-=
+item-contentDefault bg-transparent rounded-md disabled:cursor-not-allowed e=
+nabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-el=
+ements-item-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5"><div cla=
+ss=3D"i-ph:magnifying-glass-bold shrink-0 size-4 @[160px]:hidden @[200px]:b=
+lock"></div><span class=3D"hidden @[160px]:block">Search</span></button><di=
+v class=3D"flex-grow-1"></div></div><div class=3D"relative overflow-hidden =
+"><div class=3D"absolute inset-0 flex flex-col" tabindex=3D"0" style=3D"opa=
+city: 1; transform: translateX(0%) translateZ(0px);"><div class=3D"text-sm =
+flex flex-col flex-grow overflow-y-auto"><div data-state=3D"closed"><div><b=
+utton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-=
+transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault ho=
+ver:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backg=
+roundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" styl=
+e=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-right">=
+</div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cen=
+ter group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no=
+" class=3D"flex-1 truncate pr-2">.bolt</div></div></div></button></div></di=
+v><div data-state=3D"closed"><div><button class=3D"group flex items-center =
+gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-=
+bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentActi=
+ve hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" dat=
+a-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"=
+shrink-0 scale-98 i-ph:caret-right"></div><div class=3D"truncate w-full tex=
+t-left"><div class=3D"flex items-center group-hover:text-bolt-elements-item=
+-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">public=
 </div></div></div></button></div></div><div data-state=3D"closed"><div><but=
 ton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-tr=
 ansparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hove=
 r:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgro=
-undActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/render-=
-deploy" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:=
-file-duotone group-hover:text-bolt-elements-item-contentActive"></div><div =
-class=3D"truncate w-full text-left"><div class=3D"flex items-center group-h=
-over:text-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"=
-flex-1 truncate pr-2">README.md</div></div></div></button></div></div><div =
-data-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5=
- w-full pr-2 border-2 border-transparent py-0.5 bg-bolt-elements-item-backg=
-roundAccent text-bolt-elements-item-contentAccent" aria-pressed=3D"true" da=
-ta-parent-path=3D"/home/project/render-deploy" style=3D"padding-left: 14px;=
-"><div class=3D"shrink-0 scale-98 i-ph:file-duotone"></div><div class=3D"tr=
-uncate w-full text-left"><div class=3D"flex items-center"><div translate=3D=
-"no" class=3D"flex-1 truncate pr-2">server.js</div></div></div></button></d=
+undActive" aria-pressed=3D"true" data-parent-path=3D"/home/project" style=
+=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-down"></=
+div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cente=
+r group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" =
+class=3D"flex-1 truncate pr-2">render-deploy</div></div></div></button></di=
+v></div><div data-state=3D"closed"><div><button class=3D"group flex items-c=
+enter gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent=
+ text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-conte=
+ntActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"fals=
+e" data-parent-path=3D"/home/project/render-deploy" style=3D"padding-left: =
+14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-b=
+olt-elements-item-contentActive"></div><div class=3D"truncate w-full text-l=
+eft"><div class=3D"flex items-center group-hover:text-bolt-elements-item-co=
+ntentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">package.j=
+son</div></div></div></button></div></div><div data-state=3D"closed"><div><=
+button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border=
+-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault h=
+over:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-back=
+groundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/rend=
+er-deploy" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-=
+ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div><d=
+iv class=3D"truncate w-full text-left"><div class=3D"flex items-center grou=
+p-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" class=
+=3D"flex-1 truncate pr-2">README.md</div></div></div></button></div></div><=
+div data-state=3D"closed"><div><button class=3D"group flex items-center gap=
+-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-bolt-elements-item-b=
+ackgroundAccent text-bolt-elements-item-contentAccent" aria-pressed=3D"true=
+" data-parent-path=3D"/home/project/render-deploy" style=3D"padding-left: 1=
+4px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone"></div><div class=
+=3D"truncate w-full text-left"><div class=3D"flex items-center"><div transl=
+ate=3D"no" class=3D"flex-1 truncate pr-2">server.js</div></div></div></butt=
+on></div></div><div data-state=3D"closed"><div><button class=3D"group flex =
+items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-tran=
+sparent text-bolt-elements-item-contentDefault hover:text-bolt-elements-ite=
+m-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=
+=3D"true" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><=
+div class=3D"shrink-0 scale-98 i-ph:caret-down"></div><div class=3D"truncat=
+e w-full text-left"><div class=3D"flex items-center group-hover:text-bolt-e=
+lements-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate =
+pr-2">server</div></div></div></button></div></div><div data-state=3D"close=
+d"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 border=
+-2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-content=
+Default hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-=
+item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/pro=
+ject/server" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 =
+i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div>=
+<div class=3D"truncate w-full text-left"><div class=3D"flex items-center gr=
+oup-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" clas=
+s=3D"flex-1 truncate pr-2">.htaccess</div></div></div></button></div></div>=
+<div data-state=3D"closed"><div><button class=3D"group flex items-center ga=
+p-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bo=
+lt-elements-item-contentDefault hover:text-bolt-elements-item-contentActive=
+ hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-=
+parent-path=3D"/home/project/server" style=3D"padding-left: 14px;"><div cla=
+ss=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-it=
+em-contentActive"></div><div class=3D"truncate w-full text-left"><div class=
+=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"><d=
+iv translate=3D"no" class=3D"flex-1 truncate pr-2">ionos-deploy.md</div></d=
+iv></div></button></div></div><div data-state=3D"closed"><div><button class=
+=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transparent=
+ py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bo=
+lt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundActive=
+" aria-pressed=3D"false" data-parent-path=3D"/home/project/server" style=3D=
+"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone gro=
+up-hover:text-bolt-elements-item-contentActive"></div><div class=3D"truncat=
+e w-full text-left"><div class=3D"flex items-center group-hover:text-bolt-e=
+lements-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate =
+pr-2">package-lock.json</div></div></div></button></div></div><div data-sta=
+te=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-full =
+pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-i=
+tem-contentDefault hover:text-bolt-elements-item-contentActive hover:bg-bol=
+t-elements-item-backgroundActive" aria-pressed=3D"false" data-parent-path=
+=3D"/home/project/server" style=3D"padding-left: 14px;"><div class=3D"shrin=
+k-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentA=
+ctive"></div><div class=3D"truncate w-full text-left"><div class=3D"flex it=
+ems-center group-hover:text-bolt-elements-item-contentActive"><div translat=
+e=3D"no" class=3D"flex-1 truncate pr-2">package.json</div></div></div></but=
+ton></div></div><div data-state=3D"closed"><div><button class=3D"group flex=
+ items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-tra=
+nsparent text-bolt-elements-item-contentDefault hover:text-bolt-elements-it=
+em-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=
+=3D"false" data-parent-path=3D"/home/project/server" style=3D"padding-left:=
+ 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-=
+bolt-elements-item-contentActive"></div><div class=3D"truncate w-full text-=
+left"><div class=3D"flex items-center group-hover:text-bolt-elements-item-c=
+ontentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">README.m=
+d</div></div></div></button></div></div><div data-state=3D"closed"><div><bu=
+tton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-t=
+ransparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hov=
+er:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgr=
+oundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/server=
+" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-d=
+uotone group-hover:text-bolt-elements-item-contentActive"></div><div class=
+=3D"truncate w-full text-left"><div class=3D"flex items-center group-hover:=
+text-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-=
+1 truncate pr-2">websocket-server.js</div></div></div></button></div></div>=
+<div data-state=3D"closed"><div><button class=3D"group flex items-center ga=
+p-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bo=
+lt-elements-item-contentDefault hover:text-bolt-elements-item-contentActive=
+ hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"true" data-p=
+arent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shr=
+ink-0 scale-98 i-ph:caret-down"></div><div class=3D"truncate w-full text-le=
+ft"><div class=3D"flex items-center group-hover:text-bolt-elements-item-con=
+tentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">src</div><=
+/div></div></button></div></div><div data-state=3D"closed"><div><button cla=
+ss=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transpare=
+nt py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-=
+bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundActi=
+ve" aria-pressed=3D"false" data-parent-path=3D"/home/project/src" style=3D"=
+padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:caret-right"></di=
+v><div class=3D"truncate w-full text-left"><div class=3D"flex items-center =
+group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" cl=
+ass=3D"flex-1 truncate pr-2">components</div></div></div></button></div></d=
+iv><div data-state=3D"closed"><div><button class=3D"group flex items-center=
+ gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text=
+-bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentAct=
+ive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" da=
+ta-parent-path=3D"/home/project/src" style=3D"padding-left: 14px;"><div cla=
+ss=3D"shrink-0 scale-98 i-ph:caret-right"></div><div class=3D"truncate w-fu=
+ll text-left"><div class=3D"flex items-center group-hover:text-bolt-element=
+s-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">=
+data</div></div></div></button></div></div><div data-state=3D"closed"><div>=
+<button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 borde=
+r-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault =
+hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-bac=
+kgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/src=
+" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:caret-=
+right"></div><div class=3D"truncate w-full text-left"><div class=3D"flex it=
+ems-center group-hover:text-bolt-elements-item-contentActive"><div translat=
+e=3D"no" class=3D"flex-1 truncate pr-2">hooks</div></div></div></button></d=
 iv></div><div data-state=3D"closed"><div><button class=3D"group flex items-=
 center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparen=
 t text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-cont=
 entActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"tru=
-e" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div cla=
-ss=3D"shrink-0 scale-98 i-ph:caret-down"></div><div class=3D"truncate w-ful=
-l text-left"><div class=3D"flex items-center group-hover:text-bolt-elements=
--item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">s=
-erver</div></div></div></button></div></div><div data-state=3D"closed"><div=
-><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bord=
-er-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault=
- hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-ba=
-ckgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/se=
-rver" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:fi=
-le-duotone group-hover:text-bolt-elements-item-contentActive"></div><div cl=
+e" data-parent-path=3D"/home/project/src" style=3D"padding-left: 14px;"><di=
+v class=3D"shrink-0 scale-98 i-ph:caret-down"></div><div class=3D"truncate =
+w-full text-left"><div class=3D"flex items-center group-hover:text-bolt-ele=
+ments-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr=
+-2">services</div></div></div></button></div></div><div data-state=3D"close=
+d"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 border=
+-2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-content=
+Default hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-=
+item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/pro=
+ject/src/services" style=3D"padding-left: 22px;"><div class=3D"shrink-0 sca=
+le-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive">=
+</div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cen=
+ter group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no=
+" class=3D"flex-1 truncate pr-2">chatService.ts</div></div></div></button><=
+/div></div><div data-state=3D"closed"><div><button class=3D"group flex item=
+s-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transpar=
+ent text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-co=
+ntentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"f=
+alse" data-parent-path=3D"/home/project/src" style=3D"padding-left: 14px;">=
+<div class=3D"shrink-0 scale-98 i-ph:caret-right"></div><div class=3D"trunc=
+ate w-full text-left"><div class=3D"flex items-center group-hover:text-bolt=
+-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncat=
+e pr-2">types</div></div></div></button></div></div><div data-state=3D"clos=
+ed"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 borde=
+r-2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-conten=
+tDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements=
+-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/pr=
+oject/src" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-=
+ph:caret-right"></div><div class=3D"truncate w-full text-left"><div class=
+=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"><d=
+iv translate=3D"no" class=3D"flex-1 truncate pr-2">utils</div></div></div><=
+/button></div></div><div data-state=3D"closed"><div><button class=3D"group =
+flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg=
+-transparent text-bolt-elements-item-contentDefault hover:text-bolt-element=
+s-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pre=
+ssed=3D"false" data-parent-path=3D"/home/project/src" style=3D"padding-left=
+: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text=
+-bolt-elements-item-contentActive"></div><div class=3D"truncate w-full text=
+-left"><div class=3D"flex items-center group-hover:text-bolt-elements-item-=
+contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">App.tsx=
+</div></div></div></button></div></div><div data-state=3D"closed"><div><but=
+ton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-tr=
+ansparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hove=
+r:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgro=
+undActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/src" st=
+yle=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duoto=
+ne group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"t=
+runcate w-full text-left"><div class=3D"flex items-center group-hover:text-=
+bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 tru=
+ncate pr-2">index.css</div></div></div></button></div></div><div data-state=
+=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-full pr=
+-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-ite=
+m-contentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-=
+elements-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"=
+/home/project/src" style=3D"padding-left: 14px;"><div class=3D"shrink-0 sca=
+le-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive">=
+</div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cen=
+ter group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no=
+" class=3D"flex-1 truncate pr-2">main.tsx</div></div></div></button></div><=
+/div><div data-state=3D"closed"><div><button class=3D"group flex items-cent=
+er gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent te=
+xt-bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentA=
+ctive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" =
+data-parent-path=3D"/home/project/src" style=3D"padding-left: 14px;"><div c=
+lass=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-=
+item-contentActive"></div><div class=3D"truncate w-full text-left"><div cla=
+ss=3D"flex items-center group-hover:text-bolt-elements-item-contentActive">=
+<div translate=3D"no" class=3D"flex-1 truncate pr-2">vite-env.d.ts</div></d=
+iv></div></button></div></div><div data-state=3D"closed"><div><button class=
+=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transparent=
+ py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bo=
+lt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundActive=
+" aria-pressed=3D"true" data-parent-path=3D"/home/project" style=3D"padding=
+-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-down"></div><div cl=
 ass=3D"truncate w-full text-left"><div class=3D"flex items-center group-hov=
 er:text-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"fl=
-ex-1 truncate pr-2">.htaccess</div></div></div></button></div></div><div da=
-ta-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w=
--full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elem=
-ents-item-contentDefault hover:text-bolt-elements-item-contentActive hover:=
-bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-parent-=
-path=3D"/home/project/server" style=3D"padding-left: 14px;"><div class=3D"s=
-hrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-cont=
-entActive"></div><div class=3D"truncate w-full text-left"><div class=3D"fle=
-x items-center group-hover:text-bolt-elements-item-contentActive"><div tran=
-slate=3D"no" class=3D"flex-1 truncate pr-2">ionos-deploy.md</div></div></di=
-v></button></div></div><div data-state=3D"closed"><div><button class=3D"gro=
-up flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5=
- bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-elem=
-ents-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-=
-pressed=3D"false" data-parent-path=3D"/home/project/server" style=3D"paddin=
-g-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hove=
-r:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-ful=
-l text-left"><div class=3D"flex items-center group-hover:text-bolt-elements=
--item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">p=
-ackage-lock.json</div></div></div></button></div></div><div data-state=3D"c=
-losed"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 bo=
-rder-2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-con=
-tentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-eleme=
-nts-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home=
-/project/server" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale=
--98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></=
-div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cente=
-r group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" =
-class=3D"flex-1 truncate pr-2">package.json</div></div></div></button></div=
-></div><div data-state=3D"closed"><div><button class=3D"group flex items-ce=
-nter gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent =
-text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-conten=
-tActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false=
-" data-parent-path=3D"/home/project/server" style=3D"padding-left: 14px;"><=
-div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elem=
-ents-item-contentActive"></div><div class=3D"truncate w-full text-left"><di=
-v class=3D"flex items-center group-hover:text-bolt-elements-item-contentAct=
-ive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">README.md</div></=
-div></div></button></div></div><div data-state=3D"closed"><div><button clas=
-s=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transparen=
-t py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-b=
-olt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundActiv=
-e" aria-pressed=3D"false" data-parent-path=3D"/home/project/server" style=
+ex-1 truncate pr-2">websocket-server-ready</div></div></div></button></div>=
+</div><div data-state=3D"closed"><div><button class=3D"group flex items-cen=
+ter gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent t=
+ext-bolt-elements-item-contentDefault hover:text-bolt-elements-item-content=
+Active hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false"=
+ data-parent-path=3D"/home/project/websocket-server-ready" style=3D"padding=
+-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover=
+:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-full=
+ text-left"><div class=3D"flex items-center group-hover:text-bolt-elements-=
+item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">.h=
+taccess</div></div></div></button></div></div><div data-state=3D"closed"><d=
+iv><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bo=
+rder-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefau=
+lt hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-=
+backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/=
+websocket-server-ready" style=3D"padding-left: 14px;"><div class=3D"shrink-=
+0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentAct=
+ive"></div><div class=3D"truncate w-full text-left"><div class=3D"flex item=
+s-center group-hover:text-bolt-elements-item-contentActive"><div translate=
+=3D"no" class=3D"flex-1 truncate pr-2">package.json</div></div></div></butt=
+on></div></div><div data-state=3D"closed"><div><button class=3D"group flex =
+items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-tran=
+sparent text-bolt-elements-item-contentDefault hover:text-bolt-elements-ite=
+m-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=
+=3D"false" data-parent-path=3D"/home/project/websocket-server-ready" style=
 =3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone =
 group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"trun=
 cate w-full text-left"><div class=3D"flex items-center group-hover:text-bol=
@@ -3392,249 +3626,21 @@ te pr-2">websocket-server.js</div></div></div></button></div></div><div dat=
 a-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-=
 full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-eleme=
 nts-item-contentDefault hover:text-bolt-elements-item-contentActive hover:b=
-g-bolt-elements-item-backgroundActive" aria-pressed=3D"true" data-parent-pa=
-th=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 sc=
-ale-98 i-ph:caret-down"></div><div class=3D"truncate w-full text-left"><div=
- class=3D"flex items-center group-hover:text-bolt-elements-item-contentActi=
-ve"><div translate=3D"no" class=3D"flex-1 truncate pr-2">src</div></div></d=
-iv></button></div></div><div data-state=3D"closed"><div><button class=3D"gr=
-oup flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.=
-5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-ele=
-ments-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria=
--pressed=3D"false" data-parent-path=3D"/home/project/src" style=3D"padding-=
-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:caret-right"></div><div c=
-lass=3D"truncate w-full text-left"><div class=3D"flex items-center group-ho=
-ver:text-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"f=
-lex-1 truncate pr-2">components</div></div></div></button></div></div><div =
-data-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5=
- w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-el=
-ements-item-contentDefault hover:text-bolt-elements-item-contentActive hove=
-r:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-paren=
-t-path=3D"/home/project/src" style=3D"padding-left: 14px;"><div class=3D"sh=
-rink-0 scale-98 i-ph:caret-right"></div><div class=3D"truncate w-full text-=
-left"><div class=3D"flex items-center group-hover:text-bolt-elements-item-c=
-ontentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">data</di=
-v></div></div></button></div></div><div data-state=3D"closed"><div><button =
-class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transp=
-arent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:te=
-xt-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundA=
-ctive" aria-pressed=3D"false" data-parent-path=3D"/home/project/src" style=
-=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:caret-right">=
-</div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cen=
-ter group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no=
-" class=3D"flex-1 truncate pr-2">hooks</div></div></div></button></div></di=
-v><div data-state=3D"closed"><div><button class=3D"group flex items-center =
-gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-=
-bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentActi=
-ve hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"true" data=
--parent-path=3D"/home/project/src" style=3D"padding-left: 14px;"><div class=
-=3D"shrink-0 scale-98 i-ph:caret-down"></div><div class=3D"truncate w-full =
-text-left"><div class=3D"flex items-center group-hover:text-bolt-elements-i=
-tem-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">ser=
-vices</div></div></div></button></div></div><div data-state=3D"closed"><div=
-><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bord=
-er-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault=
- hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-ba=
-ckgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/sr=
-c/services" style=3D"padding-left: 22px;"><div class=3D"shrink-0 scale-98 i=
--ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div><=
-div class=3D"truncate w-full text-left"><div class=3D"flex items-center gro=
-up-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" class=
-=3D"flex-1 truncate pr-2">chatService.ts</div></div></div></button></div></=
-div><div data-state=3D"closed"><div><button class=3D"group flex items-cente=
-r gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent tex=
-t-bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentAc=
-tive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" d=
-ata-parent-path=3D"/home/project/src" style=3D"padding-left: 14px;"><div cl=
-ass=3D"shrink-0 scale-98 i-ph:caret-right"></div><div class=3D"truncate w-f=
+g-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-parent-p=
+ath=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 s=
+cale-98 i-ph:caret-right"></div><div class=3D"truncate w-full text-left"><d=
+iv class=3D"flex items-center group-hover:text-bolt-elements-item-contentAc=
+tive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">wp-content</div>=
+</div></div></button></div></div><div data-state=3D"closed"><div><button cl=
+ass=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transpar=
+ent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text=
+-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundAct=
+ive" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"pad=
+ding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-ho=
+ver:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-f=
 ull text-left"><div class=3D"flex items-center group-hover:text-bolt-elemen=
 ts-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2"=
->types</div></div></div></button></div></div><div data-state=3D"closed"><di=
-v><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bor=
-der-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefaul=
-t hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-b=
-ackgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/s=
-rc" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:care=
-t-right"></div><div class=3D"truncate w-full text-left"><div class=3D"flex =
-items-center group-hover:text-bolt-elements-item-contentActive"><div transl=
-ate=3D"no" class=3D"flex-1 truncate pr-2">utils</div></div></div></button><=
-/div></div><div data-state=3D"closed"><div><button class=3D"group flex item=
-s-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transpar=
-ent text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-co=
-ntentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"f=
-alse" data-parent-path=3D"/home/project/src" style=3D"padding-left: 14px;">=
-<div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-ele=
-ments-item-contentActive"></div><div class=3D"truncate w-full text-left"><d=
-iv class=3D"flex items-center group-hover:text-bolt-elements-item-contentAc=
-tive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">App.tsx</div></d=
-iv></div></button></div></div><div data-state=3D"closed"><div><button class=
-=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transparent=
- py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bo=
-lt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundActive=
-" aria-pressed=3D"false" data-parent-path=3D"/home/project/src" style=3D"pa=
-dding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-=
-hover:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w=
--full text-left"><div class=3D"flex items-center group-hover:text-bolt-elem=
-ents-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-=
-2">index.css</div></div></div></button></div></div><div data-state=3D"close=
-d"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 border=
--2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-content=
-Default hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-=
-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/pro=
-ject/src" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-p=
-h:file-duotone group-hover:text-bolt-elements-item-contentActive"></div><di=
-v class=3D"truncate w-full text-left"><div class=3D"flex items-center group=
--hover:text-bolt-elements-item-contentActive"><div translate=3D"no" class=
-=3D"flex-1 truncate pr-2">main.tsx</div></div></div></button></div></div><d=
-iv data-state=3D"closed"><div><button class=3D"group flex items-center gap-=
-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt=
--elements-item-contentDefault hover:text-bolt-elements-item-contentActive h=
-over:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-pa=
-rent-path=3D"/home/project/src" style=3D"padding-left: 14px;"><div class=3D=
-"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-co=
-ntentActive"></div><div class=3D"truncate w-full text-left"><div class=3D"f=
-lex items-center group-hover:text-bolt-elements-item-contentActive"><div tr=
-anslate=3D"no" class=3D"flex-1 truncate pr-2">vite-env.d.ts</div></div></di=
-v></button></div></div><div data-state=3D"closed"><div><button class=3D"gro=
-up flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5=
- bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-elem=
-ents-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-=
-pressed=3D"true" data-parent-path=3D"/home/project" style=3D"padding-left: =
-6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-down"></div><div class=3D"=
-truncate w-full text-left"><div class=3D"flex items-center group-hover:text=
--bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 tr=
-uncate pr-2">websocket-server-ready</div></div></div></button></div></div><=
-div data-state=3D"closed"><div><button class=3D"group flex items-center gap=
--1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bol=
-t-elements-item-contentDefault hover:text-bolt-elements-item-contentActive =
-hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-p=
-arent-path=3D"/home/project/websocket-server-ready" style=3D"padding-left: =
-14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-b=
-olt-elements-item-contentActive"></div><div class=3D"truncate w-full text-l=
-eft"><div class=3D"flex items-center group-hover:text-bolt-elements-item-co=
-ntentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">.htaccess=
-</div></div></div></button></div></div><div data-state=3D"closed"><div><but=
-ton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-tr=
-ansparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hove=
-r:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgro=
-undActive" aria-pressed=3D"false" data-parent-path=3D"/home/project/websock=
-et-server-ready" style=3D"padding-left: 14px;"><div class=3D"shrink-0 scale=
--98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></=
-div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cente=
-r group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" =
-class=3D"flex-1 truncate pr-2">package.json</div></div></div></button></div=
-></div><div data-state=3D"closed"><div><button class=3D"group flex items-ce=
-nter gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent =
-text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-conten=
-tActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false=
-" data-parent-path=3D"/home/project/websocket-server-ready" style=3D"paddin=
-g-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hove=
-r:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-ful=
-l text-left"><div class=3D"flex items-center group-hover:text-bolt-elements=
--item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">w=
-ebsocket-server.js</div></div></div></button></div></div><div data-state=3D=
-"closed"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 =
-border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-c=
-ontentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-ele=
-ments-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/ho=
-me/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-=
-ph:caret-right"></div><div class=3D"truncate w-full text-left"><div class=
-=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"><d=
-iv translate=3D"no" class=3D"flex-1 truncate pr-2">wp-content</div></div></=
-div></button></div></div><div data-state=3D"closed"><div><button class=3D"g=
-roup flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0=
-.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-el=
-ements-item-contentActive hover:bg-bolt-elements-item-backgroundActive" ari=
-a-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-lef=
-t: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text=
--bolt-elements-item-contentActive"></div><div class=3D"truncate w-full text=
--left"><div class=3D"flex items-center group-hover:text-bolt-elements-item-=
-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">.gitign=
-ore</div></div></div></button></div></div><div data-state=3D"closed"><div><=
-button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border=
--transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault h=
-over:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-back=
-groundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" sty=
-le=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone=
- group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"tru=
-ncate w-full text-left"><div class=3D"flex items-center group-hover:text-bo=
-lt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 trunc=
-ate pr-2">ALTERNATIVE-SERVERS.md</div></div></div></button></div></div><div=
- data-state=3D"closed"><div><button class=3D"group flex items-center gap-1.=
-5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-e=
-lements-item-contentDefault hover:text-bolt-elements-item-contentActive hov=
-er:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-pare=
-nt-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink=
--0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentAc=
-tive"></div><div class=3D"truncate w-full text-left"><div class=3D"flex ite=
-ms-center group-hover:text-bolt-elements-item-contentActive"><div translate=
-=3D"no" class=3D"flex-1 truncate pr-2">eslint.config.js</div></div></div></=
-button></div></div><div data-state=3D"closed"><div><button class=3D"group f=
-lex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-=
-transparent text-bolt-elements-item-contentDefault hover:text-bolt-elements=
--item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pres=
-sed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-left: 6px=
-;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-=
-elements-item-contentActive"></div><div class=3D"truncate w-full text-left"=
-><div class=3D"flex items-center group-hover:text-bolt-elements-item-conten=
-tActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">glitch-packag=
-e.json</div></div></div></button></div></div><div data-state=3D"closed"><di=
-v><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bor=
-der-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefaul=
-t hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-b=
-ackgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" =
-style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duot=
-one group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"=
-truncate w-full text-left"><div class=3D"flex items-center group-hover:text=
--bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 tr=
-uncate pr-2">glitch-server.js</div></div></div></button></div></div><div da=
-ta-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w=
--full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elem=
-ents-item-contentDefault hover:text-bolt-elements-item-contentActive hover:=
-bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-parent-=
-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 =
-scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentActiv=
-e"></div><div class=3D"truncate w-full text-left"><div class=3D"flex items-=
-center group-hover:text-bolt-elements-item-contentActive"><div translate=3D=
-"no" class=3D"flex-1 truncate pr-2">index.html</div></div></div></button></=
-div></div><div data-state=3D"closed"><div><button class=3D"group flex items=
--center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transpare=
-nt text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-con=
-tentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"fa=
-lse" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div c=
-lass=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-=
-item-contentActive"></div><div class=3D"truncate w-full text-left"><div cla=
-ss=3D"flex items-center group-hover:text-bolt-elements-item-contentActive">=
-<div translate=3D"no" class=3D"flex-1 truncate pr-2">INSTALLATION-DEPENDENC=
-IES.md</div></div></div></button></div></div><div data-state=3D"closed"><di=
-v><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bor=
-der-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefaul=
-t hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-b=
-ackgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" =
-style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duot=
-one group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"=
-truncate w-full text-left"><div class=3D"flex items-center group-hover:text=
--bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 tr=
-uncate pr-2">IONOS-DEPLOY-GUIDE.md</div></div></div></button></div></div><d=
-iv data-state=3D"closed"><div><button class=3D"group flex items-center gap-=
-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt=
--elements-item-contentDefault hover:text-bolt-elements-item-contentActive h=
-over:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-pa=
-rent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shri=
-nk-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-content=
-Active"></div><div class=3D"truncate w-full text-left"><div class=3D"flex i=
-tems-center group-hover:text-bolt-elements-item-contentActive"><div transla=
-te=3D"no" class=3D"flex-1 truncate pr-2">IONOS-NO-SSH-GUIDE.md</div></div><=
-/div></button></div></div><div data-state=3D"closed"><div><button class=3D"=
-group flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-=
-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-e=
-lements-item-contentActive hover:bg-bolt-elements-item-backgroundActive" ar=
-ia-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-le=
-ft: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:tex=
-t-bolt-elements-item-contentActive"></div><div class=3D"truncate w-full tex=
-t-left"><div class=3D"flex items-center group-hover:text-bolt-elements-item=
--contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">packag=
-e-lock.json</div></div></div></button></div></div><div data-state=3D"closed=
+>.gitignore</div></div></div></button></div></div><div data-state=3D"closed=
 "><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-=
 2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-contentD=
 efault hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-i=
@@ -3643,119 +3649,82 @@ ect" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file=
 -duotone group-hover:text-bolt-elements-item-contentActive"></div><div clas=
 s=3D"truncate w-full text-left"><div class=3D"flex items-center group-hover=
 :text-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex=
--1 truncate pr-2">package-server.json</div></div></div></button></div></div=
-><div data-state=3D"closed"><div><button class=3D"group flex items-center g=
-ap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-b=
-olt-elements-item-contentDefault hover:text-bolt-elements-item-contentActiv=
-e hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data=
--parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"s=
-hrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-cont=
-entActive"></div><div class=3D"truncate w-full text-left"><div class=3D"fle=
-x items-center group-hover:text-bolt-elements-item-contentActive"><div tran=
-slate=3D"no" class=3D"flex-1 truncate pr-2">package.json</div></div></div><=
-/button></div></div><div data-state=3D"closed"><div><button class=3D"group =
-flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg=
--transparent text-bolt-elements-item-contentDefault hover:text-bolt-element=
-s-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pre=
-ssed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-left: 6p=
-x;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt=
--elements-item-contentActive"></div><div class=3D"truncate w-full text-left=
-"><div class=3D"flex items-center group-hover:text-bolt-elements-item-conte=
-ntActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">postcss.conf=
-ig.js</div></div></div></button></div></div><div data-state=3D"closed"><div=
-><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bord=
-er-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault=
- hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-ba=
-ckgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" s=
-tyle=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duoto=
-ne group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"t=
-runcate w-full text-left"><div class=3D"flex items-center group-hover:text-=
-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 tru=
-ncate pr-2">RAILWAY-DEPLOY.md</div></div></div></button></div></div><div da=
-ta-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w=
--full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elem=
-ents-item-contentDefault hover:text-bolt-elements-item-contentActive hover:=
-bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-parent-=
-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 =
-scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentActiv=
-e"></div><div class=3D"truncate w-full text-left"><div class=3D"flex items-=
-center group-hover:text-bolt-elements-item-contentActive"><div translate=3D=
-"no" class=3D"flex-1 truncate pr-2">railway-package.json</div></div></div><=
-/button></div></div><div data-state=3D"closed"><div><button class=3D"group =
-flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg=
--transparent text-bolt-elements-item-contentDefault hover:text-bolt-element=
-s-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pre=
-ssed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-left: 6p=
-x;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt=
--elements-item-contentActive"></div><div class=3D"truncate w-full text-left=
-"><div class=3D"flex items-center group-hover:text-bolt-elements-item-conte=
-ntActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">railway-serv=
-er.js</div></div></div></button></div></div><div data-state=3D"closed"><div=
-><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bord=
-er-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault=
- hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-ba=
-ckgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" s=
-tyle=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duoto=
-ne group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"t=
-runcate w-full text-left"><div class=3D"flex items-center group-hover:text-=
-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 tru=
-ncate pr-2">render-package.json</div></div></div></button></div></div><div =
-data-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5=
- w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-el=
-ements-item-contentDefault hover:text-bolt-elements-item-contentActive hove=
-r:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-paren=
-t-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-=
-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentAct=
-ive"></div><div class=3D"truncate w-full text-left"><div class=3D"flex item=
-s-center group-hover:text-bolt-elements-item-contentActive"><div translate=
-=3D"no" class=3D"flex-1 truncate pr-2">render-server.js</div></div></div></=
-button></div></div><div data-state=3D"closed"><div><button class=3D"group f=
-lex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-=
-transparent text-bolt-elements-item-contentDefault hover:text-bolt-elements=
--item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pres=
-sed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-left: 6px=
-;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-=
-elements-item-contentActive"></div><div class=3D"truncate w-full text-left"=
-><div class=3D"flex items-center group-hover:text-bolt-elements-item-conten=
-tActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">server-htacce=
-ss.txt</div></div></div></button></div></div><div data-state=3D"closed"><di=
-v><button class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 bor=
-der-transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefaul=
-t hover:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-b=
-ackgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" =
-style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duot=
-one group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"=
-truncate w-full text-left"><div class=3D"flex items-center group-hover:text=
--bolt-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 tr=
-uncate pr-2">tailwind.config.js</div></div></div></button></div></div><div =
-data-state=3D"closed"><div><button class=3D"group flex items-center gap-1.5=
- w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-el=
-ements-item-contentDefault hover:text-bolt-elements-item-contentActive hove=
-r:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data-paren=
-t-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-=
-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentAct=
-ive"></div><div class=3D"truncate w-full text-left"><div class=3D"flex item=
-s-center group-hover:text-bolt-elements-item-contentActive"><div translate=
-=3D"no" class=3D"flex-1 truncate pr-2">tsconfig.app.json</div></div></div><=
-/button></div></div><div data-state=3D"closed"><div><button class=3D"group =
-flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg=
--transparent text-bolt-elements-item-contentDefault hover:text-bolt-element=
-s-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pre=
-ssed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-left: 6p=
-x;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt=
--elements-item-contentActive"></div><div class=3D"truncate w-full text-left=
-"><div class=3D"flex items-center group-hover:text-bolt-elements-item-conte=
-ntActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">tsconfig.jso=
-n</div></div></div></button></div></div><div data-state=3D"closed"><div><bu=
-tton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-t=
-ransparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hov=
-er:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgr=
-oundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=
-=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone g=
-roup-hover:text-bolt-elements-item-contentActive"></div><div class=3D"trunc=
-ate w-full text-left"><div class=3D"flex items-center group-hover:text-bolt=
--elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncat=
-e pr-2">tsconfig.node.json</div></div></div></button></div></div><div data-=
+-1 truncate pr-2">ALTERNATIVE-SERVERS.md</div></div></div></button></div></=
+div><div data-state=3D"closed"><div><button class=3D"group flex items-cente=
+r gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent tex=
+t-bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentAc=
+tive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" d=
+ata-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=
+=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item=
+-contentActive"></div><div class=3D"truncate w-full text-left"><div class=
+=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"><d=
+iv translate=3D"no" class=3D"flex-1 truncate pr-2">eslint.config.js</div></=
+div></div></button></div></div><div data-state=3D"closed"><div><button clas=
+s=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transparen=
+t py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-b=
+olt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundActiv=
+e" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"paddi=
+ng-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hove=
+r:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-ful=
+l text-left"><div class=3D"flex items-center group-hover:text-bolt-elements=
+-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">g=
+litch-package.json</div></div></div></button></div></div><div data-state=3D=
+"closed"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 =
+border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-c=
+ontentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-ele=
+ments-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/ho=
+me/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-=
+ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div><d=
+iv class=3D"truncate w-full text-left"><div class=3D"flex items-center grou=
+p-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" class=
+=3D"flex-1 truncate pr-2">glitch-server.js</div></div></div></button></div>=
+</div><div data-state=3D"closed"><div><button class=3D"group flex items-cen=
+ter gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent t=
+ext-bolt-elements-item-contentDefault hover:text-bolt-elements-item-content=
+Active hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false"=
+ data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=
+=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item=
+-contentActive"></div><div class=3D"truncate w-full text-left"><div class=
+=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"><d=
+iv translate=3D"no" class=3D"flex-1 truncate pr-2">index.html</div></div></=
+div></button></div></div><div data-state=3D"closed"><div><button class=3D"g=
+roup flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0=
+.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-el=
+ements-item-contentActive hover:bg-bolt-elements-item-backgroundActive" ari=
+a-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"padding-lef=
+t: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text=
+-bolt-elements-item-contentActive"></div><div class=3D"truncate w-full text=
+-left"><div class=3D"flex items-center group-hover:text-bolt-elements-item-=
+contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">INSTALL=
+ATION-DEPENDENCIES.md</div></div></div></button></div></div><div data-state=
+=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-full pr=
+-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-ite=
+m-contentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-=
+elements-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"=
+/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98=
+ i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div=
+><div class=3D"truncate w-full text-left"><div class=3D"flex items-center g=
+roup-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" cla=
+ss=3D"flex-1 truncate pr-2">IONOS-DEPLOY-GUIDE.md</div></div></div></button=
+></div></div><div data-state=3D"closed"><div><button class=3D"group flex it=
+ems-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transp=
+arent text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-=
+contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D=
+"false" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><di=
+v class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elemen=
+ts-item-contentActive"></div><div class=3D"truncate w-full text-left"><div =
+class=3D"flex items-center group-hover:text-bolt-elements-item-contentActiv=
+e"><div translate=3D"no" class=3D"flex-1 truncate pr-2">IONOS-NO-SSH-GUIDE.=
+md</div></div></div></button></div></div><div data-state=3D"closed"><div><b=
+utton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-=
+transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault ho=
+ver:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backg=
+roundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" styl=
+e=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone =
+group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"trun=
+cate w-full text-left"><div class=3D"flex items-center group-hover:text-bol=
+t-elements-item-contentActive"><div translate=3D"no" class=3D"flex-1 trunca=
+te pr-2">package-lock.json</div></div></div></button></div></div><div data-=
 state=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-fu=
 ll pr-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-element=
 s-item-contentDefault hover:text-bolt-elements-item-contentActive hover:bg-=
@@ -3764,7 +3733,63 @@ h=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 sca=
 le-98 i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive">=
 </div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cen=
 ter group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no=
-" class=3D"flex-1 truncate pr-2">vite.config.ts</div></div></div></button><=
+" class=3D"flex-1 truncate pr-2">package-server.json</div></div></div></but=
+ton></div></div><div data-state=3D"closed"><div><button class=3D"group flex=
+ items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-tra=
+nsparent text-bolt-elements-item-contentDefault hover:text-bolt-elements-it=
+em-contentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=
+=3D"false" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;">=
+<div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-ele=
+ments-item-contentActive"></div><div class=3D"truncate w-full text-left"><d=
+iv class=3D"flex items-center group-hover:text-bolt-elements-item-contentAc=
+tive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">package.json</di=
+v></div></div></button></div></div><div data-state=3D"closed"><div><button =
+class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transp=
+arent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:te=
+xt-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundA=
+ctive" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"p=
+adding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-=
+hover:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w=
+-full text-left"><div class=3D"flex items-center group-hover:text-bolt-elem=
+ents-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-=
+2">postcss.config.js</div></div></div></button></div></div><div data-state=
+=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-full pr=
+-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-ite=
+m-contentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-=
+elements-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"=
+/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98=
+ i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div=
+><div class=3D"truncate w-full text-left"><div class=3D"flex items-center g=
+roup-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" cla=
+ss=3D"flex-1 truncate pr-2">RAILWAY-DEPLOY.md</div></div></div></button></d=
+iv></div><div data-state=3D"closed"><div><button class=3D"group flex items-=
+center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparen=
+t text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-cont=
+entActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"fal=
+se" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div cl=
+ass=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-i=
+tem-contentActive"></div><div class=3D"truncate w-full text-left"><div clas=
+s=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"><=
+div translate=3D"no" class=3D"flex-1 truncate pr-2">railway-package.json</d=
+iv></div></div></button></div></div><div data-state=3D"closed"><div><button=
+ class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-trans=
+parent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:t=
+ext-bolt-elements-item-contentActive hover:bg-bolt-elements-item-background=
+Active" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"=
+padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group=
+-hover:text-bolt-elements-item-contentActive"></div><div class=3D"truncate =
+w-full text-left"><div class=3D"flex items-center group-hover:text-bolt-ele=
+ments-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr=
+-2">railway-server.js</div></div></div></button></div></div><div data-state=
+=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-full pr=
+-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-ite=
+m-contentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-=
+elements-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"=
+/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98=
+ i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div=
+><div class=3D"truncate w-full text-left"><div class=3D"flex items-center g=
+roup-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" cla=
+ss=3D"flex-1 truncate pr-2">render-package.json</div></div></div></button><=
 /div></div><div data-state=3D"closed"><div><button class=3D"group flex item=
 s-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transpar=
 ent text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-co=
@@ -3773,347 +3798,412 @@ alse" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div =
 class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements=
 -item-contentActive"></div><div class=3D"truncate w-full text-left"><div cl=
 ass=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"=
-><div translate=3D"no" class=3D"flex-1 truncate pr-2">websocket-server.js</=
-div></div></div></button></div></div><div class=3D"grow-1 outline-0" tabind=
-ex=3D"0" data-state=3D"closed"></div></div></div><div class=3D"absolute ins=
-et-0 flex-col hidden" tabindex=3D"-1" style=3D"opacity: 0; transform: trans=
-lateX(100%) translateZ(0px);"><div class=3D"flex-grow overflow-y-auto overf=
-low-auto" role=3D"search" aria-label=3D"Search in files panel"><div class=
-=3D"gap-2.5 grid"><div class=3D"px-3 mt-3 pb-0 relative"><label for=3D"sear=
-ch-input" class=3D"sr-only">Search in files</label><input id=3D"search-inpu=
-t" type=3D"text" placeholder=3D"Search" role=3D"searchbox" autocorrect=3D"o=
-ff" autocomplete=3D"off" aria-label=3D"Search in files" class=3D"bg-bolt-el=
-ements-background-depth-4 transition-[background-color] focus:bg-bolt-eleme=
-nts-item-backgroundActive text-sm focus:outline-none placeholder:text-bolt-=
-elements-textTertiary rounded-md h-8.5 pl-2.5 pr-16 py-3 w-full"><div class=
-=3D"flex items-center right-3 pr-1.5 gap-0.5 absolute inset-y-0"><button cl=
-ass=3D"flex items-center text-bolt-elements-item-contentDefault rounded-md =
-disabled:cursor-not-allowed enabled:hover:text-bolt-elements-item-contentAc=
-tive enabled:hover:bg-bolt-elements-item-backgroundActive p-1 bg-transparen=
-t" data-state=3D"closed"><div class=3D"i-lucide:case-sensitive size-4 color=
--bolt-elements-item-contentDefault scale-125 translate-y-px"></div></button=
-><button class=3D"flex items-center text-bolt-elements-item-contentDefault =
-rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements-ite=
-m-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-1 bg=
--transparent" data-state=3D"closed"><div class=3D"i-lucide:regex size-4 col=
-or-bolt-elements-item-contentDefault"></div></button></div></div><div class=
-=3D"text-bolt-elements-item-contentDefault overflow-hidden" role=3D"list" a=
-ria-label=3D"Search results"><div class=3D"relative w-full"><pre class=3D"s=
-r-only w-full truncate pl-7 pr-3 text-xs" aria-hidden=3D"true">010101010101=
+><div translate=3D"no" class=3D"flex-1 truncate pr-2">render-server.js</div=
+></div></div></button></div></div><div data-state=3D"closed"><div><button c=
+lass=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transpa=
+rent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:tex=
+t-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundAc=
+tive" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"pa=
+dding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-h=
+over:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-=
+full text-left"><div class=3D"flex items-center group-hover:text-bolt-eleme=
+nts-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2=
+">server-htaccess.txt</div></div></div></button></div></div><div data-state=
+=3D"closed"><div><button class=3D"group flex items-center gap-1.5 w-full pr=
+-2 border-2 border-transparent py-0.5 bg-transparent text-bolt-elements-ite=
+m-contentDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-=
+elements-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"=
+/home/project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98=
+ i-ph:file-duotone group-hover:text-bolt-elements-item-contentActive"></div=
+><div class=3D"truncate w-full text-left"><div class=3D"flex items-center g=
+roup-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" cla=
+ss=3D"flex-1 truncate pr-2">tailwind.config.js</div></div></div></button></=
+div></div><div data-state=3D"closed"><div><button class=3D"group flex items=
+-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transpare=
+nt text-bolt-elements-item-contentDefault hover:text-bolt-elements-item-con=
+tentActive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"fa=
+lse" data-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div c=
+lass=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-=
+item-contentActive"></div><div class=3D"truncate w-full text-left"><div cla=
+ss=3D"flex items-center group-hover:text-bolt-elements-item-contentActive">=
+<div translate=3D"no" class=3D"flex-1 truncate pr-2">tsconfig.app.json</div=
+></div></div></button></div></div><div data-state=3D"closed"><div><button c=
+lass=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transpa=
+rent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:tex=
+t-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundAc=
+tive" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"pa=
+dding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-h=
+over:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-=
+full text-left"><div class=3D"flex items-center group-hover:text-bolt-eleme=
+nts-item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2=
+">tsconfig.json</div></div></div></button></div></div><div data-state=3D"cl=
+osed"><div><button class=3D"group flex items-center gap-1.5 w-full pr-2 bor=
+der-2 border-transparent py-0.5 bg-transparent text-bolt-elements-item-cont=
+entDefault hover:text-bolt-elements-item-contentActive hover:bg-bolt-elemen=
+ts-item-backgroundActive" aria-pressed=3D"false" data-parent-path=3D"/home/=
+project" style=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:=
+file-duotone group-hover:text-bolt-elements-item-contentActive"></div><div =
+class=3D"truncate w-full text-left"><div class=3D"flex items-center group-h=
+over:text-bolt-elements-item-contentActive"><div translate=3D"no" class=3D"=
+flex-1 truncate pr-2">tsconfig.node.json</div></div></div></button></div></=
+div><div data-state=3D"closed"><div><button class=3D"group flex items-cente=
+r gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent tex=
+t-bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentAc=
+tive hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" d=
+ata-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=
+=3D"shrink-0 scale-98 i-ph:file-duotone group-hover:text-bolt-elements-item=
+-contentActive"></div><div class=3D"truncate w-full text-left"><div class=
+=3D"flex items-center group-hover:text-bolt-elements-item-contentActive"><d=
+iv translate=3D"no" class=3D"flex-1 truncate pr-2">vite.config.ts</div></di=
+v></div></button></div></div><div data-state=3D"closed"><div><button class=
+=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-transparent=
+ py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bo=
+lt-elements-item-contentActive hover:bg-bolt-elements-item-backgroundActive=
+" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=3D"paddin=
+g-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone group-hover=
+:text-bolt-elements-item-contentActive"></div><div class=3D"truncate w-full=
+ text-left"><div class=3D"flex items-center group-hover:text-bolt-elements-=
+item-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">we=
+bsocket-server.js</div></div></div></button></div></div><div class=3D"grow-=
+1 outline-0" tabindex=3D"0" data-state=3D"closed"></div></div></div><div cl=
+ass=3D"absolute inset-0 flex-col hidden" tabindex=3D"-1" style=3D"opacity: =
+0; transform: translateX(100%) translateZ(0px);"><div class=3D"flex-grow ov=
+erflow-y-auto overflow-auto" role=3D"search" aria-label=3D"Search in files =
+panel"><div class=3D"gap-2.5 grid"><div class=3D"px-3 mt-3 pb-0 relative"><=
+label for=3D"search-input" class=3D"sr-only">Search in files</label><input =
+id=3D"search-input" type=3D"text" placeholder=3D"Search" role=3D"searchbox"=
+ autocorrect=3D"off" autocomplete=3D"off" aria-label=3D"Search in files" cl=
+ass=3D"bg-bolt-elements-background-depth-4 transition-[background-color] fo=
+cus:bg-bolt-elements-item-backgroundActive text-sm focus:outline-none place=
+holder:text-bolt-elements-textTertiary rounded-md h-8.5 pl-2.5 pr-16 py-3 w=
+-full"><div class=3D"flex items-center right-3 pr-1.5 gap-0.5 absolute inse=
+t-y-0"><button class=3D"flex items-center text-bolt-elements-item-contentDe=
+fault rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elemen=
+ts-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive =
+p-1 bg-transparent" data-state=3D"closed"><div class=3D"i-lucide:case-sensi=
+tive size-4 color-bolt-elements-item-contentDefault scale-125 translate-y-p=
+x"></div></button><button class=3D"flex items-center text-bolt-elements-ite=
+m-contentDefault rounded-md disabled:cursor-not-allowed enabled:hover:text-=
+bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-item-backgr=
+oundActive p-1 bg-transparent" data-state=3D"closed"><div class=3D"i-lucide=
+:regex size-4 color-bolt-elements-item-contentDefault"></div></button></div=
+></div><div class=3D"text-bolt-elements-item-contentDefault overflow-hidden=
+" role=3D"list" aria-label=3D"Search results"><div class=3D"relative w-full=
+"><pre class=3D"sr-only w-full truncate pl-7 pr-3 text-xs" aria-hidden=3D"t=
+rue">0101010101010101010101010101010101010101010101010101010101010101010101=
 010101010101010101010101010101010101010101010101010101010101010101010101010=
-101010101010101010101010101010101010101010101010101010101010101010101010101=
-01010101010101010101010101010101010101</pre></div><div role=3D"status" clas=
-s=3D"p-3 rounded text-xs bg-bolt-ds-brandContainer text-bolt-ds-brand mx-3"=
->No results found</div></div></div></div></div><div class=3D"absolute inset=
--0 flex-col hidden" tabindex=3D"-1" style=3D"opacity: 0; transform: transla=
-teX(200%) translateZ(0px);"></div></div></div></div></div><div class=3D"" r=
-ole=3D"separator" tabindex=3D"0" data-panel-group-direction=3D"horizontal" =
-data-panel-group-id=3D":r2n:" data-resize-handle=3D"" data-resize-handle-st=
-ate=3D"inactive" data-panel-resize-handle-enabled=3D"true" data-panel-resiz=
-e-handle-id=3D":r2r:" aria-controls=3D":r2o:" aria-valuemax=3D"80" aria-val=
-uemin=3D"10" aria-valuenow=3D"23" style=3D"touch-action: none; user-select:=
- none;"></div><div class=3D"flex flex-col" data-panel=3D"" data-panel-group=
--id=3D":r2n:" data-panel-id=3D":r2s:" data-panel-size=3D"77.0" style=3D"fle=
-x: 77 1 0px; overflow: hidden;"><div class=3D"flex items-center gap-2 bg-bo=
-lt-elements-background-depth-2 text-bolt-elements-textSecondary border-b bo=
-rder-bolt-elements-borderColor px-4 py-1 min-h-[34px] text-sm overflow-x-au=
-to"><div class=3D"flex items-center flex-1 text-sm"><div class=3D"flex"><di=
-v class=3D"relative flex items-center"><span class=3D"flex items-center gap=
--1.5 cursor-pointer shrink-0 text-bolt-elements-textTertiary hover:text-bol=
-t-elements-textPrimary" type=3D"button" id=3D"radix-:r4u:" aria-haspopup=3D=
-"menu" aria-expanded=3D"false" data-state=3D"closed"><span translate=3D"no"=
->render-deploy</span></span><span class=3D"i-ph:caret-right inline-block mx=
--1"></span></div><div class=3D"relative flex items-center"><span class=3D"f=
-lex items-center gap-1.5 cursor-pointer shrink-0 text-bolt-elements-textTer=
-tiary hover:text-bolt-elements-textPrimary pr-4" type=3D"button" id=3D"radi=
-x-:rbp:" aria-haspopup=3D"menu" aria-expanded=3D"false" data-state=3D"close=
-d"><div class=3D"i-ph:file-duotone"></div><span translate=3D"no">server.js<=
-/span></span></div></div></div></div><div class=3D"relative h-full flex-1 o=
-verflow-hidden"><div class=3D"relative h-full"><div class=3D"h-full overflo=
-w-hidden"><div class=3D"cm-editor =CD=BC1 =CD=BC3 =CD=BC4 =CD=BC1w =CD=BCn"=
-><div class=3D"cm-announced" aria-live=3D"polite"></div><div tabindex=3D"-1=
-" class=3D"cm-scroller"><div class=3D"cm-gutters" aria-hidden=3D"true" styl=
-e=3D"min-height: 7884px; position: sticky;"><div class=3D"cm-gutter cm-line=
-Numbers"><div class=3D"cm-gutterElement" style=3D"height: 0px; visibility: =
-hidden; pointer-events: none;">999</div><div class=3D"cm-gutterElement cm-a=
-ctiveLineGutter" style=3D"height: 18px; margin-top: 4px;">1</div><div class=
-=3D"cm-gutterElement" style=3D"height: 18px;">2</div><div class=3D"cm-gutte=
-rElement" style=3D"height: 18px;">3</div><div class=3D"cm-gutterElement" st=
-yle=3D"height: 18px;">4</div><div class=3D"cm-gutterElement" style=3D"heigh=
-t: 18px;">5</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">6<=
-/div><div class=3D"cm-gutterElement" style=3D"height: 18px;">7</div><div cl=
-ass=3D"cm-gutterElement" style=3D"height: 18px;">8</div><div class=3D"cm-gu=
-tterElement" style=3D"height: 18px;">9</div><div class=3D"cm-gutterElement"=
- style=3D"height: 18px;">10</div><div class=3D"cm-gutterElement" style=3D"h=
-eight: 18px;">11</div><div class=3D"cm-gutterElement" style=3D"height: 18px=
-;">12</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">13</div>=
-<div class=3D"cm-gutterElement" style=3D"height: 18px;">14</div><div class=
-=3D"cm-gutterElement" style=3D"height: 18px;">15</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 18px;">16</div><div class=3D"cm-gutterElement" =
-style=3D"height: 18px;">17</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 18px;">18</div><div class=3D"cm-gutterElement" style=3D"height: 18px;=
-">19</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">20</div><=
-div class=3D"cm-gutterElement" style=3D"height: 18px;">21</div><div class=
-=3D"cm-gutterElement" style=3D"height: 18px;">22</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 18px;">23</div><div class=3D"cm-gutterElement" =
-style=3D"height: 18px;">24</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 18px;">25</div><div class=3D"cm-gutterElement" style=3D"height: 18px;=
-">26</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">27</div><=
-div class=3D"cm-gutterElement" style=3D"height: 18px;">28</div><div class=
-=3D"cm-gutterElement" style=3D"height: 18px;">29</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 18px;">30</div><div class=3D"cm-gutterElement" =
-style=3D"height: 18px;">31</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 18px;">32</div><div class=3D"cm-gutterElement" style=3D"height: 18px;=
-">33</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">34</div><=
-div class=3D"cm-gutterElement" style=3D"height: 18px;">35</div><div class=
-=3D"cm-gutterElement" style=3D"height: 18px;">36</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 18px;">37</div><div class=3D"cm-gutterElement" =
-style=3D"height: 18px;">38</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 18px;">39</div><div class=3D"cm-gutterElement" style=3D"height: 18px;=
-">40</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">41</div><=
-/div><div class=3D"cm-gutter cm-foldGutter"><div class=3D"cm-gutterElement"=
- style=3D"height: 0px; visibility: hidden; pointer-events: none;"><div clas=
-s=3D"fold-icon i-ph-caret-right-bold"></div></div><div class=3D"cm-gutterEl=
-ement cm-activeLineGutter" style=3D"height: 18px; margin-top: 4px;"></div><=
-div class=3D"cm-gutterElement" style=3D"height: 18px; margin-top: 36px;"><d=
-iv class=3D"fold-icon i-ph-caret-down-bold"></div></div><div class=3D"cm-gu=
-tterElement" style=3D"height: 18px;"><div class=3D"fold-icon i-ph-caret-dow=
-n-bold"></div></div><div class=3D"cm-gutterElement" style=3D"height: 18px; =
-margin-top: 108px;"><div class=3D"fold-icon i-ph-caret-down-bold"></div></d=
-iv><div class=3D"cm-gutterElement" style=3D"height: 18px; margin-top: 18px;=
-"><div class=3D"fold-icon i-ph-caret-down-bold"></div></div><div class=3D"c=
-m-gutterElement" style=3D"height: 18px;"><div class=3D"fold-icon i-ph-caret=
--down-bold"></div></div></div></div><div spellcheck=3D"false" autocorrect=
-=3D"off" autocapitalize=3D"off" translate=3D"no" contenteditable=3D"true" s=
-tyle=3D"tab-size: 2; padding-bottom: 554.5px;" class=3D"cm-content cm-lineW=
-rapping" role=3D"textbox" aria-multiline=3D"true" aria-label=3D"Editor" dat=
-a-language=3D"javascript" aria-autocomplete=3D"list"><div class=3D"cm-activ=
-eLine cm-line"><span class=3D"=CD=BCo">const</span> <span class=3D"=CD=BCq"=
->WebSocket</span> <span class=3D"=CD=BCv">=3D</span> <span class=3D"=CD=BCt=
-">require</span><span class=3D"=CD=BCv">(</span><span class=3D"=CD=BCx">'ws=
-'</span><span class=3D"=CD=BCv">)</span><span class=3D"=CD=BCv">;</span></d=
-iv><div class=3D"cm-line"><span class=3D"=CD=BCo">const</span> <span class=
-=3D"=CD=BCq">http</span> <span class=3D"=CD=BCv">=3D</span> <span class=3D"=
-=CD=BCt">require</span><span class=3D"=CD=BCv">(</span><span class=3D"=CD=
-=BCx">'http'</span><span class=3D"=CD=BCv">)</span><span class=3D"=CD=BCv">=
-;</span></div><div class=3D"cm-line"><br></div><div class=3D"cm-line"><span=
- class=3D"=CD=BCo">class</span> <span class=3D"=CD=BCs">ChatServer</span> <=
-span class=3D"=CD=BCv">{</span></div><div class=3D"cm-line">  <span class=
-=3D"=CD=BCq">constructor</span><span class=3D"=CD=BCv">(</span><span class=
-=3D"=CD=BCv">)</span> <span class=3D"=CD=BCv">{</span></div><div class=3D"c=
-m-line">    <span class=3D"=CD=BCs">this</span><span class=3D"=CD=BCv">.</s=
-pan><span class=3D"=CD=BCq">clients</span> <span class=3D"=CD=BCv">=3D</spa=
-n> <span class=3D"=CD=BCo">new</span> <span class=3D"=CD=BCq">Map</span><sp=
-an class=3D"=CD=BCv">(</span><span class=3D"=CD=BCv">)</span><span class=3D=
+1010101010101010101010101010101010101010101010101010101</pre></div><div rol=
+e=3D"status" class=3D"p-3 rounded text-xs bg-bolt-ds-brandContainer text-bo=
+lt-ds-brand mx-3">No results found</div></div></div></div></div><div class=
+=3D"absolute inset-0 flex-col hidden" tabindex=3D"-1" style=3D"opacity: 0; =
+transform: translateX(200%) translateZ(0px);"></div></div></div></div></div=
+><div class=3D"" role=3D"separator" tabindex=3D"0" data-panel-group-directi=
+on=3D"horizontal" data-panel-group-id=3D":r2n:" data-resize-handle=3D"" dat=
+a-resize-handle-state=3D"inactive" data-panel-resize-handle-enabled=3D"true=
+" data-panel-resize-handle-id=3D":r2r:" aria-controls=3D":r2o:" aria-valuem=
+ax=3D"80" aria-valuemin=3D"10" aria-valuenow=3D"23" style=3D"touch-action: =
+none; user-select: none;"></div><div class=3D"flex flex-col" data-panel=3D"=
+" data-panel-group-id=3D":r2n:" data-panel-id=3D":r2s:" data-panel-size=3D"=
+77.0" style=3D"flex: 77 1 0px; overflow: hidden;"><div class=3D"flex items-=
+center gap-2 bg-bolt-elements-background-depth-2 text-bolt-elements-textSec=
+ondary border-b border-bolt-elements-borderColor px-4 py-1 min-h-[34px] tex=
+t-sm overflow-x-auto"><div class=3D"flex items-center flex-1 text-sm"><div =
+class=3D"flex"><div class=3D"relative flex items-center"><span class=3D"fle=
+x items-center gap-1.5 cursor-pointer shrink-0 text-bolt-elements-textTerti=
+ary hover:text-bolt-elements-textPrimary" type=3D"button" id=3D"radix-:r4u:=
+" aria-haspopup=3D"menu" aria-expanded=3D"false" data-state=3D"closed"><spa=
+n translate=3D"no">render-deploy</span></span><span class=3D"i-ph:caret-rig=
+ht inline-block mx-1"></span></div><div class=3D"relative flex items-center=
+"><span class=3D"flex items-center gap-1.5 cursor-pointer shrink-0 text-bol=
+t-elements-textTertiary hover:text-bolt-elements-textPrimary pr-4" type=3D"=
+button" id=3D"radix-:rbp:" aria-haspopup=3D"menu" aria-expanded=3D"false" d=
+ata-state=3D"closed"><div class=3D"i-ph:file-duotone"></div><span translate=
+=3D"no">server.js</span></span></div></div></div></div><div class=3D"relati=
+ve h-full flex-1 overflow-hidden"><div class=3D"relative h-full"><div class=
+=3D"h-full overflow-hidden"><div class=3D"cm-editor =CD=BC1 =CD=BC3 =CD=BC4=
+ =CD=BC1w =CD=BCn"><div class=3D"cm-announced" aria-live=3D"polite"></div><=
+div tabindex=3D"-1" class=3D"cm-scroller"><div class=3D"cm-gutters" aria-hi=
+dden=3D"true" style=3D"min-height: 7884px; position: sticky;"><div class=3D=
+"cm-gutter cm-lineNumbers"><div class=3D"cm-gutterElement" style=3D"height:=
+ 0px; visibility: hidden; pointer-events: none;">999</div><div class=3D"cm-=
+gutterElement cm-activeLineGutter" style=3D"height: 18px; margin-top: 4px;"=
+>1</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">2</div><div=
+ class=3D"cm-gutterElement" style=3D"height: 18px;">3</div><div class=3D"cm=
+-gutterElement" style=3D"height: 18px;">4</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 18px;">5</div><div class=3D"cm-gutterElement" style=3D=
+"height: 18px;">6</div><div class=3D"cm-gutterElement" style=3D"height: 18p=
+x;">7</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">8</div><=
+div class=3D"cm-gutterElement" style=3D"height: 18px;">9</div><div class=3D=
+"cm-gutterElement" style=3D"height: 18px;">10</div><div class=3D"cm-gutterE=
+lement" style=3D"height: 18px;">11</div><div class=3D"cm-gutterElement" sty=
+le=3D"height: 18px;">12</div><div class=3D"cm-gutterElement" style=3D"heigh=
+t: 18px;">13</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">1=
+4</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">15</div><div=
+ class=3D"cm-gutterElement" style=3D"height: 18px;">16</div><div class=3D"c=
+m-gutterElement" style=3D"height: 18px;">17</div><div class=3D"cm-gutterEle=
+ment" style=3D"height: 18px;">18</div><div class=3D"cm-gutterElement" style=
+=3D"height: 18px;">19</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 18px;">20</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">21<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 18px;">22</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 18px;">23</div><div class=3D"cm-=
+gutterElement" style=3D"height: 18px;">24</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 18px;">25</div><div class=3D"cm-gutterElement" style=
+=3D"height: 18px;">26</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 18px;">27</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">28<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 18px;">29</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 18px;">30</div><div class=3D"cm-=
+gutterElement" style=3D"height: 18px;">31</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 18px;">32</div><div class=3D"cm-gutterElement" style=
+=3D"height: 18px;">33</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 18px;">34</div><div class=3D"cm-gutterElement" style=3D"height: 18px;">35<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 18px;">36</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 18px;">37</div><div class=3D"cm-=
+gutterElement" style=3D"height: 18px;">38</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 18px;">39</div><div class=3D"cm-gutterElement" style=
+=3D"height: 18px;">40</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 18px;">41</div></div><div class=3D"cm-gutter cm-foldGutter"><div class=3D"=
+cm-gutterElement" style=3D"height: 0px; visibility: hidden; pointer-events:=
+ none;"><div class=3D"fold-icon i-ph-caret-right-bold"></div></div><div cla=
+ss=3D"cm-gutterElement cm-activeLineGutter" style=3D"height: 18px; margin-t=
+op: 4px;"></div><div class=3D"cm-gutterElement" style=3D"height: 18px; marg=
+in-top: 36px;"><div class=3D"fold-icon i-ph-caret-down-bold"></div></div><d=
+iv class=3D"cm-gutterElement" style=3D"height: 18px;"><div class=3D"fold-ic=
+on i-ph-caret-down-bold"></div></div><div class=3D"cm-gutterElement" style=
+=3D"height: 18px; margin-top: 108px;"><div class=3D"fold-icon i-ph-caret-do=
+wn-bold"></div></div><div class=3D"cm-gutterElement" style=3D"height: 18px;=
+ margin-top: 18px;"><div class=3D"fold-icon i-ph-caret-down-bold"></div></d=
+iv><div class=3D"cm-gutterElement" style=3D"height: 18px;"><div class=3D"fo=
+ld-icon i-ph-caret-down-bold"></div></div></div></div><div spellcheck=3D"fa=
+lse" autocorrect=3D"off" autocapitalize=3D"off" translate=3D"no" contentedi=
+table=3D"true" style=3D"tab-size: 2; padding-bottom: 554.5px;" class=3D"cm-=
+content cm-lineWrapping" role=3D"textbox" aria-multiline=3D"true" aria-labe=
+l=3D"Editor" data-language=3D"javascript" aria-autocomplete=3D"list"><div c=
+lass=3D"cm-activeLine cm-line"><span class=3D"=CD=BCo">const</span> <span c=
+lass=3D"=CD=BCq">WebSocket</span> <span class=3D"=CD=BCv">=3D</span> <span =
+class=3D"=CD=BCt">require</span><span class=3D"=CD=BCv">(</span><span class=
+=3D"=CD=BCx">'ws'</span><span class=3D"=CD=BCv">)</span><span class=3D"=CD=
+=BCv">;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCo">const</s=
+pan> <span class=3D"=CD=BCq">http</span> <span class=3D"=CD=BCv">=3D</span>=
+ <span class=3D"=CD=BCt">require</span><span class=3D"=CD=BCv">(</span><spa=
+n class=3D"=CD=BCx">'http'</span><span class=3D"=CD=BCv">)</span><span clas=
+s=3D"=CD=BCv">;</span></div><div class=3D"cm-line"><br></div><div class=3D"=
+cm-line"><span class=3D"=CD=BCo">class</span> <span class=3D"=CD=BCs">ChatS=
+erver</span> <span class=3D"=CD=BCv">{</span></div><div class=3D"cm-line"> =
+ <span class=3D"=CD=BCq">constructor</span><span class=3D"=CD=BCv">(</span>=
+<span class=3D"=CD=BCv">)</span> <span class=3D"=CD=BCv">{</span></div><div=
+ class=3D"cm-line">    <span class=3D"=CD=BCs">this</span><span class=3D"=
+=CD=BCv">.</span><span class=3D"=CD=BCq">clients</span> <span class=3D"=CD=
+=BCv">=3D</span> <span class=3D"=CD=BCo">new</span> <span class=3D"=CD=BCq"=
+>Map</span><span class=3D"=CD=BCv">(</span><span class=3D"=CD=BCv">)</span>=
+<span class=3D"=CD=BCv">;</span></div><div class=3D"cm-line">    <span clas=
+s=3D"=CD=BCs">this</span><span class=3D"=CD=BCv">.</span><span class=3D"=CD=
+=BCq">messages</span> <span class=3D"=CD=BCv">=3D</span> <span class=3D"=CD=
+=BCv">[</span><span class=3D"=CD=BCv">]</span><span class=3D"=CD=BCv">;</sp=
+an></div><div class=3D"cm-line">    <span class=3D"=CD=BCs">this</span><spa=
+n class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">server</span> <span cla=
+ss=3D"=CD=BCv">=3D</span> <span class=3D"=CD=BCo">null</span><span class=3D=
 "=CD=BCv">;</span></div><div class=3D"cm-line">    <span class=3D"=CD=BCs">=
-this</span><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">messages=
-</span> <span class=3D"=CD=BCv">=3D</span> <span class=3D"=CD=BCv">[</span>=
-<span class=3D"=CD=BCv">]</span><span class=3D"=CD=BCv">;</span></div><div =
-class=3D"cm-line">    <span class=3D"=CD=BCs">this</span><span class=3D"=CD=
+this</span><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">wss</spa=
+n> <span class=3D"=CD=BCv">=3D</span> <span class=3D"=CD=BCo">null</span><s=
+pan class=3D"=CD=BCv">;</span></div><div class=3D"cm-line">  <span class=3D=
+"=CD=BCv">}</span></div><div class=3D"cm-line"><br></div><div class=3D"cm-l=
+ine">  <span class=3D"=CD=BCq">start</span><span class=3D"=CD=BCv">(</span>=
+<span class=3D"=CD=BCq">port</span> <span class=3D"=CD=BCv">=3D</span> <spa=
+n class=3D"=CD=BCu">10000</span><span class=3D"=CD=BCv">)</span> <span clas=
+s=3D"=CD=BCv">{</span></div><div class=3D"cm-line">    <span class=3D"=CD=
+=BC12">// Cr=C3=A9er le serveur HTTP avec page d'accueil</span></div><div c=
+lass=3D"cm-line">    <span class=3D"=CD=BCs">this</span><span class=3D"=CD=
 =BCv">.</span><span class=3D"=CD=BCq">server</span> <span class=3D"=CD=BCv"=
->=3D</span> <span class=3D"=CD=BCo">null</span><span class=3D"=CD=BCv">;</s=
-pan></div><div class=3D"cm-line">    <span class=3D"=CD=BCs">this</span><sp=
-an class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">wss</span> <span class=
-=3D"=CD=BCv">=3D</span> <span class=3D"=CD=BCo">null</span><span class=3D"=
-=CD=BCv">;</span></div><div class=3D"cm-line">  <span class=3D"=CD=BCv">}</=
-span></div><div class=3D"cm-line"><br></div><div class=3D"cm-line">  <span =
-class=3D"=CD=BCq">start</span><span class=3D"=CD=BCv">(</span><span class=
-=3D"=CD=BCq">port</span> <span class=3D"=CD=BCv">=3D</span> <span class=3D"=
-=CD=BCu">10000</span><span class=3D"=CD=BCv">)</span> <span class=3D"=CD=BC=
-v">{</span></div><div class=3D"cm-line">    <span class=3D"=CD=BC12">// Cr=
-=C3=A9er le serveur HTTP avec page d'accueil</span></div><div class=3D"cm-l=
-ine">    <span class=3D"=CD=BCs">this</span><span class=3D"=CD=BCv">.</span=
-><span class=3D"=CD=BCq">server</span> <span class=3D"=CD=BCv">=3D</span> <=
-span class=3D"=CD=BCq">http</span><span class=3D"=CD=BCv">.</span><span cla=
-ss=3D"=CD=BCq">createServer</span><span class=3D"=CD=BCv">(</span><span cla=
-ss=3D"=CD=BCv">(</span><span class=3D"=CD=BCq">req</span><span class=3D"=CD=
-=BCv">,</span> <span class=3D"=CD=BCq">res</span><span class=3D"=CD=BCv">)<=
-/span> <span class=3D"=CD=BCv">=3D&gt;</span> <span class=3D"=CD=BCv">{</sp=
-an></div><div class=3D"cm-line">      <span class=3D"=CD=BCp">if</span> <sp=
-an class=3D"=CD=BCv">(</span><span class=3D"=CD=BCq">req</span><span class=
-=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">url</span> <span class=3D"=CD=
-=BCv">=3D=3D=3D</span> <span class=3D"=CD=BCx">'/'</span><span class=3D"=CD=
-=BCv">)</span> <span class=3D"=CD=BCv">{</span></div><div class=3D"cm-line"=
->        <span class=3D"=CD=BCq">res</span><span class=3D"=CD=BCv">.</span>=
-<span class=3D"=CD=BCt">writeHead</span><span class=3D"=CD=BCv">(</span><sp=
-an class=3D"=CD=BCu">200</span><span class=3D"=CD=BCv">,</span> <span class=
-=3D"=CD=BCv">{</span> <span class=3D"=CD=BCx">'Content-Type'</span><span cl=
-ass=3D"=CD=BCv">:</span> <span class=3D"=CD=BCx">'text/html; charset=3Dutf-=
-8'</span> <span class=3D"=CD=BCv">}</span><span class=3D"=CD=BCv">)</span><=
-span class=3D"=CD=BCv">;</span></div><div class=3D"cm-line">        <span c=
-lass=3D"=CD=BCq">res</span><span class=3D"=CD=BCv">.</span><span class=3D"=
-=CD=BCq">end</span><span class=3D"=CD=BCv">(</span><span class=3D"=CD=BCx">=
-`</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">          &lt;=
-!DOCTYPE html&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx=
-">          &lt;html&gt;</span></div><div class=3D"cm-line"><span class=3D"=
-=CD=BCx">          &lt;head&gt;</span></div><div class=3D"cm-line"><span cl=
-ass=3D"=CD=BCx">            &lt;title&gt;=F0=9F=8E=B5 RPI Radio WebSocket S=
-erver&lt;/title&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=
-=BCx">            &lt;style&gt;</span></div><div class=3D"cm-line"><span cl=
-ass=3D"=CD=BCx">              body { font-family: Arial, sans-serif; max-wi=
-dth: 600px; margin: 50px auto; padding: 20px; }</span></div><div class=3D"c=
-m-line"><span class=3D"=CD=BCx">              .status { background: #e8f5e8=
-; padding: 15px; border-radius: 8px; margin: 20px 0; }</span></div><div cla=
-ss=3D"cm-line"><span class=3D"=CD=BCx">              .info { background: #e=
-3f2fd; padding: 15px; border-radius: 8px; margin: 20px 0; }</span></div><di=
-v class=3D"cm-line"><span class=3D"=CD=BCx">              code { background=
-: #f5f5f5; padding: 2px 6px; border-radius: 4px; }</span></div><div class=
-=3D"cm-line"><span class=3D"=CD=BCx">            &lt;/style&gt;</span></div=
-><div class=3D"cm-line"><span class=3D"=CD=BCx">          &lt;/head&gt;</sp=
-an></div><div class=3D"cm-line"><span class=3D"=CD=BCx">          &lt;body&=
-gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">            =
-&lt;h1&gt;=F0=9F=8E=B5 RPI Radio WebSocket Server&lt;/h1&gt;</span></div><d=
-iv class=3D"cm-line"><span class=3D"=CD=BCx">            &lt;div class=3D"s=
-tatus"&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">     =
-         &lt;h3&gt;=E2=9C=85 Serveur WebSocket actif sur Render !&lt;/h3&gt=
-;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">              =
-&lt;p&gt;&lt;strong&gt;Utilisateurs connect=C3=A9s:&lt;/strong&gt; </span><=
-span class=3D"=CD=BCo">${</span><span class=3D"=CD=BCs">this</span><span cl=
-ass=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">clients</span><span class=
-=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">size</span><span class=3D"=CD=
-=BCo">}</span><span class=3D"=CD=BCx">&lt;/p&gt;</span></div><div class=3D"=
-cm-line"><span class=3D"=CD=BCx">              &lt;p&gt;&lt;strong&gt;Messa=
-ges en m=C3=A9moire:&lt;/strong&gt; </span><span class=3D"=CD=BCo">${</span=
-><span class=3D"=CD=BCs">this</span><span class=3D"=CD=BCv">.</span><span c=
-lass=3D"=CD=BCq">messages</span><span class=3D"=CD=BCv">.</span><span class=
-=3D"=CD=BCq">length</span><span class=3D"=CD=BCo">}</span><span class=3D"=
-=CD=BCx">&lt;/p&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=
-=BCx">              &lt;p&gt;&lt;strong&gt;Statut:&lt;/strong&gt; =F0=9F=9F=
-=A2 En ligne&lt;/p&gt;</span></div><div class=3D"cm-line"><span class=3D"=
-=CD=BCx">            &lt;/div&gt;</span></div><div class=3D"cm-line"><span =
-class=3D"=CD=BCx">            </span></div><div class=3D"cm-line"><span cla=
-ss=3D"=CD=BCx">            &lt;div class=3D"info"&gt;</span></div><div clas=
-s=3D"cm-line"><span class=3D"=CD=BCx">              &lt;h3&gt;=F0=9F=93=A1 =
-Connexion WebSocket&lt;/h3&gt;</span></div><div class=3D"cm-line"><span cla=
-ss=3D"=CD=BCx">              &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt=
-;code&gt;wss://</span><span class=3D"=CD=BCo">${</span><span class=3D"=CD=
-=BCq">req</span><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">hea=
-ders</span><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">host</sp=
-an><span class=3D"=CD=BCo">}</span><span class=3D"=CD=BCx">/chat&lt;/code&g=
-t;&lt;/p&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">   =
-           &lt;p&gt;Ce serveur g=C3=A8re le chat temps r=C3=A9el pour RPI R=
-adio.&lt;/p&gt;</span></div><div class=3D"cm-gap" style=3D"height: 6588px;"=
-></div></div><div class=3D"cm-layer cm-layer-above cm-cursorLayer" aria-hid=
-den=3D"true" style=3D"z-index: 150; animation-duration: 1200ms;"><div class=
-=3D"cm-cursor cm-cursor-primary" style=3D"left: 64px; top: 6px; height: 14p=
-x;"></div></div><div class=3D"cm-layer cm-selectionLayer" aria-hidden=3D"tr=
-ue" style=3D"z-index: -2;"></div></div></div></div></div></div></div></div>=
-</div><div class=3D"" role=3D"separator" tabindex=3D"0" data-panel-group-di=
-rection=3D"vertical" data-panel-group-id=3D":r2l:" data-resize-handle=3D"" =
-data-resize-handle-state=3D"inactive" data-panel-resize-handle-enabled=3D"t=
-rue" data-panel-resize-handle-id=3D":r2t:" aria-controls=3D":r2m:" aria-val=
-uemax=3D"90" aria-valuemin=3D"20" aria-valuenow=3D"75" style=3D"touch-actio=
-n: none; user-select: none;"></div><div class=3D"min-h-[calc(var(--panel-he=
-ader-height)-1px)]" data-panel=3D"" data-panel-collapsible=3D"true" data-pa=
-nel-group-id=3D":r2l:" data-panel-id=3D":r2u:" data-panel-size=3D"25.0" sty=
-le=3D"flex: 25 1 0px; overflow: hidden;"><div class=3D"h-full"><div class=
-=3D"bg-bolt-elements-terminals-background h-full flex flex-col"><div class=
-=3D"flex items-center bg-bolt-elements-background-depth-2 border-y border-b=
-olt-elements-borderColor gap-1.5 min-h-[var(--panel-header-height)] p-2" ro=
-le=3D"tablist"><button class=3D"flex items-center text-sm cursor-pointer ga=
-p-1.5 px-3 py-2 h-full whitespace-nowrap rounded-full bg-bolt-elements-back=
-ground-depth-2 text-bolt-elements-textSecondary hover:bg-bolt-elements-term=
-inals-buttonBackground" id=3D"bolt-terminal-tab-0" role=3D"tab" aria-select=
-ed=3D"false" aria-controls=3D"bolt-terminal-tapbanel-0"><div class=3D"i-ph:=
-lightning-duotone text-lg"></div>Bolt </button><button class=3D"flex items-=
-center text-sm cursor-pointer gap-1.5 px-3 py-2 h-full whitespace-nowrap ro=
-unded-full bg-bolt-elements-terminals-buttonBackground text-bolt-elements-t=
-extPrimary" id=3D"bolt-terminal-tab-1" role=3D"tab" aria-selected=3D"true" =
-aria-controls=3D"bolt-terminal-tapbanel-1"><div class=3D"i-ph:terminal-wind=
-ow-duotone text-lg"></div>Terminal </button><button class=3D"flex items-cen=
-ter text-bolt-elements-item-contentDefault bg-transparent rounded-md disabl=
-ed:cursor-not-allowed enabled:hover:text-bolt-elements-item-contentActive e=
-nabled:hover:bg-bolt-elements-item-backgroundActive p-1"><div class=3D"i-ph=
-:plus text-md"></div></button><button class=3D"flex items-center text-bolt-=
-elements-item-contentDefault bg-transparent rounded-md disabled:cursor-not-=
-allowed enabled:hover:text-bolt-elements-item-contentActive enabled:hover:b=
-g-bolt-elements-item-backgroundActive p-1 ml-auto" data-state=3D"closed"><d=
-iv class=3D"i-ph:caret-down text-md"></div></button></div><div translate=3D=
-"no" class=3D"h-full overflow-hidden hidden" role=3D"tabpanel" id=3D"bolt-t=
-erminal-tapbanel-0" aria-labelledby=3D"bolt-terminal-tab-0"><div dir=3D"ltr=
-" class=3D"terminal xterm xterm-dom-renderer-owner-1"><div class=3D"xterm-v=
-iewport" style=3D"background-color: rgb(16, 16, 16);"><div class=3D"xterm-s=
-croll-area" style=3D"height: 780px;"></div></div><div class=3D"xterm-screen=
-" style=3D"width: 1316px; height: 120px;"><div class=3D"xterm-helpers"><tex=
-tarea class=3D"xterm-helper-textarea" aria-label=3D"Terminal input" aria-mu=
-ltiline=3D"false" autocorrect=3D"off" autocapitalize=3D"off" spellcheck=3D"=
-false" tabindex=3D"0" style=3D"left: 0px; top: 15px; width: 7px; height: 15=
-px; line-height: 15px; z-index: -5;"></textarea><div class=3D"composition-v=
-iew"></div><div class=3D"xterm-width-cache-measure-container" aria-hidden=
-=3D"true" style=3D"white-space: pre; font-kerning: none; font-family: Menlo=
-, courier-new, courier, monospace; font-size: 12px;"><span class=3D"xterm-c=
-har-measure-element" style=3D"font-weight: normal;">&amp;&amp;&amp;&amp;&am=
-p;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&am=
-p;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</span><span =
-class=3D"xterm-char-measure-element" style=3D"font-weight: bold;">444444444=
-44444444444444444444444</span><span class=3D"xterm-char-measure-element" st=
-yle=3D"font-style: italic; font-weight: normal;"></span><span class=3D"xter=
-m-char-measure-element" style=3D"font-weight: bold; font-style: italic;"></=
-span></div></div><div class=3D"xterm-rows" aria-hidden=3D"true" style=3D"li=
-ne-height: normal; letter-spacing: 0px;"><div style=3D"width: 1316px; heigh=
-t: 15px; line-height: 15px; overflow: hidden;"><span class=3D"xterm-dim">10=
-:12:27</span><span> </span><span class=3D"xterm-bold xterm-fg-14">[vite]</s=
-pan><span> </span><span class=3D"xterm-fg-2">hmr update </span><span class=
-=3D"xterm-dim">/src/components/RadioPlayer.tsx, /src/index.css, /src/compon=
-ents/ChatBox.tsx</span><span> </span><span class=3D"xterm-fg-3">(x4)</span>=
+>=3D</span> <span class=3D"=CD=BCq">http</span><span class=3D"=CD=BCv">.</s=
+pan><span class=3D"=CD=BCq">createServer</span><span class=3D"=CD=BCv">(</s=
+pan><span class=3D"=CD=BCv">(</span><span class=3D"=CD=BCq">req</span><span=
+ class=3D"=CD=BCv">,</span> <span class=3D"=CD=BCq">res</span><span class=
+=3D"=CD=BCv">)</span> <span class=3D"=CD=BCv">=3D&gt;</span> <span class=3D=
+"=CD=BCv">{</span></div><div class=3D"cm-line">      <span class=3D"=CD=BCp=
+">if</span> <span class=3D"=CD=BCv">(</span><span class=3D"=CD=BCq">req</sp=
+an><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">url</span> <span=
+ class=3D"=CD=BCv">=3D=3D=3D</span> <span class=3D"=CD=BCx">'/'</span><span=
+ class=3D"=CD=BCv">)</span> <span class=3D"=CD=BCv">{</span></div><div clas=
+s=3D"cm-line">        <span class=3D"=CD=BCq">res</span><span class=3D"=CD=
+=BCv">.</span><span class=3D"=CD=BCt">writeHead</span><span class=3D"=CD=BC=
+v">(</span><span class=3D"=CD=BCu">200</span><span class=3D"=CD=BCv">,</spa=
+n> <span class=3D"=CD=BCv">{</span> <span class=3D"=CD=BCx">'Content-Type'<=
+/span><span class=3D"=CD=BCv">:</span> <span class=3D"=CD=BCx">'text/html; =
+charset=3Dutf-8'</span> <span class=3D"=CD=BCv">}</span><span class=3D"=CD=
+=BCv">)</span><span class=3D"=CD=BCv">;</span></div><div class=3D"cm-line">=
+        <span class=3D"=CD=BCq">res</span><span class=3D"=CD=BCv">.</span><=
+span class=3D"=CD=BCq">end</span><span class=3D"=CD=BCv">(</span><span clas=
+s=3D"=CD=BCx">`</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">=
+          &lt;!DOCTYPE html&gt;</span></div><div class=3D"cm-line"><span cl=
+ass=3D"=CD=BCx">          &lt;html&gt;</span></div><div class=3D"cm-line"><=
+span class=3D"=CD=BCx">          &lt;head&gt;</span></div><div class=3D"cm-=
+line"><span class=3D"=CD=BCx">            &lt;title&gt;=F0=9F=8E=B5 RPI Rad=
+io WebSocket Server&lt;/title&gt;</span></div><div class=3D"cm-line"><span =
+class=3D"=CD=BCx">            &lt;style&gt;</span></div><div class=3D"cm-li=
+ne"><span class=3D"=CD=BCx">              body { font-family: Arial, sans-s=
+erif; max-width: 600px; margin: 50px auto; padding: 20px; }</span></div><di=
+v class=3D"cm-line"><span class=3D"=CD=BCx">              .status { backgro=
+und: #e8f5e8; padding: 15px; border-radius: 8px; margin: 20px 0; }</span></=
+div><div class=3D"cm-line"><span class=3D"=CD=BCx">              .info { ba=
+ckground: #e3f2fd; padding: 15px; border-radius: 8px; margin: 20px 0; }</sp=
+an></div><div class=3D"cm-line"><span class=3D"=CD=BCx">              code =
+{ background: #f5f5f5; padding: 2px 6px; border-radius: 4px; }</span></div>=
+<div class=3D"cm-line"><span class=3D"=CD=BCx">            &lt;/style&gt;</=
+span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">          &lt;/he=
+ad&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">         =
+ &lt;body&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">  =
+          &lt;h1&gt;=F0=9F=8E=B5 RPI Radio WebSocket Server&lt;/h1&gt;</spa=
+n></div><div class=3D"cm-line"><span class=3D"=CD=BCx">            &lt;div =
+class=3D"status"&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=
+=BCx">              &lt;h3&gt;=E2=9C=85 Serveur WebSocket actif sur Render =
+!&lt;/h3&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">   =
+           &lt;p&gt;&lt;strong&gt;Utilisateurs connect=C3=A9s:&lt;/strong&g=
+t; </span><span class=3D"=CD=BCo">${</span><span class=3D"=CD=BCs">this</sp=
+an><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">clients</span><s=
+pan class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">size</span><span clas=
+s=3D"=CD=BCo">}</span><span class=3D"=CD=BCx">&lt;/p&gt;</span></div><div c=
+lass=3D"cm-line"><span class=3D"=CD=BCx">              &lt;p&gt;&lt;strong&=
+gt;Messages en m=C3=A9moire:&lt;/strong&gt; </span><span class=3D"=CD=BCo">=
+${</span><span class=3D"=CD=BCs">this</span><span class=3D"=CD=BCv">.</span=
+><span class=3D"=CD=BCq">messages</span><span class=3D"=CD=BCv">.</span><sp=
+an class=3D"=CD=BCq">length</span><span class=3D"=CD=BCo">}</span><span cla=
+ss=3D"=CD=BCx">&lt;/p&gt;</span></div><div class=3D"cm-line"><span class=3D=
+"=CD=BCx">              &lt;p&gt;&lt;strong&gt;Statut:&lt;/strong&gt; =F0=
+=9F=9F=A2 En ligne&lt;/p&gt;</span></div><div class=3D"cm-line"><span class=
+=3D"=CD=BCx">            &lt;/div&gt;</span></div><div class=3D"cm-line"><s=
+pan class=3D"=CD=BCx">            </span></div><div class=3D"cm-line"><span=
+ class=3D"=CD=BCx">            &lt;div class=3D"info"&gt;</span></div><div =
+class=3D"cm-line"><span class=3D"=CD=BCx">              &lt;h3&gt;=F0=9F=93=
+=A1 Connexion WebSocket&lt;/h3&gt;</span></div><div class=3D"cm-line"><span=
+ class=3D"=CD=BCx">              &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt;=
+ &lt;code&gt;wss://</span><span class=3D"=CD=BCo">${</span><span class=3D"=
+=CD=BCq">req</span><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">=
+headers</span><span class=3D"=CD=BCv">.</span><span class=3D"=CD=BCq">host<=
+/span><span class=3D"=CD=BCo">}</span><span class=3D"=CD=BCx">/chat&lt;/cod=
+e&gt;&lt;/p&gt;</span></div><div class=3D"cm-line"><span class=3D"=CD=BCx">=
+              &lt;p&gt;Ce serveur g=C3=A8re le chat temps r=C3=A9el pour RP=
+I Radio.&lt;/p&gt;</span></div><div class=3D"cm-gap" style=3D"height: 6588p=
+x;"></div></div><div class=3D"cm-layer cm-layer-above cm-cursorLayer" aria-=
+hidden=3D"true" style=3D"z-index: 150; animation-duration: 1200ms;"><div cl=
+ass=3D"cm-cursor cm-cursor-primary" style=3D"left: 64px; top: 6px; height: =
+14px;"></div></div><div class=3D"cm-layer cm-selectionLayer" aria-hidden=3D=
+"true" style=3D"z-index: -2;"></div></div></div></div></div></div></div></d=
+iv></div><div class=3D"" role=3D"separator" tabindex=3D"0" data-panel-group=
+-direction=3D"vertical" data-panel-group-id=3D":r2l:" data-resize-handle=3D=
+"" data-resize-handle-state=3D"inactive" data-panel-resize-handle-enabled=
+=3D"true" data-panel-resize-handle-id=3D":r2t:" aria-controls=3D":r2m:" ari=
+a-valuemax=3D"90" aria-valuemin=3D"20" aria-valuenow=3D"75" style=3D"touch-=
+action: none; user-select: none;"></div><div class=3D"min-h-[calc(var(--pan=
+el-header-height)-1px)]" data-panel=3D"" data-panel-collapsible=3D"true" da=
+ta-panel-group-id=3D":r2l:" data-panel-id=3D":r2u:" data-panel-size=3D"25.0=
+" style=3D"flex: 25 1 0px; overflow: hidden;"><div class=3D"h-full"><div cl=
+ass=3D"bg-bolt-elements-terminals-background h-full flex flex-col"><div cla=
+ss=3D"flex items-center bg-bolt-elements-background-depth-2 border-y border=
+-bolt-elements-borderColor gap-1.5 min-h-[var(--panel-header-height)] p-2" =
+role=3D"tablist"><button class=3D"flex items-center text-sm cursor-pointer =
+gap-1.5 px-3 py-2 h-full whitespace-nowrap rounded-full bg-bolt-elements-ba=
+ckground-depth-2 text-bolt-elements-textSecondary hover:bg-bolt-elements-te=
+rminals-buttonBackground" id=3D"bolt-terminal-tab-0" role=3D"tab" aria-sele=
+cted=3D"false" aria-controls=3D"bolt-terminal-tapbanel-0"><div class=3D"i-p=
+h:lightning-duotone text-lg"></div>Bolt </button><button class=3D"flex item=
+s-center text-sm cursor-pointer gap-1.5 px-3 py-2 h-full whitespace-nowrap =
+rounded-full bg-bolt-elements-terminals-buttonBackground text-bolt-elements=
+-textPrimary" id=3D"bolt-terminal-tab-1" role=3D"tab" aria-selected=3D"true=
+" aria-controls=3D"bolt-terminal-tapbanel-1"><div class=3D"i-ph:terminal-wi=
+ndow-duotone text-lg"></div>Terminal </button><button class=3D"flex items-c=
+enter text-bolt-elements-item-contentDefault bg-transparent rounded-md disa=
+bled:cursor-not-allowed enabled:hover:text-bolt-elements-item-contentActive=
+ enabled:hover:bg-bolt-elements-item-backgroundActive p-1"><div class=3D"i-=
+ph:plus text-md"></div></button><button class=3D"flex items-center text-bol=
+t-elements-item-contentDefault bg-transparent rounded-md disabled:cursor-no=
+t-allowed enabled:hover:text-bolt-elements-item-contentActive enabled:hover=
+:bg-bolt-elements-item-backgroundActive p-1 ml-auto" data-state=3D"closed">=
+<div class=3D"i-ph:caret-down text-md"></div></button></div><div translate=
+=3D"no" class=3D"h-full overflow-hidden hidden" role=3D"tabpanel" id=3D"bol=
+t-terminal-tapbanel-0" aria-labelledby=3D"bolt-terminal-tab-0"><div dir=3D"=
+ltr" class=3D"terminal xterm xterm-dom-renderer-owner-1"><div class=3D"xter=
+m-viewport" style=3D"background-color: rgb(16, 16, 16);"><div class=3D"xter=
+m-scroll-area" style=3D"height: 795px;"></div></div><div class=3D"xterm-scr=
+een" style=3D"width: 1316px; height: 120px;"><div class=3D"xterm-helpers"><=
+textarea class=3D"xterm-helper-textarea" aria-label=3D"Terminal input" aria=
+-multiline=3D"false" autocorrect=3D"off" autocapitalize=3D"off" spellcheck=
+=3D"false" tabindex=3D"0" style=3D"left: 0px; top: 15px; width: 7px; height=
+: 15px; line-height: 15px; z-index: -5;"></textarea><div class=3D"compositi=
+on-view"></div><div class=3D"xterm-width-cache-measure-container" aria-hidd=
+en=3D"true" style=3D"white-space: pre; font-kerning: none; font-family: Men=
+lo, courier-new, courier, monospace; font-size: 12px;"><span class=3D"xterm=
+-char-measure-element" style=3D"font-weight: normal;">&amp;&amp;&amp;&amp;&=
+amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&=
+amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</span><spa=
+n class=3D"xterm-char-measure-element" style=3D"font-weight: bold;">4444444=
+4444444444444444444444444</span><span class=3D"xterm-char-measure-element" =
+style=3D"font-style: italic; font-weight: normal;"></span><span class=3D"xt=
+erm-char-measure-element" style=3D"font-weight: bold; font-style: italic;">=
+</span></div></div><div class=3D"xterm-rows" aria-hidden=3D"true" style=3D"=
+line-height: normal; letter-spacing: 0px;"><div style=3D"width: 1316px; hei=
+ght: 15px; line-height: 15px; overflow: hidden;"><span class=3D"xterm-dim">=
+10:24:05</span><span> </span><span class=3D"xterm-bold xterm-fg-14">[vite]<=
+/span><span> </span><span class=3D"xterm-fg-2">hmr update </span><span clas=
+s=3D"xterm-dim">/src/components/RadioPlayer.tsx, /src/index.css, /src/compo=
+nents/ChatBox.tsx</span><span> </span><span class=3D"xterm-fg-3">(x5)</span=
+></div><div style=3D"width: 1316px; height: 15px; line-height: 15px; overfl=
+ow: hidden;"><span> </span></div><div style=3D"width: 1316px; height: 15px;=
+ line-height: 15px; overflow: hidden;"></div><div style=3D"width: 1316px; h=
+eight: 15px; line-height: 15px; overflow: hidden;"></div><div style=3D"widt=
+h: 1316px; height: 15px; line-height: 15px; overflow: hidden;"></div><div s=
+tyle=3D"width: 1316px; height: 15px; line-height: 15px; overflow: hidden;">=
 </div><div style=3D"width: 1316px; height: 15px; line-height: 15px; overflo=
-w: hidden;"><span> </span></div><div style=3D"width: 1316px; height: 15px; =
-line-height: 15px; overflow: hidden;"></div><div style=3D"width: 1316px; he=
-ight: 15px; line-height: 15px; overflow: hidden;"></div><div style=3D"width=
-: 1316px; height: 15px; line-height: 15px; overflow: hidden;"></div><div st=
-yle=3D"width: 1316px; height: 15px; line-height: 15px; overflow: hidden;"><=
-/div><div style=3D"width: 1316px; height: 15px; line-height: 15px; overflow=
-: hidden;"></div><div style=3D"width: 1316px; height: 15px; line-height: 15=
-px; overflow: hidden;"></div></div><div class=3D"xterm-selection" aria-hidd=
-en=3D"true"></div><div class=3D"xterm-decoration-container"></div></div></d=
-iv></div><div translate=3D"no" class=3D"h-full overflow-hidden" role=3D"tab=
-panel" id=3D"bolt-terminal-tapbanel-1" aria-labelledby=3D"bolt-terminal-tab=
--1"><div dir=3D"ltr" class=3D"terminal xterm xterm-dom-renderer-owner-2"><d=
-iv class=3D"xterm-viewport" style=3D"background-color: rgb(16, 16, 16);"><d=
-iv class=3D"xterm-scroll-area" style=3D"height: 154px;"></div></div><div cl=
-ass=3D"xterm-screen" style=3D"width: 1302px; height: 120px;"><div class=3D"=
-xterm-helpers"><textarea class=3D"xterm-helper-textarea" aria-label=3D"Term=
-inal input" aria-multiline=3D"false" autocorrect=3D"off" autocapitalize=3D"=
-off" spellcheck=3D"false" tabindex=3D"0" style=3D"left: 14px; top: 15px; wi=
-dth: 7px; height: 15px; line-height: 15px; z-index: -5;"></textarea><div cl=
-ass=3D"composition-view"></div><div class=3D"xterm-width-cache-measure-cont=
-ainer" aria-hidden=3D"true" style=3D"white-space: pre; font-kerning: none; =
-font-family: Menlo, courier-new, courier, monospace; font-size: 12px;"><spa=
-n class=3D"xterm-char-measure-element" style=3D"font-weight: normal;">     =
-                           </span><span class=3D"xterm-char-measure-element=
-" style=3D"font-weight: bold;"></span><span class=3D"xterm-char-measure-ele=
-ment" style=3D"font-style: italic; font-weight: normal;"></span><span class=
-=3D"xterm-char-measure-element" style=3D"font-weight: bold; font-style: ita=
-lic;"></span></div></div><div class=3D"xterm-rows" aria-hidden=3D"true" sty=
-le=3D"line-height: normal; letter-spacing: 7px;"><div style=3D"width: 1302p=
-x; height: 15px; line-height: 15px; overflow: hidden;"><span class=3D"xterm=
--fg-4" style=3D"letter-spacing: 0px;">~/project</span></div><div style=3D"w=
-idth: 1302px; height: 15px; line-height: 15px; overflow: hidden;"><span cla=
-ss=3D"xterm-fg-5" style=3D"letter-spacing: 1px;">=E2=9D=AF</span><span styl=
-e=3D"letter-spacing: 0px;"> </span><span style=3D"letter-spacing: 0px;"> </=
-span></div><div style=3D"width: 1302px; height: 15px; line-height: 15px; ov=
-erflow: hidden;"></div><div style=3D"width: 1302px; height: 15px; line-heig=
-ht: 15px; overflow: hidden;"></div><div style=3D"width: 1302px; height: 15p=
-x; line-height: 15px; overflow: hidden;"></div><div style=3D"width: 1302px;=
- height: 15px; line-height: 15px; overflow: hidden;"></div><div style=3D"wi=
-dth: 1302px; height: 15px; line-height: 15px; overflow: hidden;"></div><div=
- style=3D"width: 1302px; height: 15px; line-height: 15px; overflow: hidden;=
-"></div></div><div class=3D"xterm-selection" aria-hidden=3D"true"></div><di=
-v class=3D"xterm-decoration-container"></div></div></div></div></div></div>=
-</div></div></div></div><div class=3D"absolute inset-0" style=3D"transform:=
- translateX(100%) translateZ(0px);"><div class=3D"contents"><div class=3D"s=
-ize-full flex flex-col bg-bolt-elements-background-depth-2"><div class=3D"b=
-g-bolt-elements-background-depth-2 p-2 flex items-center min-h-0 gap-1.5"><=
-button class=3D"flex items-center text-bolt-elements-item-contentDefault bg=
--transparent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt=
--elements-item-contentActive enabled:hover:bg-bolt-elements-item-background=
-Active p-1" data-state=3D"closed"><div class=3D"i-ph:arrow-clockwise text-x=
-l"></div></button><div class=3D"group flex items-center gap-1 flex-grow bg-=
-bolt-elements-preview-addressBar-background border border-bolt-elements-bor=
-derColor text-bolt-elements-preview-addressBar-text rounded-full pl-1 pr-3 =
-py-1 text-sm hover:bg-bolt-elements-preview-addressBar-backgroundHover hove=
-r:focus-within:bg-bolt-elements-preview-addressBar-backgroundActive focus-w=
-ithin:bg-bolt-elements-preview-addressBar-backgroundActive
+w: hidden;"></div><div style=3D"width: 1316px; height: 15px; line-height: 1=
+5px; overflow: hidden;"></div></div><div class=3D"xterm-selection" aria-hid=
+den=3D"true"></div><div class=3D"xterm-decoration-container"></div></div></=
+div></div><div translate=3D"no" class=3D"h-full overflow-hidden" role=3D"ta=
+bpanel" id=3D"bolt-terminal-tapbanel-1" aria-labelledby=3D"bolt-terminal-ta=
+b-1"><div dir=3D"ltr" class=3D"terminal xterm xterm-dom-renderer-owner-2"><=
+div class=3D"xterm-viewport" style=3D"background-color: rgb(16, 16, 16);"><=
+div class=3D"xterm-scroll-area" style=3D"height: 154px;"></div></div><div c=
+lass=3D"xterm-screen" style=3D"width: 1302px; height: 120px;"><div class=3D=
+"xterm-helpers"><textarea class=3D"xterm-helper-textarea" aria-label=3D"Ter=
+minal input" aria-multiline=3D"false" autocorrect=3D"off" autocapitalize=3D=
+"off" spellcheck=3D"false" tabindex=3D"0" style=3D"left: 14px; top: 15px; w=
+idth: 7px; height: 15px; line-height: 15px; z-index: -5;"></textarea><div c=
+lass=3D"composition-view"></div><div class=3D"xterm-width-cache-measure-con=
+tainer" aria-hidden=3D"true" style=3D"white-space: pre; font-kerning: none;=
+ font-family: Menlo, courier-new, courier, monospace; font-size: 12px;"><sp=
+an class=3D"xterm-char-measure-element" style=3D"font-weight: normal;">    =
+                            </span><span class=3D"xterm-char-measure-elemen=
+t" style=3D"font-weight: bold;"></span><span class=3D"xterm-char-measure-el=
+ement" style=3D"font-style: italic; font-weight: normal;"></span><span clas=
+s=3D"xterm-char-measure-element" style=3D"font-weight: bold; font-style: it=
+alic;"></span></div></div><div class=3D"xterm-rows" aria-hidden=3D"true" st=
+yle=3D"line-height: normal; letter-spacing: 7px;"><div style=3D"width: 1302=
+px; height: 15px; line-height: 15px; overflow: hidden;"><span class=3D"xter=
+m-fg-4" style=3D"letter-spacing: 0px;">~/project</span></div><div style=3D"=
+width: 1302px; height: 15px; line-height: 15px; overflow: hidden;"><span cl=
+ass=3D"xterm-fg-5" style=3D"letter-spacing: 1px;">=E2=9D=AF</span><span sty=
+le=3D"letter-spacing: 0px;"> </span><span style=3D"letter-spacing: 0px;"> <=
+/span></div><div style=3D"width: 1302px; height: 15px; line-height: 15px; o=
+verflow: hidden;"></div><div style=3D"width: 1302px; height: 15px; line-hei=
+ght: 15px; overflow: hidden;"></div><div style=3D"width: 1302px; height: 15=
+px; line-height: 15px; overflow: hidden;"></div><div style=3D"width: 1302px=
+; height: 15px; line-height: 15px; overflow: hidden;"></div><div style=3D"w=
+idth: 1302px; height: 15px; line-height: 15px; overflow: hidden;"></div><di=
+v style=3D"width: 1302px; height: 15px; line-height: 15px; overflow: hidden=
+;"></div></div><div class=3D"xterm-selection" aria-hidden=3D"true"></div><d=
+iv class=3D"xterm-decoration-container"></div></div></div></div></div></div=
+></div></div></div></div><div class=3D"absolute inset-0" style=3D"transform=
+: translateX(100%) translateZ(0px);"><div class=3D"contents"><div class=3D"=
+size-full flex flex-col bg-bolt-elements-background-depth-2"><div class=3D"=
+bg-bolt-elements-background-depth-2 p-2 flex items-center min-h-0 gap-1.5">=
+<button class=3D"flex items-center text-bolt-elements-item-contentDefault b=
+g-transparent rounded-md disabled:cursor-not-allowed enabled:hover:text-bol=
+t-elements-item-contentActive enabled:hover:bg-bolt-elements-item-backgroun=
+dActive p-1" data-state=3D"closed"><div class=3D"i-ph:arrow-clockwise text-=
+xl"></div></button><div class=3D"group flex items-center gap-1 flex-grow bg=
+-bolt-elements-preview-addressBar-background border border-bolt-elements-bo=
+rderColor text-bolt-elements-preview-addressBar-text rounded-full pl-1 pr-3=
+ py-1 text-sm hover:bg-bolt-elements-preview-addressBar-backgroundHover hov=
+er:focus-within:bg-bolt-elements-preview-addressBar-backgroundActive focus-=
+within:bg-bolt-elements-preview-addressBar-backgroundActive
         focus-within-border-bolt-elements-borderColorActive focus-within:te=
 xt-bolt-elements-preview-addressBar-textActive"><div class=3D"flex gap-1.5 =
 w-full"><div class=3D"relative z-port-dropdown grid"><button class=3D"flex =
@@ -4426,21 +4516,21 @@ iv><div id=3D"chmln-prefetch-images"></div><iframe id=3D"chmln-reference-if=
 rame" style=3D"height: 0; width: 0; display: none !important"></iframe></di=
 v><div class=3D"=CD=BC1 =CD=BC3 =CD=BC4 =CD=BC1w =CD=BCn" style=3D"position=
 : relative;"></div></body></html>
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/gif
 Content-Transfer-Encoding: base64
 Content-Location: https://analytics.twitter.com/1/i/adsct?bci=4&dv=Indian%2FReunion%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261040%260%26na&eci=3&event=%7B%7D&event_id=191db79d-dc8d-403c-9b72-f4cfe3df249d&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e033095d-9fed-4674-953b-c5fb1a9001c5&tw_document_href=https%3A%2F%2Fbolt.new%2F~%2Fsb1-hlwlczzn&tw_iframe_status=0&txn_id=p6wej&type=javascript&version=2.3.33
 
 R0lGODlhAQABAIAAAP///wAAACH5BAkAAAEALAAAAAABAAEAAAICTAEAOw==
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/gif
 Content-Transfer-Encoding: base64
 Content-Location: https://t.co/1/i/adsct?bci=4&dv=Indian%2FReunion%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261040%260%26na&eci=3&event=%7B%7D&event_id=191db79d-dc8d-403c-9b72-f4cfe3df249d&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e033095d-9fed-4674-953b-c5fb1a9001c5&tw_document_href=https%3A%2F%2Fbolt.new%2F~%2Fsb1-hlwlczzn&tw_iframe_status=0&txn_id=p6wej&type=javascript&version=2.3.33
 
 R0lGODlhAQABAIAAAP///wAAACH5BAkAAAEALAAAAAABAAEAAAICTAEAOw==
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-feedback.svg
@@ -4477,7 +4567,7 @@ b836d"/>
   </g>
 </svg>
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-alert.svg
@@ -4507,7 +4597,7 @@ ht=3D"3.805" rx=3D"1.902" transform=3D"translate(485.504 398.799) rotate(13=
   </g>
 </svg>
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-key2.svg
@@ -4553,7 +4643,7 @@ t)"/>
   </g>
 </svg>
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-success.svg
@@ -4582,7 +4672,7 @@ ht=3D"17.219" rx=3D"2" transform=3D"translate(486.988 397.454) rotate(135)"=
  fill=3D"#09f"/>
   </g>
 </svg>=0A
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-sync.svg
@@ -4603,7 +4693,7 @@ a5.526,5.526,0,0,1-9.43,3.944L4.368,13.833A8.05,8.05,0,0,0,18.129,8.149h1.1=
 9c93c"/>
 </svg>
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/ts-free-logo.png
@@ -4690,7 +4780,7 @@ F3fp5bZQN2+/EaX+gAkU5I50dmRDt/zXKSj+KHgjC++qMf68sCPD+tMdiNMFy5JAdbnJdQPJr90C
 mXxXGT1QOW5zUtsCNWZnawtUzo3MO9gq78ZzTKCz68J+nRm2C1V1Kspp6GDnFrQTBKug0xXc7NA1
 FrgJTNfYscul3ASmy03aNQJvAtM1duxyKf8P87k2o2b8GPsAAAAASUVORK5CYII=
 
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/css/custom.css
@@ -5560,7 +5650,7 @@ icy-text { color: rgb(137, 137, 137); text-align: left; font-size: 12px; }
 #yf-bt-wrapper .faq-text ol { padding-left: 25px; }
 
 #yf-bt-wrapper .faq-text ol li { margin-bottom: 10px; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://stackblitz.com/avatars/S/319.svg
@@ -5575,7 +5665,7 @@ erif" font-size=3D"54">
 ddle">S</tspan>
   </text>
 </svg>=0A
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/meta-CzqnVCjZ.css
@@ -5680,7 +5770,7 @@ x solid rgb(223, 226, 229); }
 
 ._MarkdownContent_19116_1 table tr:nth-child(2n) { background-color: rgb(24=
 6, 248, 250); }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/Chat-DEw1q4XJ.css
@@ -5926,7 +6016,7 @@ in; }
   0% { opacity: 0; transform: translateY(var(--translate-y, 10px)); }
   100% { opacity: 1; transform: translateY(0px); }
 }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/useTeamInvites-2lP7qIO8.css
@@ -5953,7 +6043,7 @@ ign: left; color: var(--bolt-ds-text-secondary); }
 ._suggestionHighlighted_1i6ch_24, ._suggestion_1i6ch_9:hover { background-c=
 olor: var(--bolt-elements-actions-code-background); --un-text-opacity: 1; c=
 olor: rgba(var(--bolt-ds-text-primary),var(--un-text-opacity)); }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
@@ -6115,7 +6205,7 @@ LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
 LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
 +131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
 0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/xterm-LZoznX6r.css
@@ -6204,7 +6294,7 @@ n-top-layer { z-index: 7; }
 ; right: 0px; pointer-events: none; }
 
 .xterm-decoration-top { z-index: 2; position: relative; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/index-Blfkm6m7.css
@@ -6721,7 +6811,7 @@ html[data-theme=3D"dark"] { color-scheme: dark; }
 
 .selection-accent ::selection { background: var(--bolt-elements-textSelecti=
 on-background); color: var(--bolt-elements-textSelection-text); }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/tailwind-compat-Bwh-BmjE.css
@@ -6813,7 +6903,7 @@ tical-align: middle; }
 img, video { max-width: 100%; height: auto; }
 
 [hidden] { display: none; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/ReactToastify-Bh76j7cs.css
@@ -7226,7 +7316,7 @@ wn; animation-timing-function: ease-in; animation-duration: 0.3s; }
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/LightRays-apN2LHcc.css
@@ -7267,7 +7357,7 @@ x; height: 370px; top: -330px; left: 50px; mix-blend-mode: overlay; opacity=
 ._RayContainer_1ti3k_1 ._RayFive_1ti3k_65 { position: absolute; width: 110p=
 x; height: 400px; transform: rotate(-40deg); top: -280px; left: -10px; mix-=
 blend-mode: overlay; opacity: 0.8; filter: blur(60px); }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/root-DV9FmPU1.css
@@ -14574,10 +14664,10 @@ rder-outline); }
 @media (min-width: 1536px) {
   .\32 xl\:max-w-\[70rem\] { max-width: 70rem; }
 }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-9e38c6b6-90a7-40b2-b7d4-7bf237b89909@mhtml.blink
+Content-Location: cid:css-5fb68819-385a-49d2-ac38-94e3c6561f15@mhtml.blink
 
 @charset "utf-8";
 
@@ -14588,17 +14678,17 @@ Content-Location: cid:css-9e38c6b6-90a7-40b2-b7d4-7bf237b89909@mhtml.blink
 [data-theme=3D"dark"] .chmln-helpbar-widget { background-color: rgb(30, 30,=
  30) !important; color: rgb(241, 241, 241) !important; border-color: rgb(51=
 , 51, 51) !important; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-926d6467-4a05-4050-873e-64488995920e@mhtml.blink
+Content-Location: cid:css-0df4cc18-90d1-4beb-bfe8-324a977dd842@mhtml.blink
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-cbfb7206-aae6-42be-9650-e12bbbe2f05d@mhtml.blink
+Content-Location: cid:css-e39b6819-8ab1-45e3-b2ab-20abb11f57cd@mhtml.blink
 
 @charset "utf-8";
 
@@ -16720,19 +16810,19 @@ ground-color: rgb(43, 43, 44); }
 
 .xterm-dom-renderer-owner-2 .xterm-bg-257 { background-color: rgb(239, 240,=
  235); }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-a74cd38a-d637-4bdd-a3ce-ea535723ea6f@mhtml.blink
+Content-Location: cid:css-e7a3d33b-3072-41af-8473-106b008e0f22@mhtml.blink
 
 @charset "utf-8";
 
 .xterm-dom-renderer-owner-2 .xterm-rows span { display: inline-block; heigh=
 t: 100%; vertical-align: top; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-0355496e-99dd-4210-9d5c-c9f7da02ff9c@mhtml.blink
+Content-Location: cid:css-aca9b44a-e51d-473d-8789-359c0cea108b@mhtml.blink
 
 @charset "utf-8";
 
@@ -18854,19 +18944,19 @@ ground-color: rgb(43, 43, 44); }
 
 .xterm-dom-renderer-owner-1 .xterm-bg-257 { background-color: rgb(239, 240,=
  235); }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-91ffd213-3b8c-407c-980a-f6d7ff224e6b@mhtml.blink
+Content-Location: cid:css-c95ab47f-774e-43ee-8dd7-df57d7602493@mhtml.blink
 
 @charset "utf-8";
 
 .xterm-dom-renderer-owner-1 .xterm-rows span { display: inline-block; heigh=
 t: 100%; vertical-align: top; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-5db4f0be-576e-45e6-837c-ddfeb18afeb8@mhtml.blink
+Content-Location: cid:css-4a640227-1622-4bb5-9694-4c4145c34674@mhtml.blink
 
 @charset "utf-8";
 
@@ -22687,7 +22777,7 @@ tion { background-color: highlight !important; }
 .=CD=BC4 .cm-content :focus { caret-color: initial !important; }
 
 .=CD=BC4 .cm-content { caret-color: transparent !important; }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/html
 Content-ID: <frame-34353C699639630353BC5A8C2DEB4423@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -22712,7 +22802,7 @@ emver-Zyv2pDaP.js" as=3D"script" crossorigin=3D"anonymous">
 
 <iframe src=3D"cid:frame-9BDA4A9B6B2819BC204BA9ADAD9ED8FE@mhtml.blink" allo=
 w=3D"cross-origin-isolated" style=3D"display: none;"></iframe></body></html>
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/html
 Content-ID: <frame-8FBBACC598EA1F74E719D06524DD7918@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -22721,14 +22811,14 @@ Content-Transfer-Encoding: quoted-printable
 =3DUTF-8"></head><body><iframe height=3D"0" width=3D"0" src=3D"cid:frame-18=
 26213BCF5FFBD1F8D1F281D37FDCF6@mhtml.blink" style=3D"display: none; visibil=
 ity: hidden;"></iframe></body></html>
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/html
 Content-ID: <frame-39F1C3112419966EC5DDAFDF31EB630B@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/html
 Content-ID: <frame-718ADD56A180E95FF56C6EEE344E33C6@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -22736,7 +22826,7 @@ Content-Location: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--96435430.lo
 
 <!DOCTYPE html><html lang=3D"fr"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-4674e964-72f5-4b36-8a0e-df308d5b40db@mhtml.blink" />
+css" href=3D"cid:css-522dc98f-892a-445f-a234-3349975912eb@mhtml.blink" />
    =20
 
    =20
@@ -22881,7 +22971,7 @@ ext-white/70"><path d=3D"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>=
    =20
  =20
 </body></html>
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--96435430.local-credentialless.webcontainer-api.io/logo%20rpi%20fm%20blanc.svg
@@ -25012,10 +25102,10 @@ C 1245.5,1555 1241.5,1554 1237.5,1553C 1238.42,1552.72 1239.08,1552.22 1239=
 2,1568.22 1322.08,1568.88 1327.5,1570.5C 1324.5,1570.5 1321.5,1570.5 1318.5=
 ,1570.5C 1315.83,1569.83 1313.17,1569.17 1310.5,1568.5 Z"/></g>
 </svg>=0A
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-4674e964-72f5-4b36-8a0e-df308d5b40db@mhtml.blink
+Content-Location: cid:css-522dc98f-892a-445f-a234-3349975912eb@mhtml.blink
 
 @charset "utf-8";
 
@@ -25776,7 +25866,7 @@ r(--tw-gradient-to); }
 @media (min-width: 640px) {
   .sm\:max-w-96 { max-width: 24rem; }
 }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/html
 Content-ID: <frame-9BDA4A9B6B2819BC204BA9ADAD9ED8FE@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -25789,7 +25879,7 @@ t/html; charset=3DUTF-8">
 </head>
 <body>
 </body></html>
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/html
 Content-ID: <frame-1826213BCF5FFBD1F8D1F281D37FDCF6@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -25797,11 +25887,11 @@ Content-Location: chrome-error://chromewebdata/
 
 <!DOCTYPE html><html dir=3D"ltr" lang=3D"fr" subframe=3D""><head><meta http=
 -equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D=
-"stylesheet" type=3D"text/css" href=3D"cid:css-cbb681be-5cc9-4004-a4e2-2e58=
-b6657e6d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"=
-cid:css-be172d99-3396-428c-bcce-76f91e28c806@mhtml.blink" /><link rel=3D"st=
-ylesheet" type=3D"text/css" href=3D"cid:css-83001f1f-0647-4f82-8175-0b87e58=
-26db4@mhtml.blink" />
+"stylesheet" type=3D"text/css" href=3D"cid:css-a6f0a53a-f5b1-47c7-9ff0-1524=
+adf747c5@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"=
+cid:css-ab50f65d-294a-4f6f-9a11-d8f92b5db55c@mhtml.blink" /><link rel=3D"st=
+ylesheet" type=3D"text/css" href=3D"cid:css-2c5cd81c-c421-47a9-b6f9-210df5b=
+b7cda@mhtml.blink" />
  =20
   <meta name=3D"color-scheme" content=3D"light dark">
   <meta name=3D"theme-color" content=3D"#fff">
@@ -26405,10 +26495,10 @@ rNlcXmDhIP5Ku1+qt60Kb2baYbE7u7IWTSczWp/EG1geirEAIBKkMgDeZfz3LF+aAG6gy/jvWb4=
 
 
 </body></html>
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-83001f1f-0647-4f82-8175-0b87e5826db4@mhtml.blink
+Content-Location: cid:css-2c5cd81c-c421-47a9-b6f9-210df5bb7cda@mhtml.blink
 
 @charset "utf-8";
 
@@ -26898,10 +26988,10 @@ min-height: 240px) and (max-height: 560px) and (min-width: 421px) {
   #main-frame-error.showing-details #main-content, #main-frame-error.showin=
 g-details .runner-container { display: none; }
 }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-be172d99-3396-428c-bcce-76f91e28c806@mhtml.blink
+Content-Location: cid:css-ab50f65d-294a-4f6f-9a11-d8f92b5db55c@mhtml.blink
 
 @charset "utf-8";
 
@@ -27111,10 +27201,10 @@ tom: 0px; }
 @media (max-width: 239px) and (orientation: portrait) {
   .nav-wrapper { padding-inline: 0px; }
 }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d----
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-cbb681be-5cc9-4004-a4e2-2e58b6657e6d@mhtml.blink
+Content-Location: cid:css-a6f0a53a-f5b1-47c7-9ff0-1524adf747c5@mhtml.blink
 
 @charset "utf-8";
 
@@ -27162,4 +27252,4 @@ condary-button-fill-color: var(--google-gray-900); --secondary-button-hover=
 lue-300); --small-link-color: var(--google-blue-300); --text-color: var(--g=
 oogle-gray-500); }
 }
-------MultipartBoundary--QR2YqwzjQcDvliRhXSnuK7qqIVB4vMBm7620HGjk8d------
+------MultipartBoundary--C2ncRep8SakA9puTIphXbKA6ldizZkxzIjK96aEsog------

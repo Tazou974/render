@@ -1,14 +1,14 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://bolt.new/~/sb1-hlwlczzn
 Subject: RPI Radio Player App
-Date: Tue, 26 Aug 2025 10:16:10 +0400
+Date: Tue, 26 Aug 2025 10:24:59 +0400
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----"
+	boundary="----MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----"
 
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/html
 Content-ID: <frame-4014CE7526AF29B4A69BB6C073E62B5B@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -16,17 +16,17 @@ Content-Location: https://bolt.new/~/sb1-hlwlczzn
 
 <!DOCTYPE html><html lang=3D"en" data-theme=3D"dark" data-theme-option=3D"d=
 ark"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
-=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b9005c=
-6f-9841-4ca8-a4f9-ba0e22c09bb7@mhtml.blink" /><link rel=3D"stylesheet" type=
-=3D"text/css" href=3D"cid:css-61a3cee5-834c-40e4-b3d1-33477a703908@mhtml.bl=
-ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-201b7fbf-=
-6a65-4173-a811-060e6d8a1317@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
-"text/css" href=3D"cid:css-89c213e5-3653-4032-8ab1-8678637b8f7d@mhtml.blink=
-" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-acd9db9b-22b=
-d-4f8c-b769-e3e21f4ee239@mhtml.blink" /><link rel=3D"stylesheet" type=3D"te=
-xt/css" href=3D"cid:css-66eccbc6-91fb-41e8-af2a-7d6ce637c746@mhtml.blink" /=
-><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3720284d-9614-4=
-fc3-949d-381a8703c84b@mhtml.blink" /><!--remix-island-start--><meta name=3D=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-028a0c=
+66-6691-466a-a1e6-44220539e0b6@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-2f7f0fb3-80d7-4c49-81f8-c78bc1d4dd16@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b0a8cebd-=
+4df1-4af0-9fc8-ead214f0aab7@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-92504ad2-21f3-43f8-a145-7510cbc9a72f@mhtml.blink=
+" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c79c1170-308=
+b-4a14-8ac0-6a04a670e075@mhtml.blink" /><link rel=3D"stylesheet" type=3D"te=
+xt/css" href=3D"cid:css-76b3fd3c-e175-440f-a064-d255be602058@mhtml.blink" /=
+><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-14fb2074-1803-4=
+785-8355-542d05b0de41@mhtml.blink" /><!--remix-island-start--><meta name=3D=
 "viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><title>RPI R=
 adio Player App</title><meta property=3D"og:type" content=3D"object"><meta =
 property=3D"og:site_name" content=3D"bolt.new"><meta property=3D"og:title" =
@@ -105,7 +105,7 @@ enter font-medium shrink-0 min-w-0 max-w-full rounded-md focus-visible:outl=
 ine-2 disabled:op-50 relative disabled:cursor-not-allowed text-xs px-2 h-7 =
 focus-visible:outline-bolt-ds-brandHighlight bg-bolt-ds-inverseSurface/10 [=
 &amp;:hover:where(:not(:disabled))]:bg-bolt-ds-inverseSurface/15 text-bolt-=
-ds-textPrimary gap-1.7 w-[130px]" type=3D"button" id=3D"radix-:rc8:" aria-h=
+ds-textPrimary gap-1.7 w-[130px]" type=3D"button" id=3D"radix-:rcm:" aria-h=
 aspopup=3D"menu" aria-expanded=3D"false" data-state=3D"closed"><span class=
 =3D"truncate"><div class=3D"flex items-center gap-1.7"><span class=3D"block=
  i-heroicons:squares-plus text-lg"></span>Integrations<span class=3D"block =
@@ -3048,44 +3048,44 @@ s-visible:outline-bolt-ds-brandHighlight bg-transparent [&amp;:hover:where(=
 :not(:disabled))]:bg-bolt-ds-inverseSurface/10 text-bolt-ds-textPrimary" ty=
 pe=3D"button" data-state=3D"closed"><span class=3D"truncate"><div class=3D"=
 flex flex-row items-center gap-1.5"><div class=3D"i-ph:clock-counter-clockw=
-ise text-lg"></div>Undo</div></span></button></div></div><div class=3D"flex=
--1 flex items-center bg-bolt-elements-artifacts-background px-2"><button cl=
-ass=3D"flex items-center text-bolt-elements-item-contentDefault bg-transpar=
-ent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements=
--item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-=
-1" aria-expanded=3D"true" aria-controls=3D"bolt-collapsible-:rc2:" aria-lab=
-el=3D"Close"><div class=3D"i-ph:caret-up text-lg"></div></button></div></di=
-v><div id=3D"bolt-collapsible-:rc2:" style=3D"height: auto; visibility: vis=
-ible;"><div class=3D"bg-bolt-elements-artifacts-borderColor h-[1px]"></div>=
-<div class=3D"actions p-5 text-left bg-bolt-elements-actions-background"><u=
-l class=3D"list-none space-y-2.5"><li style=3D"opacity: 1; transform: none;=
+ise text-lg"></div>Revert</div></span></button></div></div><div class=3D"fl=
+ex-1 flex items-center bg-bolt-elements-artifacts-background px-2"><button =
+class=3D"flex items-center text-bolt-elements-item-contentDefault bg-transp=
+arent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elemen=
+ts-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive =
+p-1" aria-expanded=3D"true" aria-controls=3D"bolt-collapsible-:rc2:" aria-l=
+abel=3D"Close"><div class=3D"i-ph:caret-up text-lg"></div></button></div></=
+div><div id=3D"bolt-collapsible-:rc2:" style=3D"height: auto; visibility: v=
+isible;"><div class=3D"bg-bolt-elements-artifacts-borderColor h-[1px]"></di=
+v><div class=3D"actions p-5 text-left bg-bolt-elements-actions-background">=
+<ul class=3D"list-none space-y-2.5"><li style=3D"opacity: 1; transform: non=
+e;"><button class=3D"group select-none flex gap-1.5 text-sm bg-transparent =
+text-left hover:underline"><div class=3D"flex items-center gap-1.5"><div cl=
+ass=3D"text-lg text-bolt-elements-icon-success"><div class=3D"i-ph:check"><=
+/div></div>Update</div><span><code class=3D"select-text bg-bolt-elements-ar=
+tifacts-inlineCode-background px-1.5 py-1 rounded-md break-all text-bolt-el=
+ements-artifacts-inlineCode-text">render-deploy/server.js</code></span></bu=
+tton></li><li style=3D"opacity: 1; transform: none;"><button class=3D"group=
+ select-none flex gap-1.5 text-sm bg-transparent text-left text-bolt-elemen=
+ts-item-contentAccent pointer-events-none"><div class=3D"flex items-center =
+gap-1.5"><div class=3D"text-lg text-bolt-elements-icon-success"><div class=
+=3D"i-ph:check"></div></div>Create</div><span><code class=3D"select-text bg=
+-bolt-elements-artifacts-inlineCode-background px-1.5 py-1 rounded-md break=
+-all">render-deploy/package.json</code></span></button></li><li style=3D"op=
+acity: 1; transform: none;"><button class=3D"group select-none flex gap-1.5=
+ text-sm bg-transparent text-left hover:underline"><div class=3D"flex items=
+-center gap-1.5"><div class=3D"text-lg text-bolt-elements-icon-success"><di=
+v class=3D"i-ph:check"></div></div>Create</div><span><code class=3D"select-=
+text bg-bolt-elements-artifacts-inlineCode-background px-1.5 py-1 rounded-m=
+d break-all text-bolt-elements-artifacts-inlineCode-text">render-deploy/REA=
+DME.md</code></span></button></li><li style=3D"opacity: 1; transform: none;=
 "><button class=3D"group select-none flex gap-1.5 text-sm bg-transparent te=
 xt-left hover:underline"><div class=3D"flex items-center gap-1.5"><div clas=
 s=3D"text-lg text-bolt-elements-icon-success"><div class=3D"i-ph:check"></d=
 iv></div>Update</div><span><code class=3D"select-text bg-bolt-elements-arti=
 facts-inlineCode-background px-1.5 py-1 rounded-md break-all text-bolt-elem=
-ents-artifacts-inlineCode-text">render-deploy/server.js</code></span></butt=
-on></li><li style=3D"opacity: 1; transform: none;"><button class=3D"group s=
-elect-none flex gap-1.5 text-sm bg-transparent text-left text-bolt-elements=
--item-contentAccent pointer-events-none"><div class=3D"flex items-center ga=
-p-1.5"><div class=3D"text-lg text-bolt-elements-icon-success"><div class=3D=
-"i-ph:check"></div></div>Create</div><span><code class=3D"select-text bg-bo=
-lt-elements-artifacts-inlineCode-background px-1.5 py-1 rounded-md break-al=
-l">render-deploy/package.json</code></span></button></li><li style=3D"opaci=
-ty: 1; transform: none;"><button class=3D"group select-none flex gap-1.5 te=
-xt-sm bg-transparent text-left hover:underline"><div class=3D"flex items-ce=
-nter gap-1.5"><div class=3D"text-lg text-bolt-elements-icon-success"><div c=
-lass=3D"i-ph:check"></div></div>Create</div><span><code class=3D"select-tex=
-t bg-bolt-elements-artifacts-inlineCode-background px-1.5 py-1 rounded-md b=
-reak-all text-bolt-elements-artifacts-inlineCode-text">render-deploy/README=
-.md</code></span></button></li><li style=3D"opacity: 1; transform: none;"><=
-button class=3D"group select-none flex gap-1.5 text-sm bg-transparent text-=
-left hover:underline"><div class=3D"flex items-center gap-1.5"><div class=
-=3D"text-lg text-bolt-elements-icon-success"><div class=3D"i-ph:check"></di=
-v></div>Update</div><span><code class=3D"select-text bg-bolt-elements-artif=
-acts-inlineCode-background px-1.5 py-1 rounded-md break-all text-bolt-eleme=
-nts-artifacts-inlineCode-text">src/services/chatService.ts</code></span></b=
-utton></li></ul></div></div></div>
+ents-artifacts-inlineCode-text">src/services/chatService.ts</code></span></=
+button></li></ul></div></div></div>
 <p>Parfait ! J'ai cr=C3=A9=C3=A9 le dossier <code>render-deploy/</code> ave=
 c tous les fichiers pr=C3=AAts pour l'upload ! =F0=9F=93=81=E2=9C=A8</p>
 <h2>=F0=9F=8E=AF <strong>Vos fichiers sont pr=C3=AAts dans <code>render-dep=
@@ -3147,169 +3147,259 @@ ps://rpi-radio-chat.onrender.com/chat</span></span>
 =C3=A0 jour automatiquement l'app React !</p>
 <p><strong>Tous vos fichiers sont pr=C3=AAts dans le dossier <code>render-d=
 eploy/</code> ! Allez-y !</strong> =F0=9F=8E=89</p></div></div></div></div>=
-<div class=3D"_Shadow_8mvus_1 h-6 sticky flex flex-col justify-center w-ful=
-l -mb-6" style=3D"bottom: 153px;"></div></section><div class=3D"sticky h-0 =
-mx-auto z-scroller" style=3D"bottom: 203px; opacity: 1; visibility: initial=
-; transform: none;"><button class=3D"flex items-center justify-center size-=
-8 rounded-full shadow shadow-bolt-elements-messages-scroller-shadow bg-bolt=
--elements-messages-scroller-background text-bolt-elements-messages-scroller=
--icon"><div class=3D"i-ph:arrow-down size-4.5"></div></button></div><div cl=
-ass=3D"px-[var(--chat-padding)] w-full max-w-chat mx-auto z-prompt sticky b=
-ottom-0"><div class=3D"absolute inset-y-0" style=3D"left: var(--chat-paddin=
-g); right: var(--chat-padding);"></div><div class=3D"relative" style=3D"hei=
-ght: 0px;"><div class=3D"flex flex-wrap justify-between py-1 px-2 -top-px a=
-bsolute transition-opacity duration-350 rounded-t-lg text-xs truncate borde=
-r left-2 w-[calc(100%-1rem)] border-b-0 border-bolt-elements-borderColor bg=
--bolt-elements-prompt-subscribeButton-background backdrop-blur opacity-0"><=
-span>15.7M monthly tokens remaining.</span><button class=3D"bg-transparent =
-font-medium inline-block text-bolt-elements-link hover:underline mr-4" data=
--testid=3D"subscribe-banner-button">Subscribe to Pro 50 for 2x more usage</=
-button><button class=3D"flex items-center text-bolt-elements-item-contentDe=
-fault bg-transparent rounded-md disabled:cursor-not-allowed enabled:hover:t=
-ext-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-item-ba=
-ckgroundActive p-0.5 absolute top-1 right-1"><div class=3D"i-ph:x text-xs">=
-</div></button></div></div><div class=3D"relative shadow-xs p-[1px] overflo=
-w-clip rounded-[0.375rem]"><div class=3D"absolute inset-0 bg-bolt-elements-=
-prompt-border -z-1"></div><div class=3D"_PromptContainer_1k1wl_1 absolute t=
-op-0 left-0 right-0 h-[136px] rounded-[calc(0.375rem-1px)] -z-1"></div><div=
- class=3D"absolute top-0 left-[10px] h-px w-[100px] bg-gradient-to-r from-a=
-ccent-300/0 via-accent-300 to-accent-300/0 mix-blend-overlay"></div><div cl=
-ass=3D"bg-bolt-elements-prompt-background rounded-[calc(0.375rem-1px)]"><di=
-v class=3D"border-transparent" style=3D"height: 0px;"><div class=3D"overflo=
-w-hidden h-full border-bolt-elements-borderColor relative bg-bolt-elements-=
-background-depth-2 transition-opacity duration-200 rounded-t-[0.44rem] bord=
-er-b-px left-0 right-0 opacity-0"><div class=3D"flex py-2.5 px-2.5 font-med=
-ium text-xs"><div class=3D"flex justify-between items-center w-full"><div><=
-/div><button class=3D"bg-transparent text-bolt-elements-link hover:underlin=
-e">Clear</button></div></div></div></div><div class=3D"border-b-px border-t=
-ransparent" style=3D"height: 0px;"><div class=3D"overflow-hidden h-full bor=
-der-bolt-elements-borderColor relative bg-bolt-elements-background-depth-2 =
-transition-opacity duration-200 rounded-t-[0.44rem] border-b-px left-0 righ=
-t-0 opacity-0"><div class=3D"flex text-xs py-1.5 px-2.5 font-medium"><div c=
-lass=3D"flex-grow"></div><button class=3D"bg-transparent text-bolt-elements=
--link hover:underline">Update</button></div></div></div><div class=3D"relat=
-ive select-none"><textarea class=3D"w-full pl-4 pt-4 pr-16 focus:outline-no=
-ne resize-none text-bolt-elements-textPrimary placeholder-bolt-elements-tex=
-tTertiary bg-transparent text-sm" placeholder=3D"How can Bolt help you toda=
-y? (or /command)" translate=3D"no" style=3D"min-height: 76px; max-height: 4=
-00px; height: 76px; overflow-y: hidden;"></textarea></div><div class=3D"fle=
-x justify-between text-sm p-4 pt-2"><div class=3D"flex gap-1 items-center">=
-<input type=3D"file" aria-hidden=3D"true" tabindex=3D"-1" accept=3D".jpg,.j=
-peg,.png,.gif,.webp,.svg,.pdf,.txt,.doc,.docx,.py,.ipynb,.js,.mjs,.cjs,.jsx=
-,.html,.css,.scss,.sass,.ts,.tsx,.java,.cs,.php,.c,.cc,.cpp,.cxx,.h,.hh,.hp=
-p,.rs,.swift,.go,.rb,.kt,.kts,.scala,.sh,.bash,.zsh,.bat,.csv,.log,.ini,.cf=
-g,.config,.json,.yaml,.yml,.toml,.lua,.sql,.md,.tex,.latex,.asm,.ino,.s" mu=
-ltiple=3D"" style=3D"display: none; visibility: hidden;"><button class=3D"f=
-lex items-center text-bolt-elements-item-contentDefault bg-transparent roun=
-ded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements-item-co=
-ntentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-1" aria-=
-label=3D"Upload files" data-state=3D"closed"><div class=3D"i-ph:link-simple=
- text-xl"></div></button><button class=3D"flex items-center text-bolt-eleme=
-nts-item-contentDefault bg-transparent rounded-md disabled:cursor-not-allow=
-ed enabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bol=
-t-elements-item-backgroundActive p-1 opacity-30" data-state=3D"closed" disa=
-bled=3D""><div class=3D"i-bolt:stars text-xl"></div></button><button class=
+<div class=3D"relative flex flex-col overflow-hidden mx-[var(--chat-padding=
+)] bg-bolt-elements-messages-background px-4 py-3 rounded-md self-end" data=
+-message-id=3D"iovRhRI42lgWBcsN"><div class=3D"grid grid-col-1 w-full"><div=
+ class=3D"overflow-hidden"><div class=3D"_MarkdownContent_19116_1"><p>parse=
+ error: Invalid numeric literal at line 1, column 5</p></div></div></div></=
+div><div class=3D"relative flex flex-col overflow-hidden mx-[var(--chat-pad=
+ding)]" data-message-id=3D"hBSaUwLDsUFTtGLh"><div class=3D"grid grid-col-1 =
+w-full"><div class=3D"flex flex-col gap-4 overflow-hidden w-full"><div clas=
+s=3D"flex items-center min-h-6.5 select-none"><h3 class=3D"font-semibold fl=
+ex-1">Bolt</h3><button class=3D"flex items-center text-bolt-elements-item-c=
+ontentDefault bg-transparent rounded-md disabled:cursor-not-allowed enabled=
+:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements=
+-item-backgroundActive p-1 focus:outline-none" type=3D"button" id=3D"radix-=
+:rce:" aria-haspopup=3D"menu" aria-expanded=3D"false" data-state=3D"closed"=
+><div class=3D"i-ph:dots-three-outline-fill text-sm"></div></button></div><=
+div class=3D"_MarkdownContent_19116_1"><p>Je vois le probl=C3=A8me ! Il y a=
+ une erreur de parsing dans le fichier. Je vais corriger cela imm=C3=A9diat=
+ement ! =F0=9F=94=A7</p>
+<div class=3D"collapsible flex flex-col border border-bolt-elements-borderC=
+olor overflow-hidden rounded-lg w-full transition-border duration-150 artif=
+act" data-artifact-id=3D"26:fix-parse-error"><div class=3D"flex relative fl=
+ex-row-reverse"><div class=3D"flex text-left items-stretch w-full overflow-=
+hidden bg-bolt-elements-artifacts-background"><div class=3D"p-5 pl-0 grow t=
+ext-bolt-elements-textPrimary font-medium">Correction de l'erreur de parsin=
+g</div><div class=3D"flex items-center px-2 bg-bolt-elements-artifacts-back=
+ground"><button class=3D"flex items-center justify-center font-medium shrin=
+k-0 min-w-0 max-w-full rounded-md focus-visible:outline-2 disabled:op-50 re=
+lative disabled:cursor-not-allowed gap-1 text-xs px-2 h-7 focus-visible:out=
+line-bolt-ds-brandHighlight bg-transparent [&amp;:hover:where(:not(:disable=
+d))]:bg-bolt-ds-inverseSurface/10 text-bolt-ds-textPrimary" type=3D"button"=
+ data-state=3D"closed"><span class=3D"truncate"><div class=3D"flex flex-row=
+ items-center gap-1.5"><div class=3D"i-ph:clock-counter-clockwise text-lg">=
+</div>Undo</div></span></button></div></div><div class=3D"flex-1 flex items=
+-center bg-bolt-elements-artifacts-background px-2"><button class=3D"flex i=
+tems-center text-bolt-elements-item-contentDefault bg-transparent rounded-m=
+d disabled:cursor-not-allowed enabled:hover:text-bolt-elements-item-content=
+Active enabled:hover:bg-bolt-elements-item-backgroundActive p-1" aria-expan=
+ded=3D"true" aria-controls=3D"bolt-collapsible-:rcg:" aria-label=3D"Close">=
+<div class=3D"i-ph:caret-up text-lg"></div></button></div></div><div id=3D"=
+bolt-collapsible-:rcg:" style=3D"height: auto; visibility: visible;"><div c=
+lass=3D"bg-bolt-elements-artifacts-borderColor h-[1px]"></div><div class=3D=
+"actions p-5 text-left bg-bolt-elements-actions-background"><ul class=3D"li=
+st-none space-y-2.5"><li style=3D"opacity: 1; transform: none;"><button cla=
+ss=3D"group select-none flex gap-1.5 text-sm bg-transparent text-left hover=
+:underline"><div class=3D"flex items-center gap-1.5"><div class=3D"text-lg =
+text-bolt-elements-icon-success"><div class=3D"i-ph:check"></div></div>Upda=
+te</div><span><code class=3D"select-text bg-bolt-elements-artifacts-inlineC=
+ode-background px-1.5 py-1 rounded-md break-all text-bolt-elements-artifact=
+s-inlineCode-text">src/services/chatService.ts</code></span></button></li><=
+/ul></div></div></div>
+<p>Parfait ! J'ai corrig=C3=A9 l'erreur de parsing ! =E2=9C=85</p>
+<h2>=F0=9F=94=A7 <strong>Probl=C3=A8me r=C3=A9solu :</strong></h2>
+<ul>
+<li>=E2=9C=85 Fichier <code>chatService.ts</code> corrig=C3=A9</li>
+<li>=E2=9C=85 URL Render configur=C3=A9e par d=C3=A9faut</li>
+<li>=E2=9C=85 Code propre et fonctionnel</li>
+</ul>
+<h2>=F0=9F=9A=80 <strong>Maintenant, d=C3=A9ployez sur Render :</strong></h=
+2>
+<h3><strong>Vos fichiers sont pr=C3=AAts dans <code>render-deploy/</code> :=
+</strong></h3>
+<ul>
+<li>=E2=9C=85 <strong><code>server.js</code></strong> - Serveur WebSocket</=
+li>
+<li>=E2=9C=85 <strong><code>package.json</code></strong> - Configuration</l=
+i>
+<li>=E2=9C=85 <strong><code>README.md</code></strong> - Instructions</li>
+</ul>
+<h3><strong>=C3=89tapes simples :</strong></h3>
+<ol>
+<li><strong>Render.com</strong> =E2=86=92 <strong>Sign up</strong> gratuit<=
+/li>
+<li><strong>"New Web Service"</strong> =E2=86=92 Upload les fichiers</li>
+<li><strong>Deploy gratuit !</strong></li>
+</ol>
+<h3><strong>URL par d=C3=A9faut configur=C3=A9e :</strong></h3>
+<div class=3D"relative group text-left"><div class=3D"bg-gray-100 dark:bg-g=
+ray-800 text-gray-950 dark:text-gray-400 absolute top-[10px] right-[10px] r=
+ounded-md text-lg z-10 flex items-center justify-center opacity-0 group-hov=
+er:opacity-100"><button class=3D"flex items-center bg-transparent p-1.5 jus=
+tify-center" title=3D"Copy Code"><div class=3D"i-ph:clipboard-text"></div><=
+/button></div><div><pre class=3D"shiki dark-plus" style=3D"background-color=
+:#1E1E1E;color:#D4D4D4" tabindex=3D"0"><code><span class=3D"line"><span>wss=
+://rpi-radio-chat.onrender.com/chat</span></span>
+<span class=3D"line"><span></span></span></code></pre></div></div>
+<h2>=F0=9F=8E=AF <strong>Une fois d=C3=A9ploy=C3=A9 :</strong></h2>
+<p>Donnez-moi votre vraie URL Render et je mettrai =C3=A0 jour le code auto=
+matiquement !</p>
+<p><strong>Tout est maintenant pr=C3=AAt pour le d=C3=A9ploiement ! Allez-y=
+ !</strong> =F0=9F=8E=89</p></div></div></div></div><div class=3D"_Shadow_8=
+mvus_1 h-6 sticky flex flex-col justify-center w-full -mb-6" style=3D"botto=
+m: 153px;"></div></section><div class=3D"sticky h-0 mx-auto z-scroller" sty=
+le=3D"bottom: 203px; opacity: 0; visibility: hidden; transform: translateY(=
+32px) translateZ(0px);"><button class=3D"flex items-center justify-center s=
+ize-8 rounded-full shadow shadow-bolt-elements-messages-scroller-shadow bg-=
+bolt-elements-messages-scroller-background text-bolt-elements-messages-scro=
+ller-icon"><div class=3D"i-ph:arrow-down size-4.5"></div></button></div><di=
+v class=3D"px-[var(--chat-padding)] w-full max-w-chat mx-auto z-prompt stic=
+ky bottom-0"><div class=3D"absolute inset-y-0" style=3D"left: var(--chat-pa=
+dding); right: var(--chat-padding);"></div><div class=3D"relative" style=3D=
+"height: 0px;"><div class=3D"flex flex-wrap justify-between py-1 px-2 -top-=
+px absolute transition-opacity duration-350 rounded-t-lg text-xs truncate b=
+order left-2 w-[calc(100%-1rem)] border-b-0 border-bolt-elements-borderColo=
+r bg-bolt-elements-prompt-subscribeButton-background backdrop-blur opacity-=
+0"><span>15.5M monthly tokens remaining.</span><button class=3D"bg-transpar=
+ent font-medium inline-block text-bolt-elements-link hover:underline mr-4" =
+data-testid=3D"subscribe-banner-button">Subscribe to Pro 50 for 2x more usa=
+ge</button><button class=3D"flex items-center text-bolt-elements-item-conte=
+ntDefault bg-transparent rounded-md disabled:cursor-not-allowed enabled:hov=
+er:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-ite=
+m-backgroundActive p-0.5 absolute top-1 right-1"><div class=3D"i-ph:x text-=
+xs"></div></button></div></div><div class=3D"relative shadow-xs p-[1px] ove=
+rflow-clip rounded-[0.375rem]"><div class=3D"absolute inset-0 bg-bolt-eleme=
+nts-prompt-border -z-1"></div><div class=3D"_PromptContainer_1k1wl_1 absolu=
+te top-0 left-0 right-0 h-[136px] rounded-[calc(0.375rem-1px)] -z-1"></div>=
+<div class=3D"absolute top-0 left-[10px] h-px w-[100px] bg-gradient-to-r fr=
+om-accent-300/0 via-accent-300 to-accent-300/0 mix-blend-overlay"></div><di=
+v class=3D"bg-bolt-elements-prompt-background rounded-[calc(0.375rem-1px)]"=
+><div class=3D"border-transparent" style=3D"height: 0px;"><div class=3D"ove=
+rflow-hidden h-full border-bolt-elements-borderColor relative bg-bolt-eleme=
+nts-background-depth-2 transition-opacity duration-200 rounded-t-[0.44rem] =
+border-b-px left-0 right-0 opacity-0"><div class=3D"flex py-2.5 px-2.5 font=
+-medium text-xs"><div class=3D"flex justify-between items-center w-full"><d=
+iv></div><button class=3D"bg-transparent text-bolt-elements-link hover:unde=
+rline">Clear</button></div></div></div></div><div class=3D"border-b-px bord=
+er-transparent" style=3D"height: 0px;"><div class=3D"overflow-hidden h-full=
+ border-bolt-elements-borderColor relative bg-bolt-elements-background-dept=
+h-2 transition-opacity duration-200 rounded-t-[0.44rem] border-b-px left-0 =
+right-0 opacity-0"><div class=3D"flex text-xs py-1.5 px-2.5 font-medium"><d=
+iv class=3D"flex-grow"></div><button class=3D"bg-transparent text-bolt-elem=
+ents-link hover:underline">Update</button></div></div></div><div class=3D"r=
+elative select-none"><textarea class=3D"w-full pl-4 pt-4 pr-16 focus:outlin=
+e-none resize-none text-bolt-elements-textPrimary placeholder-bolt-elements=
+-textTertiary bg-transparent text-sm" placeholder=3D"How can Bolt help you =
+today? (or /command)" translate=3D"no" style=3D"min-height: 76px; max-heigh=
+t: 400px; height: 76px; overflow-y: hidden;"></textarea></div><div class=3D=
+"flex justify-between text-sm p-4 pt-2"><div class=3D"flex gap-1 items-cent=
+er"><input type=3D"file" aria-hidden=3D"true" tabindex=3D"-1" accept=3D".jp=
+g,.jpeg,.png,.gif,.webp,.svg,.pdf,.txt,.doc,.docx,.py,.ipynb,.js,.mjs,.cjs,=
+.jsx,.html,.css,.scss,.sass,.ts,.tsx,.java,.cs,.php,.c,.cc,.cpp,.cxx,.h,.hh=
+,.hpp,.rs,.swift,.go,.rb,.kt,.kts,.scala,.sh,.bash,.zsh,.bat,.csv,.log,.ini=
+,.cfg,.config,.json,.yaml,.yml,.toml,.lua,.sql,.md,.tex,.latex,.asm,.ino,.s=
+" multiple=3D"" style=3D"display: none; visibility: hidden;"><button class=
 =3D"flex items-center text-bolt-elements-item-contentDefault bg-transparent=
  rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements-it=
 em-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-1" =
-aria-label=3D"Toggle mode" data-state=3D"closed"><div class=3D"i-ph:chats t=
-ext-xl"></div></button><button class=3D"flex items-center text-bolt-element=
-s-item-contentDefault bg-transparent rounded-md disabled:cursor-not-allowed=
- enabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-=
-elements-item-backgroundActive p-1" aria-label=3D"Open Prompt Library" data=
--state=3D"closed"><span class=3D"i-bolt:slash-command text-bolt-ds-iconSeco=
-ndary size-5"></span></button></div><div class=3D"flex items-center gap-3">=
-</div></div></div></div><div class=3D"pb-[var(--chat-padding)]"></div></div=
-></div></div><div class=3D"z-workbench w-[var(--workbench-width)]"><div cla=
-ss=3D"fixed top-[calc(var(--header-height)+1rem)] bottom-4 w-[var(--workben=
-ch-inner-width)] z-0 left-[var(--workbench-left)]"><div class=3D"select-non=
-e absolute inset-0"><div class=3D"h-full flex flex-col bg-bolt-elements-bac=
-kground-depth-2 border border-bolt-elements-borderColor shadow-sm rounded-l=
-g overflow-hidden"><div class=3D"flex items-center px-3 py-2 border-b borde=
-r-bolt-elements-borderColor min-h-[var(--panel-header-height)]"><button cla=
-ss=3D"flex items-center text-bolt-elements-item-contentDefault bg-transpare=
-nt rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-elements-=
-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p-1=
- mr-1.5" data-state=3D"closed"><div class=3D"i-ph:sidebar-simple-fill text-=
-lg"></div></button><div class=3D"flex items-center flex-wrap shrink-0 gap-1=
- bg-bolt-elements-background-depth-1 overflow-hidden rounded-full p-1"><but=
-ton aria-pressed=3D"true" class=3D"bg-transparent text-sm px-2.5 py-0.5 rou=
-nded-full relative text-bolt-elements-item-contentAccent"><span class=3D"re=
-lative z-10">Code</span><span class=3D"absolute inset-0 z-0 bg-bolt-element=
-s-item-backgroundAccent rounded-full" style=3D"transform: none; transform-o=
-rigin: 50% 50% 0px;"></span></button><button aria-pressed=3D"false" class=
-=3D"bg-transparent text-sm px-2.5 py-0.5 rounded-full relative text-bolt-el=
-ements-item-contentDefault hover:text-bolt-elements-item-contentActive"><sp=
-an class=3D"relative z-10">Preview</span></button></div></div><div class=3D=
-"relative flex-1 overflow-hidden"><div class=3D"absolute inset-0" style=3D"=
-transform: translateX(0%) translateZ(0px);"><div class=3D"contents"><div cl=
-ass=3D"" data-panel-group=3D"" data-panel-group-direction=3D"vertical" data=
--panel-group-id=3D":r2l:" style=3D"display: flex; flex-direction: column; h=
-eight: 100%; overflow: hidden; width: 100%;"><div class=3D"" data-panel=3D"=
-" data-panel-group-id=3D":r2l:" data-panel-id=3D":r2m:" data-panel-size=3D"=
-75.0" style=3D"flex: 75 1 0px; overflow: hidden;"><div class=3D"" data-pane=
-l-group=3D"" data-panel-group-direction=3D"horizontal" data-panel-group-id=
-=3D":r2n:" style=3D"display: flex; flex-direction: row; height: 100%; overf=
-low: hidden; width: 100%;"><div class=3D"" data-panel=3D"" data-panel-colla=
-psible=3D"true" data-panel-group-id=3D":r2n:" data-panel-id=3D":r2o:" data-=
-panel-size=3D"23.0" style=3D"flex: 23 1 0px; overflow: hidden;"><div class=
-=3D"flex flex-col border-r border-bolt-elements-borderColor overflow-hidden=
- h-full"><div class=3D"relative h-full grid grid-rows-[auto_1fr] overflow-h=
-idden"><div class=3D"flex items-center bg-bolt-elements-background-depth-2 =
-text-bolt-elements-textSecondary border-b border-bolt-elements-borderColor =
-py-1 min-h-[34px] text-sm px-1.5 gap-1 @container"><button class=3D"flex it=
-ems-center bg-transparent rounded-md disabled:cursor-not-allowed enabled:ho=
-ver:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-it=
-em-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5 text-bolt-elements=
--textPrimary"><div class=3D"i-ph:tree-structure-duotone shrink-0 size-4 @[1=
-60px]:hidden @[200px]:block"></div><span class=3D"hidden @[160px]:block">Fi=
-les</span></button><button class=3D"flex items-center text-bolt-elements-it=
-em-contentDefault bg-transparent rounded-md disabled:cursor-not-allowed ena=
-bled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elem=
-ents-item-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5"><div class=
-=3D"i-ph:magnifying-glass-bold shrink-0 size-4 @[160px]:hidden @[200px]:blo=
-ck"></div><span class=3D"hidden @[160px]:block">Search</span></button><div =
-class=3D"flex-grow-1"></div></div><div class=3D"relative overflow-hidden ">=
-<div class=3D"absolute inset-0 flex flex-col" tabindex=3D"0" style=3D"opaci=
-ty: 1; transform: translateX(0%) translateZ(0px);"><div class=3D"text-sm fl=
-ex flex-col flex-grow overflow-y-auto"><div data-state=3D"closed"><div><but=
+aria-label=3D"Upload files" data-state=3D"closed"><div class=3D"i-ph:link-s=
+imple text-xl"></div></button><button class=3D"flex items-center text-bolt-=
+elements-item-contentDefault bg-transparent rounded-md disabled:cursor-not-=
+allowed enabled:hover:text-bolt-elements-item-contentActive enabled:hover:b=
+g-bolt-elements-item-backgroundActive p-1 opacity-30" data-state=3D"closed"=
+ disabled=3D""><div class=3D"i-bolt:stars text-xl"></div></button><button c=
+lass=3D"flex items-center text-bolt-elements-item-contentDefault bg-transpa=
+rent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-element=
+s-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive p=
+-1" aria-label=3D"Toggle mode" data-state=3D"closed"><div class=3D"i-ph:cha=
+ts text-xl"></div></button><button class=3D"flex items-center text-bolt-ele=
+ments-item-contentDefault bg-transparent rounded-md disabled:cursor-not-all=
+owed enabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-b=
+olt-elements-item-backgroundActive p-1" aria-label=3D"Open Prompt Library" =
+data-state=3D"closed"><span class=3D"i-bolt:slash-command text-bolt-ds-icon=
+Secondary size-5"></span></button></div><div class=3D"flex items-center gap=
+-3"></div></div></div></div><div class=3D"pb-[var(--chat-padding)]"></div><=
+/div></div></div><div class=3D"z-workbench w-[var(--workbench-width)]"><div=
+ class=3D"fixed top-[calc(var(--header-height)+1rem)] bottom-4 w-[var(--wor=
+kbench-inner-width)] z-0 left-[var(--workbench-left)]"><div class=3D"select=
+-none absolute inset-0"><div class=3D"h-full flex flex-col bg-bolt-elements=
+-background-depth-2 border border-bolt-elements-borderColor shadow-sm round=
+ed-lg overflow-hidden"><div class=3D"flex items-center px-3 py-2 border-b b=
+order-bolt-elements-borderColor min-h-[var(--panel-header-height)]"><button=
+ class=3D"flex items-center text-bolt-elements-item-contentDefault bg-trans=
+parent rounded-md disabled:cursor-not-allowed enabled:hover:text-bolt-eleme=
+nts-item-contentActive enabled:hover:bg-bolt-elements-item-backgroundActive=
+ p-1 mr-1.5" data-state=3D"closed"><div class=3D"i-ph:sidebar-simple-fill t=
+ext-lg"></div></button><div class=3D"flex items-center flex-wrap shrink-0 g=
+ap-1 bg-bolt-elements-background-depth-1 overflow-hidden rounded-full p-1">=
+<button aria-pressed=3D"true" class=3D"bg-transparent text-sm px-2.5 py-0.5=
+ rounded-full relative text-bolt-elements-item-contentAccent"><span class=
+=3D"relative z-10">Code</span><span class=3D"absolute inset-0 z-0 bg-bolt-e=
+lements-item-backgroundAccent rounded-full" style=3D"transform: none; trans=
+form-origin: 50% 50% 0px;"></span></button><button aria-pressed=3D"false" c=
+lass=3D"bg-transparent text-sm px-2.5 py-0.5 rounded-full relative text-bol=
+t-elements-item-contentDefault hover:text-bolt-elements-item-contentActive"=
+><span class=3D"relative z-10">Preview</span></button></div></div><div clas=
+s=3D"relative flex-1 overflow-hidden"><div class=3D"absolute inset-0" style=
+=3D"transform: translateX(0%) translateZ(0px);"><div class=3D"contents"><di=
+v class=3D"" data-panel-group=3D"" data-panel-group-direction=3D"vertical" =
+data-panel-group-id=3D":r2l:" style=3D"display: flex; flex-direction: colum=
+n; height: 100%; overflow: hidden; width: 100%;"><div class=3D"" data-panel=
+=3D"" data-panel-group-id=3D":r2l:" data-panel-id=3D":r2m:" data-panel-size=
+=3D"75.0" style=3D"flex: 75 1 0px; overflow: hidden;"><div class=3D"" data-=
+panel-group=3D"" data-panel-group-direction=3D"horizontal" data-panel-group=
+-id=3D":r2n:" style=3D"display: flex; flex-direction: row; height: 100%; ov=
+erflow: hidden; width: 100%;"><div class=3D"" data-panel=3D"" data-panel-co=
+llapsible=3D"true" data-panel-group-id=3D":r2n:" data-panel-id=3D":r2o:" da=
+ta-panel-size=3D"23.0" style=3D"flex: 23 1 0px; overflow: hidden;"><div cla=
+ss=3D"flex flex-col border-r border-bolt-elements-borderColor overflow-hidd=
+en h-full"><div class=3D"relative h-full grid grid-rows-[auto_1fr] overflow=
+-hidden"><div class=3D"flex items-center bg-bolt-elements-background-depth-=
+2 text-bolt-elements-textSecondary border-b border-bolt-elements-borderColo=
+r py-1 min-h-[34px] text-sm px-1.5 gap-1 @container"><button class=3D"flex =
+items-center bg-transparent rounded-md disabled:cursor-not-allowed enabled:=
+hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-elements-=
+item-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5 text-bolt-elemen=
+ts-textPrimary"><div class=3D"i-ph:tree-structure-duotone shrink-0 size-4 @=
+[160px]:hidden @[200px]:block"></div><span class=3D"hidden @[160px]:block">=
+Files</span></button><button class=3D"flex items-center text-bolt-elements-=
+item-contentDefault bg-transparent rounded-md disabled:cursor-not-allowed e=
+nabled:hover:text-bolt-elements-item-contentActive enabled:hover:bg-bolt-el=
+ements-item-backgroundActive p-1 gap-1.5 px-1 h-6 @[160px]:px-1.5"><div cla=
+ss=3D"i-ph:magnifying-glass-bold shrink-0 size-4 @[160px]:hidden @[200px]:b=
+lock"></div><span class=3D"hidden @[160px]:block">Search</span></button><di=
+v class=3D"flex-grow-1"></div></div><div class=3D"relative overflow-hidden =
+"><div class=3D"absolute inset-0 flex flex-col" tabindex=3D"0" style=3D"opa=
+city: 1; transform: translateX(0%) translateZ(0px);"><div class=3D"text-sm =
+flex flex-col flex-grow overflow-y-auto"><div data-state=3D"closed"><div><b=
+utton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-=
+transparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault ho=
+ver:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backg=
+roundActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" styl=
+e=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-right">=
+</div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cen=
+ter group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no=
+" class=3D"flex-1 truncate pr-2">.bolt</div></div></div></button></div></di=
+v><div data-state=3D"closed"><div><button class=3D"group flex items-center =
+gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-=
+bolt-elements-item-contentDefault hover:text-bolt-elements-item-contentActi=
+ve hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" dat=
+a-parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"=
+shrink-0 scale-98 i-ph:caret-right"></div><div class=3D"truncate w-full tex=
+t-left"><div class=3D"flex items-center group-hover:text-bolt-elements-item=
+-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">public=
+</div></div></div></button></div></div><div data-state=3D"closed"><div><but=
 ton class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-tr=
 ansparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hove=
 r:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgro=
-undActive" aria-pressed=3D"false" data-parent-path=3D"/home/project" style=
-=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-right"><=
-/div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cent=
-er group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no"=
- class=3D"flex-1 truncate pr-2">.bolt</div></div></div></button></div></div=
-><div data-state=3D"closed"><div><button class=3D"group flex items-center g=
-ap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-transparent text-b=
-olt-elements-item-contentDefault hover:text-bolt-elements-item-contentActiv=
-e hover:bg-bolt-elements-item-backgroundActive" aria-pressed=3D"false" data=
--parent-path=3D"/home/project" style=3D"padding-left: 6px;"><div class=3D"s=
-hrink-0 scale-98 i-ph:caret-right"></div><div class=3D"truncate w-full text=
--left"><div class=3D"flex items-center group-hover:text-bolt-elements-item-=
-contentActive"><div translate=3D"no" class=3D"flex-1 truncate pr-2">public<=
-/div></div></div></button></div></div><div data-state=3D"closed"><div><butt=
-on class=3D"group flex items-center gap-1.5 w-full pr-2 border-2 border-tra=
-nsparent py-0.5 bg-transparent text-bolt-elements-item-contentDefault hover=
-:text-bolt-elements-item-contentActive hover:bg-bolt-elements-item-backgrou=
-ndActive" aria-pressed=3D"true" data-parent-path=3D"/home/project" style=3D=
-"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-down"></div=
-><div class=3D"truncate w-full text-left"><div class=3D"flex items-center g=
-roup-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" cla=
-ss=3D"flex-1 truncate pr-2">render-deploy</div></div></div></button></div><=
-/div><div data-state=3D"closed"><div><button class=3D"group flex items-cent=
-er gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-bolt-elements-=
-item-backgroundAccent text-bolt-elements-item-contentAccent" aria-pressed=
-=3D"true" data-parent-path=3D"/home/project/render-deploy" style=3D"padding=
--left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone"></div><div=
- class=3D"truncate w-full text-left"><div class=3D"flex items-center"><div =
-translate=3D"no" class=3D"flex-1 truncate pr-2">package.json</div></div></d=
-iv></button></div></div><div data-state=3D"closed"><div><button class=3D"gr=
-oup flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0.=
-5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-ele=
-ments-item-contentActive hover:bg-bolt-elements-item-backgroundActive" aria=
--pressed=3D"false" data-parent-path=3D"/home/project/render-deploy" style=
+undActive" aria-pressed=3D"true" data-parent-path=3D"/home/project" style=
+=3D"padding-left: 6px;"><div class=3D"shrink-0 scale-98 i-ph:caret-down"></=
+div><div class=3D"truncate w-full text-left"><div class=3D"flex items-cente=
+r group-hover:text-bolt-elements-item-contentActive"><div translate=3D"no" =
+class=3D"flex-1 truncate pr-2">render-deploy</div></div></div></button></di=
+v></div><div data-state=3D"closed"><div><button class=3D"group flex items-c=
+enter gap-1.5 w-full pr-2 border-2 border-transparent py-0.5 bg-bolt-elemen=
+ts-item-backgroundAccent text-bolt-elements-item-contentAccent" aria-presse=
+d=3D"true" data-parent-path=3D"/home/project/render-deploy" style=3D"paddin=
+g-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone"></div><di=
+v class=3D"truncate w-full text-left"><div class=3D"flex items-center"><div=
+ translate=3D"no" class=3D"flex-1 truncate pr-2">package.json</div></div></=
+div></button></div></div><div data-state=3D"closed"><div><button class=3D"g=
+roup flex items-center gap-1.5 w-full pr-2 border-2 border-transparent py-0=
+.5 bg-transparent text-bolt-elements-item-contentDefault hover:text-bolt-el=
+ements-item-contentActive hover:bg-bolt-elements-item-backgroundActive" ari=
+a-pressed=3D"false" data-parent-path=3D"/home/project/render-deploy" style=
 =3D"padding-left: 14px;"><div class=3D"shrink-0 scale-98 i-ph:file-duotone =
 group-hover:text-bolt-elements-item-contentActive"></div><div class=3D"trun=
 cate w-full text-left"><div class=3D"flex items-center group-hover:text-bol=
@@ -3946,7 +4036,7 @@ tate=3D"closed"><div class=3D"i-ph:caret-down text-md"></div></button></div=
 anel" id=3D"bolt-terminal-tapbanel-0" aria-labelledby=3D"bolt-terminal-tab-=
 0"><div dir=3D"ltr" class=3D"terminal xterm xterm-dom-renderer-owner-1"><di=
 v class=3D"xterm-viewport" style=3D"background-color: rgb(16, 16, 16);"><di=
-v class=3D"xterm-scroll-area" style=3D"height: 780px;"></div></div><div cla=
+v class=3D"xterm-scroll-area" style=3D"height: 795px;"></div></div><div cla=
 ss=3D"xterm-screen" style=3D"width: 1316px; height: 120px;"><div class=3D"x=
 term-helpers"><textarea class=3D"xterm-helper-textarea" aria-label=3D"Termi=
 nal input" aria-multiline=3D"false" autocorrect=3D"off" autocapitalize=3D"o=
@@ -3965,11 +4055,11 @@ an class=3D"xterm-char-measure-element" style=3D"font-weight: bold; font-st=
 yle: italic;"></span></div></div><div class=3D"xterm-rows" aria-hidden=3D"t=
 rue" style=3D"line-height: normal; letter-spacing: 0px;"><div style=3D"widt=
 h: 1316px; height: 15px; line-height: 15px; overflow: hidden;"><span class=
-=3D"xterm-dim">10:12:27</span><span> </span><span class=3D"xterm-bold xterm=
+=3D"xterm-dim">10:24:05</span><span> </span><span class=3D"xterm-bold xterm=
 -fg-14">[vite]</span><span> </span><span class=3D"xterm-fg-2">hmr update </=
 span><span class=3D"xterm-dim">/src/components/RadioPlayer.tsx, /src/index.=
 css, /src/components/ChatBox.tsx</span><span> </span><span class=3D"xterm-f=
-g-3">(x4)</span></div><div style=3D"width: 1316px; height: 15px; line-heigh=
+g-3">(x5)</span></div><div style=3D"width: 1316px; height: 15px; line-heigh=
 t: 15px; overflow: hidden;"><span> </span></div><div style=3D"width: 1316px=
 ; height: 15px; line-height: 15px; overflow: hidden;"></div><div style=3D"w=
 idth: 1316px; height: 15px; line-height: 15px; overflow: hidden;"></div><di=
@@ -4340,21 +4430,21 @@ iv><div id=3D"chmln-prefetch-images"></div><iframe id=3D"chmln-reference-if=
 rame" style=3D"height: 0; width: 0; display: none !important"></iframe></di=
 v><div class=3D"=CD=BC1 =CD=BC3 =CD=BC4 =CD=BC1x =CD=BCn" style=3D"position=
 : relative;"></div></body></html>
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/gif
 Content-Transfer-Encoding: base64
 Content-Location: https://analytics.twitter.com/1/i/adsct?bci=4&dv=Indian%2FReunion%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261040%260%26na&eci=3&event=%7B%7D&event_id=191db79d-dc8d-403c-9b72-f4cfe3df249d&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e033095d-9fed-4674-953b-c5fb1a9001c5&tw_document_href=https%3A%2F%2Fbolt.new%2F~%2Fsb1-hlwlczzn&tw_iframe_status=0&txn_id=p6wej&type=javascript&version=2.3.33
 
 R0lGODlhAQABAIAAAP///wAAACH5BAkAAAEALAAAAAABAAEAAAICTAEAOw==
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/gif
 Content-Transfer-Encoding: base64
 Content-Location: https://t.co/1/i/adsct?bci=4&dv=Indian%2FReunion%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261040%260%26na&eci=3&event=%7B%7D&event_id=191db79d-dc8d-403c-9b72-f4cfe3df249d&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e033095d-9fed-4674-953b-c5fb1a9001c5&tw_document_href=https%3A%2F%2Fbolt.new%2F~%2Fsb1-hlwlczzn&tw_iframe_status=0&txn_id=p6wej&type=javascript&version=2.3.33
 
 R0lGODlhAQABAIAAAP///wAAACH5BAkAAAEALAAAAAABAAEAAAICTAEAOw==
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-feedback.svg
@@ -4391,7 +4481,7 @@ b836d"/>
   </g>
 </svg>
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-alert.svg
@@ -4421,7 +4511,7 @@ ht=3D"3.805" rx=3D"1.902" transform=3D"translate(485.504 398.799) rotate(13=
   </g>
 </svg>
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-key2.svg
@@ -4467,7 +4557,7 @@ t)"/>
   </g>
 </svg>
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-success.svg
@@ -4496,7 +4586,7 @@ ht=3D"17.219" rx=3D"2" transform=3D"translate(486.988 397.454) rotate(135)"=
  fill=3D"#09f"/>
   </g>
 </svg>=0A
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-sync.svg
@@ -4517,7 +4607,7 @@ a5.526,5.526,0,0,1-9.43,3.944L4.368,13.833A8.05,8.05,0,0,0,18.129,8.149h1.1=
 9c93c"/>
 </svg>
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/ts-free-logo.png
@@ -4604,7 +4694,7 @@ F3fp5bZQN2+/EaX+gAkU5I50dmRDt/zXKSj+KHgjC++qMf68sCPD+tMdiNMFy5JAdbnJdQPJr90C
 mXxXGT1QOW5zUtsCNWZnawtUzo3MO9gq78ZzTKCz68J+nRm2C1V1Kspp6GDnFrQTBKug0xXc7NA1
 FrgJTNfYscul3ASmy03aNQJvAtM1duxyKf8P87k2o2b8GPsAAAAASUVORK5CYII=
 
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/css/custom.css
@@ -5474,7 +5564,7 @@ icy-text { color: rgb(137, 137, 137); text-align: left; font-size: 12px; }
 #yf-bt-wrapper .faq-text ol { padding-left: 25px; }
 
 #yf-bt-wrapper .faq-text ol li { margin-bottom: 10px; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://stackblitz.com/avatars/S/319.svg
@@ -5489,7 +5579,7 @@ erif" font-size=3D"54">
 ddle">S</tspan>
   </text>
 </svg>=0A
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/meta-CzqnVCjZ.css
@@ -5594,7 +5684,7 @@ x solid rgb(223, 226, 229); }
 
 ._MarkdownContent_19116_1 table tr:nth-child(2n) { background-color: rgb(24=
 6, 248, 250); }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/Chat-DEw1q4XJ.css
@@ -5840,7 +5930,7 @@ in; }
   0% { opacity: 0; transform: translateY(var(--translate-y, 10px)); }
   100% { opacity: 1; transform: translateY(0px); }
 }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/useTeamInvites-2lP7qIO8.css
@@ -5867,7 +5957,7 @@ ign: left; color: var(--bolt-ds-text-secondary); }
 ._suggestionHighlighted_1i6ch_24, ._suggestion_1i6ch_9:hover { background-c=
 olor: var(--bolt-elements-actions-code-background); --un-text-opacity: 1; c=
 olor: rgba(var(--bolt-ds-text-primary),var(--un-text-opacity)); }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
@@ -6029,7 +6119,7 @@ LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
 LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
 +131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
 0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/xterm-LZoznX6r.css
@@ -6118,7 +6208,7 @@ n-top-layer { z-index: 7; }
 ; right: 0px; pointer-events: none; }
 
 .xterm-decoration-top { z-index: 2; position: relative; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/index-Blfkm6m7.css
@@ -6635,7 +6725,7 @@ html[data-theme=3D"dark"] { color-scheme: dark; }
 
 .selection-accent ::selection { background: var(--bolt-elements-textSelecti=
 on-background); color: var(--bolt-elements-textSelection-text); }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/tailwind-compat-Bwh-BmjE.css
@@ -6727,7 +6817,7 @@ tical-align: middle; }
 img, video { max-width: 100%; height: auto; }
 
 [hidden] { display: none; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/ReactToastify-Bh76j7cs.css
@@ -7140,7 +7230,7 @@ wn; animation-timing-function: ease-in; animation-duration: 0.3s; }
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/LightRays-apN2LHcc.css
@@ -7181,7 +7271,7 @@ x; height: 370px; top: -330px; left: 50px; mix-blend-mode: overlay; opacity=
 ._RayContainer_1ti3k_1 ._RayFive_1ti3k_65 { position: absolute; width: 110p=
 x; height: 400px; transform: rotate(-40deg); top: -280px; left: -10px; mix-=
 blend-mode: overlay; opacity: 0.8; filter: blur(60px); }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://bolt.new/assets/root-DV9FmPU1.css
@@ -14488,10 +14578,10 @@ rder-outline); }
 @media (min-width: 1536px) {
   .\32 xl\:max-w-\[70rem\] { max-width: 70rem; }
 }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-3720284d-9614-4fc3-949d-381a8703c84b@mhtml.blink
+Content-Location: cid:css-14fb2074-1803-4785-8355-542d05b0de41@mhtml.blink
 
 @charset "utf-8";
 
@@ -14502,17 +14592,17 @@ Content-Location: cid:css-3720284d-9614-4fc3-949d-381a8703c84b@mhtml.blink
 [data-theme=3D"dark"] .chmln-helpbar-widget { background-color: rgb(30, 30,=
  30) !important; color: rgb(241, 241, 241) !important; border-color: rgb(51=
 , 51, 51) !important; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-66eccbc6-91fb-41e8-af2a-7d6ce637c746@mhtml.blink
+Content-Location: cid:css-76b3fd3c-e175-440f-a064-d255be602058@mhtml.blink
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-acd9db9b-22bd-4f8c-b769-e3e21f4ee239@mhtml.blink
+Content-Location: cid:css-c79c1170-308b-4a14-8ac0-6a04a670e075@mhtml.blink
 
 @charset "utf-8";
 
@@ -16634,19 +16724,19 @@ ground-color: rgb(43, 43, 44); }
 
 .xterm-dom-renderer-owner-2 .xterm-bg-257 { background-color: rgb(239, 240,=
  235); }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-89c213e5-3653-4032-8ab1-8678637b8f7d@mhtml.blink
+Content-Location: cid:css-92504ad2-21f3-43f8-a145-7510cbc9a72f@mhtml.blink
 
 @charset "utf-8";
 
 .xterm-dom-renderer-owner-2 .xterm-rows span { display: inline-block; heigh=
 t: 100%; vertical-align: top; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-201b7fbf-6a65-4173-a811-060e6d8a1317@mhtml.blink
+Content-Location: cid:css-b0a8cebd-4df1-4af0-9fc8-ead214f0aab7@mhtml.blink
 
 @charset "utf-8";
 
@@ -18768,19 +18858,19 @@ ground-color: rgb(43, 43, 44); }
 
 .xterm-dom-renderer-owner-1 .xterm-bg-257 { background-color: rgb(239, 240,=
  235); }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-61a3cee5-834c-40e4-b3d1-33477a703908@mhtml.blink
+Content-Location: cid:css-2f7f0fb3-80d7-4c49-81f8-c78bc1d4dd16@mhtml.blink
 
 @charset "utf-8";
 
 .xterm-dom-renderer-owner-1 .xterm-rows span { display: inline-block; heigh=
 t: 100%; vertical-align: top; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-b9005c6f-9841-4ca8-a4f9-ba0e22c09bb7@mhtml.blink
+Content-Location: cid:css-028a0c66-6691-466a-a1e6-44220539e0b6@mhtml.blink
 
 @charset "utf-8";
 
@@ -22601,7 +22691,7 @@ tion { background-color: highlight !important; }
 .=CD=BC4 .cm-content :focus { caret-color: initial !important; }
 
 .=CD=BC4 .cm-content { caret-color: transparent !important; }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/html
 Content-ID: <frame-34353C699639630353BC5A8C2DEB4423@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -22626,7 +22716,7 @@ emver-Zyv2pDaP.js" as=3D"script" crossorigin=3D"anonymous">
 
 <iframe src=3D"cid:frame-9BDA4A9B6B2819BC204BA9ADAD9ED8FE@mhtml.blink" allo=
 w=3D"cross-origin-isolated" style=3D"display: none;"></iframe></body></html>
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/html
 Content-ID: <frame-8FBBACC598EA1F74E719D06524DD7918@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -22635,14 +22725,14 @@ Content-Transfer-Encoding: quoted-printable
 =3DUTF-8"></head><body><iframe height=3D"0" width=3D"0" src=3D"cid:frame-18=
 26213BCF5FFBD1F8D1F281D37FDCF6@mhtml.blink" style=3D"display: none; visibil=
 ity: hidden;"></iframe></body></html>
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/html
 Content-ID: <frame-39F1C3112419966EC5DDAFDF31EB630B@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/html
 Content-ID: <frame-718ADD56A180E95FF56C6EEE344E33C6@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -22650,7 +22740,7 @@ Content-Location: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--96435430.lo
 
 <!DOCTYPE html><html lang=3D"fr"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-9a21d89b-1669-4ab2-957c-dac03b648288@mhtml.blink" />
+css" href=3D"cid:css-ef766490-5abb-42ff-991c-4c1f5ea3680d@mhtml.blink" />
    =20
 
    =20
@@ -22795,7 +22885,7 @@ ext-white/70"><path d=3D"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>=
    =20
  =20
 </body></html>
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--96435430.local-credentialless.webcontainer-api.io/logo%20rpi%20fm%20blanc.svg
@@ -24926,10 +25016,10 @@ C 1245.5,1555 1241.5,1554 1237.5,1553C 1238.42,1552.72 1239.08,1552.22 1239=
 2,1568.22 1322.08,1568.88 1327.5,1570.5C 1324.5,1570.5 1321.5,1570.5 1318.5=
 ,1570.5C 1315.83,1569.83 1313.17,1569.17 1310.5,1568.5 Z"/></g>
 </svg>=0A
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-9a21d89b-1669-4ab2-957c-dac03b648288@mhtml.blink
+Content-Location: cid:css-ef766490-5abb-42ff-991c-4c1f5ea3680d@mhtml.blink
 
 @charset "utf-8";
 
@@ -25690,7 +25780,7 @@ r(--tw-gradient-to); }
 @media (min-width: 640px) {
   .sm\:max-w-96 { max-width: 24rem; }
 }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/html
 Content-ID: <frame-9BDA4A9B6B2819BC204BA9ADAD9ED8FE@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -25703,7 +25793,7 @@ t/html; charset=3DUTF-8">
 </head>
 <body>
 </body></html>
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/html
 Content-ID: <frame-1826213BCF5FFBD1F8D1F281D37FDCF6@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -25711,11 +25801,11 @@ Content-Location: chrome-error://chromewebdata/
 
 <!DOCTYPE html><html dir=3D"ltr" lang=3D"fr" subframe=3D""><head><meta http=
 -equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D=
-"stylesheet" type=3D"text/css" href=3D"cid:css-577b6739-678a-46ea-8106-fbf4=
-89f752f3@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"=
-cid:css-b28abb1b-df97-4c31-a214-62a2d8b97621@mhtml.blink" /><link rel=3D"st=
-ylesheet" type=3D"text/css" href=3D"cid:css-0bd852bf-0687-43db-8173-f0c9852=
-12f51@mhtml.blink" />
+"stylesheet" type=3D"text/css" href=3D"cid:css-746298a7-59ec-49fc-9da4-06b1=
+d93a062c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"=
+cid:css-372154a9-710a-4a2a-bd79-cd5bc80da8ed@mhtml.blink" /><link rel=3D"st=
+ylesheet" type=3D"text/css" href=3D"cid:css-c0d6a2c2-4386-4fe9-b194-8c0c8d5=
+2af66@mhtml.blink" />
  =20
   <meta name=3D"color-scheme" content=3D"light dark">
   <meta name=3D"theme-color" content=3D"#fff">
@@ -26319,10 +26409,10 @@ rNlcXmDhIP5Ku1+qt60Kb2baYbE7u7IWTSczWp/EG1geirEAIBKkMgDeZfz3LF+aAG6gy/jvWb4=
 
 
 </body></html>
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-0bd852bf-0687-43db-8173-f0c985212f51@mhtml.blink
+Content-Location: cid:css-c0d6a2c2-4386-4fe9-b194-8c0c8d52af66@mhtml.blink
 
 @charset "utf-8";
 
@@ -26812,10 +26902,10 @@ min-height: 240px) and (max-height: 560px) and (min-width: 421px) {
   #main-frame-error.showing-details #main-content, #main-frame-error.showin=
 g-details .runner-container { display: none; }
 }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-b28abb1b-df97-4c31-a214-62a2d8b97621@mhtml.blink
+Content-Location: cid:css-372154a9-710a-4a2a-bd79-cd5bc80da8ed@mhtml.blink
 
 @charset "utf-8";
 
@@ -27025,10 +27115,10 @@ tom: 0px; }
 @media (max-width: 239px) and (orientation: portrait) {
   .nav-wrapper { padding-inline: 0px; }
 }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK----
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-577b6739-678a-46ea-8106-fbf489f752f3@mhtml.blink
+Content-Location: cid:css-746298a7-59ec-49fc-9da4-06b1d93a062c@mhtml.blink
 
 @charset "utf-8";
 
@@ -27076,4 +27166,4 @@ condary-button-fill-color: var(--google-gray-900); --secondary-button-hover=
 lue-300); --small-link-color: var(--google-blue-300); --text-color: var(--g=
 oogle-gray-500); }
 }
-------MultipartBoundary--Jj26LwHjfRJ7c7jfjOOFHIZqai9FFMxS88Gz2BtonK------
+------MultipartBoundary--LWfREnb8B1iQttawA7jUv1jUoi96NwIkx4WKMPAInH------
